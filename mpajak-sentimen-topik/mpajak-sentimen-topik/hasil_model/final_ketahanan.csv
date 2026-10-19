@@ -1,0 +1,9 @@
+tema,fase_puncak_BERTopic,fase_puncak_kamus,rho_4fase
+T1 Verifikasi kode OTP/email/nomor HP,2,2,1.0
+T2 Login dan kata sandi,4,4,0.8
+"T3 Pendaftaran akun, NPWP, EFIN, verifikasi data/wajah",3,1,0.0
+T4 NPWP 16 digit dan NIK,3,3,0.2
+T5 Galat umum dan web tidak dapat diakses,1,4,0.8
+T6 Pembaruan dan pemasangan aplikasi,1,1,1.0
+T7 Live chat dan konektivitas,2,2,1.0
+T8 Kritik umum terhadap pemerintah/kualitas aplikasi,3,4,0.4

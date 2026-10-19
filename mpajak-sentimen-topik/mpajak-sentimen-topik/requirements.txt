@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+google-play-scraper
+# Hanya untuk notebook (dipasang otomatis di Colab):
+# transformers, torch, bertopic, sentence-transformers, umap-learn, hdbscan

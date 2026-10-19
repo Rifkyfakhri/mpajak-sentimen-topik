@@ -1,0 +1,9 @@
+tema,1,2,3,4
+T1 Verifikasi kode OTP/email/nomor HP,0.6,7.4,-3.3,-4.5
+T2 Login dan kata sandi,-0.8,-3.8,1.5,2.9
+"T3 Pendaftaran akun, NPWP, EFIN, verifikasi data/wajah",-0.3,-3.4,2.0,1.6
+T4 NPWP 16 digit dan NIK,-2.3,2.0,3.7,-2.3
+T5 Galat umum dan web tidak dapat diakses,3.0,-1.8,-0.9,-0.7
+T6 Pembaruan dan pemasangan aplikasi,4.8,-2.6,-2.8,-0.3
+T7 Live chat dan konektivitas,0.4,4.1,-0.9,-3.3
+T8 Kritik umum terhadap pemerintah/kualitas aplikasi,-1.4,-0.5,0.3,1.6

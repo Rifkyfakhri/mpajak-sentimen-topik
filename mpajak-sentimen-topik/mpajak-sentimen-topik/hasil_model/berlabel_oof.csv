@@ -1,0 +1,992 @@
+﻿no,reviewId,at,fase,score,ulasan,sentimen_final,jenis,dipakai,sumber,pelabel,bagian,label_teman_awal,pred_indobert_oof
+1,5dd6c335-ae20-43f2-901e-406f83e4204b,2026-09-14 07:15:54,4,1,ngga apk ngga website wkwk kocak anda para pegawai negeri,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+2,cb8e00a1-254b-436e-a8c0-87500ef03e4c,2026-08-04 08:44:24,4,1,"kerja yang becus kalo masih di gaji pake pajak rakyat, masa aplikasi ganggan terus",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+3,dbf5c593-d9b5-456f-879e-0edffb62c99b,2024-03-06 15:12:33,1,5,"Membantu banget everybody, donk.",positif,,True,acak,Rifky,A_kappa_1-100,positif,positif
+4,6a75fa74-8a60-4db5-9b35-7e144041591b,2025-04-02 07:22:42,3,1,cuma biar bisa dapat efin aja sangat dipersulit. 👎,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+5,c3728fb9-93dc-48ff-904e-4ac838e071a0,2024-02-02 02:12:04,1,5,Mudah di pahami,positif,,True,acak,Rifky,A_kappa_1-100,positif,positif
+7,10edf811-9f8c-4853-ad3d-6ff8705a5797,2025-03-03 17:58:01,2,1,"Otp nya ga pernah terkirim, sekalinya terkirim sejam kemudian, sedangkan batas kode otp cuma 10 menit hehe",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+8,ba64cf2a-6359-460e-8794-b58d49b94370,2025-08-01 07:01:05,3,1,menguras pulsa pendaftaran gagal terus muter muter,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+9,6edff68c-6e49-40a9-9e52-a72cae2b4279,2026-01-09 06:58:04,4,1,"awas penipuan, report aja",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+10,1f5fc21b-df6a-4913-9faa-07b799b3d137,2025-07-03 09:38:04,3,1,"serba susah, serba ribet semua di persulit",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+11,6a57da2d-5254-4b77-b11b-626f8f179935,2024-03-19 04:06:31,1,1,Mbulet tp tetep gak bisa masuk. Beginikah punya negara indonesia,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+12,d968f98b-1600-40e1-985b-70b98f07f98d,2025-03-24 08:10:59,2,1,kita yg mau bayar pajak kita juga yg repot negara macam apa ini semua serbah sulit..,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+13,b793ec2b-3af9-4f13-af5a-fe5165203957,2026-09-24 14:36:34,4,1,"APLIKASI BIKIN EMOSI, SUDAH SESUAI KK SALAH MULU NAMA IBU KANDUNG, GW ANAK NYA LEBIH TAU NAMA IBU KANDUNG MALAH SALAH MULU !!!!! GAJELAS TIDAK RAMAH",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+14,c27eeda7-b2e0-4f28-9faf-c5bdfe3e325a,2024-02-20 18:36:45,1,1,Ribet mau daftar NPWP susah .. padahal buat gaji Luh juga dari rakyat.. mau Daftar notif email sudah terdaftar pas di coba login notif nya sudah terdaftar bingung jadinya ..,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+15,a4ba1773-2c58-4bf9-9c33-507359d9cdf4,2025-03-13 01:47:52,2,5,Baik lanjar,positif,,True,acak,Rifky,A_kappa_1-100,positif,positif
+16,8596da50-4ec0-4afa-8a21-e0e4cb0ad83c,2025-03-07 14:38:39,2,1,Aplikasi paling bobrok seumur hidup yg pernah saya temui,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+17,28db093a-0d78-4a7c-970c-405bedd4bf59,2025-03-17 13:49:16,2,3,"servenya terus bermasalah, tolong di perbaiki.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+18,4488a124-482b-43ae-843b-d45d60f63570,2025-02-13 22:56:50,2,1,"Ngapain bikin aplikasi kalo ujung ujungnya ga fungsi, ga jelas emang.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+19,5160cd4a-223d-4d2e-b9a8-3f08ed965254,2026-03-28 13:57:49,4,1,"aplikasi bikinan pemerintah pasti yg gini, gaptek tapi maksa",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+20,06e0d4f2-783a-47a3-af89-f049ef0d7c17,2025-04-13 08:51:29,3,5,tertarik,netral,,True,acak,Rifky,A_kappa_1-100,positif,positif
+21,fa8f6e62-c938-4880-a1b5-91682f105c18,2026-01-12 10:59:16,4,2,apk bungol salah terus tiap masukan nik dan pw,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+22,d3802be9-8a34-47a6-89e7-00c9d5eba7f1,2025-09-14 18:29:23,3,5,bintang 5 buat korupsii,negatif,opini_politik,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+23,a5e133ba-e5ac-4633-b800-080e334848eb,2026-05-12 16:05:31,4,1,Sistem nya kurang memuaskan tolong diperbaiki,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+24,79155192-823e-4e57-8175-1fff86821591,2026-02-21 18:21:45,4,1,belajar lagi bikin aplikasi,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+25,97ab2ae1-7137-4a98-b138-8d3a41b7b96e,2025-02-20 10:16:04,2,1,Parah d persulit,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+26,5ae6e2cb-8f2f-448e-b27d-27d69150f0f8,2024-03-21 17:17:24,1,1,"Gajelas dibikin muter muter doang. Gua lupa efin, udah isi data tapi suruh login dulu dan loginnya harus pake efin gimana sii. Mau lapor pajak aja dibikin susah begini",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+27,2a0eed24-2d9b-4bcd-9ad4-a517b159631d,2025-01-06 02:23:08,2,2,"Gak guna,",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+28,35ebd1c4-3e97-4cf5-8ab5-6765e982b796,2026-02-23 06:34:01,4,1,"apk apa ini jelek banget sumpah, beneran tak siap buat apk",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+29,bdbb8680-d1e3-4840-b2c1-9c8cc25f1078,2026-07-24 15:40:51,4,1,aplikasi sakitt.. IT nya bego.. verifikasi gagal terus padahal data sudah benar,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+30,6510c804-dce4-4492-a5e3-95bd6265b29a,2025-05-15 04:06:05,3,5,"Buat lansia agak kesulitan juga pengerjaannya, lebih baik datang ke kantor Pajak setempat",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+31,5dcca48d-c1dd-42fe-9990-3c841fc479a5,2025-01-08 09:35:00,2,1,Aplikasi tak berguna...hapus saja dari google sampah,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+32,5fa5c75d-f578-4817-877e-4c3e70d5feda,2024-03-25 07:32:03,1,1,gajelas,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+33,17fa4c0f-4709-4332-a22a-6d922a7cd0fb,2025-09-16 23:53:39,3,1,"bagaimana cara saya untuk mendaftar NPWP, jika untuk mendaftar saja entah lewat website atau aplikasi saja sulit, website nya sangat buruk selalu error, website seakan-akan hanya pajangan agar terlihat pemerintah sangat modern, lewat aplikasi hanya bisa dilakukan jika kita sudah punya terdaftar saja, tidak ada opsi untuk mendaftar hanya login, JANGAN MEMPERSULIT RAKYAT UNTUK MENDAPATKAN PEKERJAAN, KARENA SEKARANG PERUSAHAAN MEWAJIBKAN PENCARI KERJA HARUS SUDAH PUNYA NPWP WALAU BELUM KERJA!",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+34,01522186-f593-4b66-bd9b-792126b6324a,2025-03-04 02:56:02,2,1,"Anggaran Besar, pengelolaan Aplikasi saja ecek2",negatif,opini_politik,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+35,789b6e64-19a0-4d7f-a2b6-4e728ba61dba,2024-02-20 02:40:59,1,1,"Aplikasi paling tolol sedunia. Email udah bener, ngirim 3 kali sampe kepotong pulsanya buat menerima pesan 500 perak/sms nomor efin masih tetep belum masuk. Isinya lahan basah semua korupsi no 1,perbaiki aplikasi pelayanan masyarakat terakhir",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+36,cb839435-44eb-429f-bb16-80925af950c0,2024-06-14 03:59:11,1,1,"BUKANYA ORANG ATAS PINTER"" YA. BIKIN APLIKASI KEK GINI AJA AMBURADUL. MAU LOGIN AJA RIBETNYA MINTA AMPUN, UDAH RIBET KAGA BISA LOGIN, UDAH RIBET MASIH AJA KEBOBOLAN HACKER.. LAWAK LAWAK !!! . BUKANNYA MEMPERMUDAH. MALAH MEMPERSULIT SULIT. CAPEK CAPEK.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+37,2e502978-b9dd-4ea0-b818-bcd2b15a545f,2026-07-03 02:12:59,4,1,"betul,gak niat ini aplikasinya,lemot,gak bantu sama sekali.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+38,86ed0388-21b9-444b-8c87-dfe05aa997ac,2025-02-24 06:51:08,2,1,"Aplikasi Lemot, mint Kode Verifikasi aja muter"" dan lama udh nyoba dr 3 Hari lalu masih aja bgtu. Klo dtng ke Kantor nya bilang ""bisa lewat aplikasi"" aplikasinya aja bgni. Zaman udh canggih tp hal ug berhubungan dengan aplikasi pemerintah slalu lemot dan lama.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+39,aa142e72-4a0b-45b4-bffd-834a687043e3,2026-02-16 11:27:19,4,1,apk sampah,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+40,f7702cd0-2e6c-4dec-9102-dd90b8e3d538,2026-03-04 09:16:31,4,1,gak jelas,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+41,90dc1858-4de3-4d50-a0d0-7e87b9dbe2aa,2024-12-09 02:59:05,1,1,Aplikasi pekerjaan sd magang ga jelas,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+42,d6cc6599-2926-4261-b18e-b99ec48e859e,2025-01-15 06:58:33,2,5,bagus,positif,,True,acak,Rifky,A_kappa_1-100,positif,positif
+43,c91721aa-65ce-42a8-aa4a-705cf757c05d,2024-12-04 10:32:01,1,1,"Saya kasih bintang 1 , aplikasi gak level, gak sesuai sama misi nya.Mau buka aplikasi saja lama nya.......",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+44,bb6e56c5-4910-4fda-866b-33ab8a7fb0eb,2025-02-13 06:22:35,2,3,kasih 3 dlu ya,netral,,True,acak,Rifky,A_kappa_1-100,netral,netral
+45,61c46422-190a-4863-bfc3-a65df219f191,2025-11-14 18:26:02,3,1,buruk,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+46,a4ac5b05-4660-43ae-8886-a1514ecf1b94,2025-08-14 13:27:53,3,1,apk tertolol yang pernah ada,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+47,eed103ff-dece-4bbd-9ce8-83fbbd4d6247,2025-08-06 07:46:47,3,1,"Aplikasi yang membangkongkan. Tidak mencerminkan kata-kata online nya. Yang ada sama saja, ujung-ujungnya harus offline. (Kebanyakan omon-omon)",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+48,6de24f31-1abb-4391-be12-9a0b7d1d2987,2025-12-04 09:14:58,3,1,apk ga guna,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+49,fa398400-a1c1-4142-b835-95fdf6d596b4,2026-04-03 07:51:06,4,1,tidak bisa di buka,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+50,205c16f5-ed08-4400-808a-ea75b2e54731,2025-09-11 13:46:47,3,1,niat mau liat KSWP jadi susah. aplikasi ini terjelek yang dibuat pemerintah,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+51,f1a35358-5cbf-4bd1-84aa-9623913dc442,2025-03-20 21:56:13,2,2,aplikasi yang susah diakses .... entah HP saya yang ga sesuai spek untuk aplikasi jni atau emang .... aplikasinya yg bukan ntuk orang kebanyakan... CHAT aja susah ...,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+52,fb7750e7-4bf6-4664-9e89-603eeafcec97,2024-12-23 02:11:19,1,1,"Payahh, verifikasi otp aj ga bisa di pencet",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+53,2868bf44-6ae3-40b4-8f1f-b8fbb5641a39,2026-04-01 06:03:50,4,1,nyusahi aje loe thong..,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+54,42bdb1c9-9e87-4a6b-b02d-f1ee5fd5125d,2025-01-17 02:56:20,2,5,Sangat bagus dan membantu,positif,,True,acak,Rifky,A_kappa_1-100,positif,positif
+55,0aab1254-2e34-4774-8770-1683028e12cb,2025-02-24 06:02:45,2,1,Verifikasi email gak masuk masuk wkwkww mau bayar pajak aja susah,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+56,2ebf7522-aee5-4d48-8863-1c596ad331fc,2025-01-15 04:12:11,2,1,login aja gabisa padahal udah dikasih surat penerbitan akun wajib pajak dari KPP,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+57,3cb0155f-1973-4900-a155-eda01ef95483,2025-05-19 09:04:29,3,1,lemot banget. gajelas. verifikasi lama banget nunggunya,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+58,0d43fdc5-194b-4635-a316-d538bfe33a07,2025-01-20 13:01:14,2,1,"Aplikasi parah ni,.coba verifikasi EFIN aja gak bisa Nyesel saya download nya anying",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+59,19018c3c-4148-4f5d-bf15-4afbcbcfa3e3,2024-02-26 03:23:45,1,1,"Aplikasi gak jelas, ngapai lu buat aplikasi klok ujung2nya untuk sebuah nomor Efin aja lu suruh org ke kantor pajak!",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+60,f242c269-450d-4c4e-9c55-1c07c19ef2d2,2024-12-24 10:38:05,1,1,Aplikasi sering error,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+61,df7ef49b-9c8f-481b-a16a-10de1b210388,2025-09-29 04:27:42,3,1,bener bener.. cuma buat log in susahnyaaaaaaaaaa,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+62,dbbe5d3a-be5e-4bca-8066-4d97de605968,2026-04-03 01:26:04,4,1,"downloadnya mentok 99 persen aja nih, baru mau download aja udah masalah gimana di dalamnya ya",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+63,4a014d03-00a6-4eba-98d4-add6dd374c71,2026-07-09 15:35:46,4,1,"pemerintah nya kocak, app nya juga kocak",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+64,f6eaa133-2313-402b-9a80-0db2817330ee,2025-03-03 03:15:57,2,1,Aplikasi bosok... ancene ga becus,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+65,946ab391-e6c4-43c0-9efa-0c63c5dff3c2,2025-02-08 23:55:39,2,1,"Kembalikan kotak centang lupa email,",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+66,d1eb7d6d-37b3-4ae2-803c-18aa7405ca21,2025-10-18 03:04:13,3,1,"Aplikasi gak jelas,gimana bisa login,tidak ada fitur daftar akun sama sekali ...sekelas aplikasi pemerintah kok kayak gini sih!!??!!",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+67,e02ee868-c864-4fa9-b0ad-49520cd07b7e,2024-11-15 06:26:45,1,5,Sangat membantu urusan perpajakan,positif,,True,acak,Rifky,A_kappa_1-100,positif,positif
+68,e8a69df8-1ac1-45b6-be12-b191153b36a8,2026-03-24 02:08:52,4,1,"gini mau login aja ga masuk"", menu EFIN ilang duit anggaran nya kemana?",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+69,0abe6b7c-2e70-4930-808b-40cbe260f25f,2025-03-07 15:07:22,2,1,Ribet,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+70,120f053a-19c6-42a0-8347-dc79ee3ce79a,2024-03-03 05:04:09,1,5,Okhay,netral,,True,acak,Rifky,A_kappa_1-100,positif,positif
+71,50633f18-d6fa-4f8e-a4cd-4eeba8dde70a,2025-08-20 12:15:16,3,2,"Ini aplikasi bagaimana, mental mental terus?",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+72,b64bb8c9-9511-4caa-a859-75cc00bd1ca3,2024-12-28 13:58:15,1,1,Konttooolll riibet,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+73,d51d28eb-4574-4bb6-88cc-a77b5eccc685,2026-02-26 06:15:44,4,1,terlalu sulit dan berbelit-belit,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+74,08468dff-ebbc-4836-b46e-e23a07d4952b,2024-03-26 02:47:13,1,1,"Kita udah bayar pajak, mau bikin NPWP online aja susah nya minta ampun. Heran sama semua aplikasi pemerintah ga ada yg bener",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+76,dbf4a893-1794-4040-a2ed-186f1c9d5f48,2024-11-12 12:35:01,1,1,Aplikasi gak berguna,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+77,d45cb7ad-45be-4f2b-aa25-81c30506bec3,2025-02-26 07:10:36,2,1,"Kode verifikasi yang dikirim melalui email, no SMS sangat sulit. Nunggu kodenya setengah hari :(",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+78,5f04b207-0ee1-4a0d-bf45-61ec609ce7bb,2025-10-30 02:30:31,3,1,aplikasi ribet,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+79,325b970f-7d6f-40aa-b240-78eda49f7efc,2025-11-13 02:09:34,3,1,sangat buruk,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+80,838e5191-9893-4b26-bc1c-26cfdeaceaaf,2025-06-30 13:32:26,3,1,Dana aplikasi nya di korupsi kah??,negatif,opini_politik,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+81,93617ee1-1104-4bfc-9590-c3129212a904,2025-12-27 02:22:11,3,1,mau laporan SPT tahunan ga da menu laporannya...,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+82,5cfcbbf2-ec9e-4236-be18-3910ac92c0b3,2024-01-17 04:30:35,1,1,Ribet poll masa mau minta efin aja susah gk lengkap buat apa klau dsni gk lengkap,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+83,9b310916-1723-48eb-a58e-171c75c01e03,2024-03-18 02:29:41,1,1,Ajukan lupa efien selalu gagal,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+84,6b590672-595d-4d5f-93da-c9cf860eee17,2024-03-26 05:12:57,1,1,Sumpah ini aplikasi pemerintahan ga ada yang benar benar bekerja dengan baik. Mau masuk aja ga bisa. Apalagi udah bisa masuk dan mau verifikasi gagal terus. Padahal signal bagus. Semua data sudah saya teliti dengan seksama tapi gagal. Aneh. Untuk apa menciptakan aplikasi online kalau memang sistimnya seperti ini. Hapus Saja. Memang pemerintah itu selalu membuat ribet warga nya. Tidak ada kemudahan sama sekali.,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+85,dc716c5d-8e6e-49e0-af8f-db5f3ea63990,2025-12-12 22:16:02,3,1,ga jelas banget sistem otp nya,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+86,92a5ec96-dd27-418d-b412-b5a396e51329,2026-05-12 14:13:24,4,1,"Sudah verifikasj berkali kali, error, mana pake sms ,pake pulsa lagi, udah habis bbeberapa duit masih saja error, padahal tinggal kirim aja,",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+87,f162b5cd-8b7f-48ea-ae01-c403cb5f017a,2026-08-16 13:16:25,4,1,"Tolong diperbaiki lagilah ya. Rakyat diajarin supaya taat pajak, lapor pajak. Sedangkan aplikasinya sulit sekali di akses. Ada aja kendalanya, MW aktivasi susah, mau bikin sertifikat digital susah. Bikin org2 males aksesnya. Lain kali bikin aplikasi tinggal scan KTP, udh selesai langsung aktif, g perlu yg ribet. Hal sepele bgni Ampe berhari2 ngurusin bgnian doang g selesai2.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+88,66cedaa5-8724-4e2d-a70d-e37a98bfeb1c,2025-01-07 00:34:28,2,1,Sangattttt mengecewakan Dan gak guna juga sih aplikasi ny,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+89,67362556-ebb5-404d-b095-7808cccbc256,2025-03-12 10:26:52,2,1,Aplikasi proyek korupsi,negatif,opini_politik,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+90,1db9cda6-2afa-4509-8256-4280f3670395,2024-07-10 02:23:08,1,5,Bagus,positif,,True,acak,Rifky,A_kappa_1-100,positif,positif
+91,5cee5c8e-b588-430f-9dd7-b47cd20cfeb1,2026-04-11 01:46:44,4,1,buruk di persulit gak mempermudah banget,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+92,34da11a8-b056-48c2-8d1d-fb3f37e12102,2026-05-03 07:21:32,4,1,"Harus diperbaiki lagi sih ini. Tolong dong, ngga mungkin se abai itu para pekerja dan pengembang aplikasi. Dari tahun kemarin masa masih gini-gini aja. Malah makin ga jelas.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+93,0549aa7f-14eb-442e-8e72-a827b5e112c9,2025-03-22 00:58:55,2,1,BIROKRASI BERBELIT. UJUNG UJUNGNYA DUIT PAJAKBUAT BELI RUBICON KENAPA HARUS RIBET!,negatif,opini_politik,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+94,1d045ac5-7037-4ebd-955d-2196eac5c353,2025-01-03 15:11:25,2,1,"Ini kenapa gak ada fitur efinn? Padahal saya liat di yutub ada fitur efin, giliran saya download malah gak ada.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+95,22be2328-3b2e-4ee4-a446-53fb48057a6d,2026-02-20 15:50:29,4,1,kagak niat gausah bikin kita bikin akun di persulit cuma mau ngabisin pulsa doang lawak giliran bisa malah eror alamat ada lagi aja alesan lu,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+96,69bba6c8-323d-4bac-bc57-e42796275f90,2026-03-14 21:28:18,4,1,orang di suruh lapor pajak malah di persulit,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+97,36c33f6e-a228-4d49-9b43-21469d414e97,2026-03-03 05:35:54,4,1,Tak jelas...permohonan Efin Verifikasi Email atau SMS gk ada tombol kirim ..parah... pelaporan pajak semakin ribet... bukan mempermudah masyarakat...malah mempersulit...,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+98,3b741ab8-0385-4802-ace9-cdd23f1fbf8d,2026-03-30 08:24:51,4,1,apk kaya eek💩,negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+99,f34c03cc-cd24-4444-bdf4-6ad98721363e,2024-02-27 10:18:54,1,1,"Ini aplikasi belum epektif apa gmn ya,kok sy tinggl upload foto ja susahnya minta ampun,mungkin dah berpuluh puluh x ni sy coba error terus,,gimana ini???🤦🏿🤔",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+100,ccd6a7e3-4dfa-4fd1-a38f-8e4bdf22846d,2026-08-27 02:05:22,4,1,"tolong dong pemerintah kalo bikin apk dan web yang bner, jngn hanya mau duit pajakny saja, udh berkali-kali coba login dan aktivasi gagal mlu, apk dan web sama saja kebanyakan error, sebagai warga negara kita wajib bayar pajak dan pemerintah wajib menyediakan fasilitas yang baik untuk warga negara.",negatif,,True,acak,Rifky,A_kappa_1-100,negatif,negatif
+101,76776d04-7d87-4ed2-928a-d7c3345131a2,2024-12-20 06:41:58,1,1,"aplikasi pemerintahan gk ada yg beres, verifikasi gk bisa",negatif,,True,acak,Rifky,B_101-450,,negatif
+102,c925dd7f-714b-4204-b99c-a7452c443aae,2025-08-02 20:42:58,3,1,"pajak di korup terus layanan buruk , bikin aplikasi burik hedeh capek , verifikasi pake pulsa . pas ke scrol datanya ilang ulangi dari awal verifikasi pake pulsa lagi , aturan macam apa ini",negatif,,True,acak,Rifky,B_101-450,,negatif
+103,b4adeb86-fa6c-4851-9449-d49e56a03d4b,2024-06-07 13:39:55,1,1,Udah habisin dana banyak ini hasil nya? Wkakakakak lawak,negatif,opini_politik,True,acak,Rifky,B_101-450,,negatif
+104,5b072fce-aa15-4963-b0bb-48e374e0de51,2024-12-19 15:37:39,1,5,Saya hanya ingin lihat data PPh 21 saya,negatif,,True,acak,Rifky,B_101-450,,netral
+105,d92c8a3e-f018-4089-b4ae-460f26d0b0e1,2024-04-15 09:34:13,1,1,"Mau daftar efin lewat online tapi ngga bisa.. ga bisa verifikasi otp nyaa.. udh bbrpa hari dicoba ttep ga bisa..pdhl udh d cobain pake email yg sama tapi kode otp ngga muncul, udh dicoba pake no hp juga sama kode otp nya gaada masuk..",negatif,,True,acak,Rifky,B_101-450,,negatif
+106,42460b90-949e-41c7-bb53-85a0f7fc6567,2025-02-28 05:50:01,2,1,kode verifikasi yang dikirim tidak diterima,negatif,,True,acak,Rifky,B_101-450,,negatif
+107,aa8a0271-1962-429f-a119-b8c9217921d9,2025-03-05 08:14:47,2,1,Aplikasi busuk,negatif,,True,acak,Rifky,B_101-450,,negatif
+108,d80e2176-b2e3-4092-82a4-4693b936acf1,2026-02-05 03:18:23,4,1,"masak saya harus ganti hp, gara updatetn terbaru",negatif,,True,acak,Rifky,B_101-450,,negatif
+109,55441cba-47a8-41fe-a4b8-ad41e5b9c9c7,2025-03-19 05:32:26,2,1,lagian heran pakek NPWP yg 15 digit sedangkan daftar NPWP pakek no nik yg 16 digit maksudnya bagaimana gak jelas,negatif,,True,acak,Rifky,B_101-450,,negatif
+110,358f8fc1-9a2d-453e-8046-414c6fed4efa,2025-03-03 12:06:26,2,1,"aplikasi ini sangat ndak jelas, saya rasa kalah sama situs slot yang menyediakan menu daftar, malah di aplikasi pemerintahan seperti ini tidak ada menu daftarnya lawakkkk #indonesia gelap",negatif,,True,acak,Rifky,B_101-450,,negatif
+111,ba6565c3-faeb-46b6-a992-19fe9547e796,2025-09-23 03:55:25,3,1,aplikasi gak guna. muter2 doang gak jelas,negatif,,True,acak,Rifky,B_101-450,,negatif
+112,15596642-f1ba-4143-a063-4d0e272e76d1,2025-06-02 04:51:28,3,1,Tdk berfungsi dgn baik.,negatif,,True,acak,Rifky,B_101-450,,negatif
+113,3893224b-35d3-4c4b-be78-d68ec8256b6d,2024-03-15 07:28:01,1,1,Aplikasi tidak berguna,negatif,,True,acak,Rifky,B_101-450,,negatif
+114,7eab4842-1c5b-4b4f-bad6-4ef88e98bbea,2024-10-24 04:43:53,1,1,"Memang harus bintang satu,",negatif,,True,acak,Rifky,B_101-450,,netral
+115,5f4ad79e-ace6-4c82-a7c1-ce86f679a932,2026-02-25 14:25:24,4,5,"udh mlai integrasi dengan coretax yah aplikasi mpajak ini, jd login nya pake pass coretax. untuk cert digital dah mncul, tp krna sy dah buat di coretax, g sy buat lg, tnggu expired/lupa passpharse aja wkwkw. menu spt mash under construct, yaah smga kalo mau dpke thn ini kudu cepet tim dev untuk bikin nya",netral,,True,acak,Rifky,B_101-450,,negatif
+116,3c14ff0d-794a-4769-9057-74bd7d1c1674,2024-03-14 05:35:08,1,1,aplikasi tak bermutu sudah di kasih kode otp kok ngak bisa di vadilasi makan pulsa terus,negatif,,True,acak,Rifky,B_101-450,,negatif
+117,1c23ad96-6288-463a-8437-f9bf14f66eaf,2025-04-10 11:32:22,3,5,sangat membantu dlm pelaporan pajak,positif,,True,acak,Rifky,B_101-450,,positif
+118,10471d3a-45e3-44a9-a3f0-56606cd26c54,2026-02-11 05:35:32,4,1,suruh lapor tp gagal mulu masuknya .hadeuh kudu diaudit nih pa purbaya,negatif,,True,acak,Rifky,B_101-450,,negatif
+119,a15c4bbb-b5cd-4d5f-aab2-fd883c896c66,2025-03-28 02:12:12,2,1,"gimana orang mau taat pajak, mau daftar aja susahnya minta ampun. Itu juga daftarnya udah online, gimna kalo daftar ofline??. Hadeh rusak instansi pemerintahan dengan pelayanan bintang 1.",negatif,,True,acak,Rifky,B_101-450,,negatif
+120,7de07c5b-927e-40ad-99e3-94f56c742997,2025-03-29 13:49:09,2,5,bagi yg lupa efin..dan lupa pasword.bisa banget lewat ini.,positif,,True,acak,Rifky,B_101-450,,negatif
+121,31bf0a06-a93c-4f91-975b-242dcbff0385,2025-03-25 12:17:25,2,1,Mau log in gak bisa2. Sesi berakhir terus. Ada hubungan sama kasus crotax kah ini? Heran mau ngasih duit aja susahnya minta ampun.,negatif,,True,acak,Rifky,B_101-450,,negatif
+122,aab4ab92-a7ac-4df5-b069-20dac22ad7b7,2025-02-28 03:22:28,2,1,Ini aplikasi disunat berapa banyak dana nya?payah banget aplikasi nya.,negatif,opini_politik,True,acak,Rifky,B_101-450,,negatif
+123,49f374a7-73b5-4571-b77a-5a22640e7f83,2024-10-16 18:35:44,1,1,Apk apa ini pak/ibu pajak masuk email susah bgt kalau kaya begini sistem nya saya sendiri malas ngurus pajaknya sistem eror orang pajak juga banyak yg eror otaknya bikin apk aja susah berfungsi,negatif,,True,acak,Rifky,B_101-450,,negatif
+124,3cd7aa94-2acf-468f-89f0-cd2cf3b584f0,2026-03-17 04:06:52,4,5,baik utk digunakan,positif,,True,acak,Rifky,B_101-450,,positif
+125,fcb69e9f-4886-4838-af4c-d85ca0cfd89f,2025-03-10 07:23:30,2,1,"ngirim otp lama, saran aja tambahi waktunya. di aplikasi 10 menit, nyata 2 hari baru masuk kode otp ke email 👎",negatif,,True,acak,Rifky,B_101-450,,negatif
+126,e54dc210-c53d-4cb9-8c87-bca8eb1f4397,2025-03-03 07:37:11,2,1,Apk Nggak Berguna Ngabisin Uang Negara Nggak Ada Fungsi,negatif,,True,acak,Rifky,B_101-450,,negatif
+127,c8987ea4-553d-439a-8a2c-ba14bdd72dcc,2025-06-25 01:32:48,3,1,mantaps,positif,,True,acak,Rifky,B_101-450,,positif
+128,283e9845-c246-4112-a8cf-e61181c701b5,2024-03-04 13:53:45,1,5,Sangat bagus dan membantu,positif,,True,acak,Rifky,B_101-450,,positif
+129,56f0eaf0-af3d-4999-9264-47cb2ccf695b,2025-02-08 03:04:16,2,1,Sistem Error,negatif,,True,acak,Rifky,B_101-450,,negatif
+130,dd2495c2-5f70-4ed4-b3ef-a0c26b537c92,2026-03-03 01:53:58,4,2,saat login kenapa masuk ke browser,netral,,True,acak,Rifky,B_101-450,,negatif
+131,af1a2fe0-92b7-4527-83cf-b38c13358917,2026-03-12 03:05:42,4,5,mantap,positif,,True,acak,Rifky,B_101-450,,positif
+132,e4bd4775-5c82-42e3-ad72-c900237ea238,2025-03-17 05:16:07,2,1,Tidak berguna,negatif,,True,acak,Rifky,B_101-450,,negatif
+133,e7cb7785-eccf-4c0d-a1c8-4e9928b16d54,2024-09-19 02:24:03,1,1,"Sumpah ni apl bener² mempersulit bgt, gak sesuai harapan",negatif,,True,acak,Rifky,B_101-450,,negatif
+134,87048734-af66-4e30-bdcf-c5048a4af8f2,2026-03-03 06:16:21,4,2,tidak bisa dipercaya,negatif,,True,acak,Rifky,B_101-450,,negatif
+135,47f863b4-9230-4397-ac53-a43f7a539b9d,2025-02-27 11:30:54,2,1,Proses lupa EFIN susah. Kode OTP baru masuk email 1 jam kemudian padahal expired 10 menit. Kn ga bisa ke pake,negatif,,True,acak,Rifky,B_101-450,,negatif
+136,8bf46958-b36a-403c-8fb0-27c2c29c02f1,2025-04-25 09:51:09,3,1,Banyak masalah saat pendaftaran,negatif,,True,acak,Rifky,B_101-450,,negatif
+137,0a413a68-dfd6-488d-8e7d-b0fb90b21e85,2026-02-20 21:22:46,4,1,"Kewajiban hrus lapor , Tp dikasih aplikasi kayak gini, Errrror mulu gak bisa2.",negatif,,True,acak,Rifky,B_101-450,,negatif
+138,29820dc7-d475-4220-92c0-9fb730f63ee1,2025-01-10 04:11:02,2,1,ga guna aplikasi sampah,negatif,,True,acak,Rifky,B_101-450,,negatif
+139,91d733c9-3a02-4625-ab24-3ccd48789bca,2026-04-23 13:55:37,4,2,"mohon maaf yh,gw udh berusaha buat hal sepele semacam pindah wilayah npwp udh otw ke kantor di arahin lagi ke apk udh login di apk malah eror ganti hp Masi tetap eror ini singaja buat nambah pengangguran di indo atau gimanah? gw cuman orang kecil,liat fitur' apk nya pada nggk masuk akal,bolak balik nyari jaringan,ambil foto masuk lagi. buat orang kecil kek gw aja kerja di ribet kan gini.mohon di perbaiki ini suara rakyat.. mohon di baca chat ku yang Tidk penting ini semoga bermanfaat.",negatif,,True,acak,Rifky,B_101-450,,negatif
+140,0697cfb4-45e7-4b1d-b946-c898e352b178,2025-09-14 10:21:31,3,1,"Aplikasi t0/0/, dev t0/0/.. ribet, semua urusan ke pemerintah ribet.. mending gk ush byr pjk lol",negatif,,True,acak,Rifky,B_101-450,,negatif
+141,eb83cffc-c65b-4db2-8eb4-1068e0228eb0,2025-03-17 03:49:45,2,1,Aplikasi gaguna.,negatif,,True,acak,Rifky,B_101-450,,negatif
+142,2f066b50-6ec6-4d88-9512-93792379247a,2025-12-23 17:19:46,3,1,"ini gimna sihhh aplikasi Kya GK berguna mau login aja susah bener,udah masukin sesuai GK bisa masuk aneh",negatif,,True,acak,Rifky,B_101-450,,negatif
+143,d88eeb11-1217-4022-88f5-b22703797ce5,2025-05-07 15:01:37,3,1,"Ribetnya buat NPWP, nggak usah bayar pajak, toh penghasilanku di bawah batas PTKP",negatif,,True,acak,Rifky,B_101-450,,negatif
+144,bb4e6184-543a-48d0-8bbe-ff1c7e15c9c9,2025-01-24 09:43:37,2,1,"Heran. Ngga paham. Instansi pemerintah sebesar & sekelas ini, apalagi reminder : pajak2 pajak2, tp aplikasinya yah cuma begini. Giliran anak sy mau daftar NPWP sj susah. Disuruh daftar online. Coretax2. Tp situsnya lemot abis. Ribet pula. Mdh2an pegawai2nya ngga ikut lemot ya.",negatif,,True,acak,Rifky,B_101-450,,negatif
+145,3a7dcdd4-d383-4f18-826b-de6cb307499d,2024-12-05 11:39:11,1,1,Apk pemerintahan kok gini.. Selalu gagal login.. Udah pake data pindah wifi sama aja.. Anggran untuk apk pasti nggk sedikit...,negatif,,True,acak,Rifky,B_101-450,,negatif
+146,a6089839-bde0-4b87-8ed8-66d95a2c3cf4,2025-07-03 03:44:46,3,5,mudah di gunakan,positif,,True,acak,Rifky,B_101-450,,positif
+147,0a8a44fe-6443-4be3-8352-89c59a716c7c,2024-03-30 01:34:06,1,1,"Aplikasi SAMPAH KALAU GAK SIAP DIGITAL LEBIH BAIK KONVENSIONAL,BUKANNYA MEMPERMUDAH MALAH BIKIN SENGSARA. LEMOT,ERROR TERUS,COBA LAGI ERROR LAGI,PADAHAL DATA SUDAH FIX BETUL. F""C""",negatif,,True,acak,Rifky,B_101-450,,negatif
+148,cd02b163-36f2-4b10-b17b-532279644e8d,2025-03-16 00:08:16,2,1,Menyusahkan Mau cari pengaturan saja susah mau ganti alamat email saja susah,negatif,,True,acak,Rifky,B_101-450,,negatif
+149,7d99fd1a-9044-44d1-8e6c-2b618265a7b9,2026-08-26 09:09:06,4,1,biar bintang yang berbicara,netral,,True,acak,Rifky,B_101-450,,netral
+150,15408441-7e6f-489b-9bbf-ef48c40e0e0d,2025-10-13 23:49:26,3,1,uda 5x buat bagian alamat muter2 terus njiss amat. iya kalo buat verifikasi ga pake pulsaa. kasih bintang 1 pun masih kebagusan,negatif,,True,acak,Rifky,B_101-450,,negatif
+151,aaeb15af-6828-40e9-8b72-8c5ca1dd49e7,2026-07-04 06:15:23,4,1,"aplikasi sampah , error teros ,,",negatif,,True,acak,Rifky,B_101-450,,negatif
+152,f82b14f7-46f2-4849-9457-23e7eb79f1fe,2024-03-25 13:52:52,1,1,Baru saja download tapi minta pembaruan lagi... Apk apaan ini 🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️ kacau,negatif,,True,acak,Rifky,B_101-450,,negatif
+153,181bf1ca-6aac-4fc1-a6e9-f44b2b65dd49,2026-01-22 04:14:25,4,2,"kok ngga bisa login yaa, nik dan pwnya udah bener",negatif,,True,acak,Rifky,B_101-450,,negatif
+154,a781db72-a209-4796-b3db-a274da255840,2026-03-10 13:43:30,4,1,"HADUHHH MAU LOGIN HRUS BTUH EFFORT LEBIH TAPI GAK BISA JUGA TERLOGIN, TOLONG JANGAN DIPERSULITTTT GINI DONG👎",negatif,,True,acak,Rifky,B_101-450,,negatif
+155,2fb07864-ac69-4222-aec7-a92f87fa5cb7,2025-09-30 12:25:33,3,1,error terus,negatif,,True,acak,Rifky,B_101-450,,negatif
+156,6114b890-8679-46fe-81c3-d2fa744e65b8,2025-12-11 13:10:19,3,1,jelek banget error terus.,negatif,,True,acak,Rifky,B_101-450,,negatif
+157,f15ed673-d1a8-4839-8195-3a191626b215,2026-04-16 01:33:03,4,1,apk eror terus login susah nya setengah mati,negatif,,True,acak,Rifky,B_101-450,,negatif
+158,6167d9f1-10ed-4f5c-8023-a5537ab3415e,2026-07-08 14:22:13,4,1,"error teruss , tidak mempermudah layanan masyarakat, enggak jelass",negatif,,True,acak,Rifky,B_101-450,,negatif
+159,58edb787-baeb-4f26-a91b-5819d8f783d4,2025-04-20 05:46:49,3,1,ga ada pilihan lupa kata sandi saat login. jd ga bisa login. mohon d perbaiki.,negatif,,True,acak,Rifky,B_101-450,,negatif
+160,a547688a-de47-4c24-8d47-255fd99f5af4,2026-09-12 14:12:30,4,2,menu lupa efin gak ada lg min????,negatif,,True,acak,Rifky,B_101-450,,negatif
+161,7d9b0b0d-6790-49d8-89c7-2f212f953e61,2025-02-09 04:15:20,2,1,Apkasi bodong kebanyakan dikorupsi nih aplkasi nya,negatif,opini_politik,True,acak,Rifky,B_101-450,,negatif
+162,271311ca-9170-48b0-8030-4de84d350916,2026-08-29 12:44:10,4,2,"aku mau login error, aplikasi apa ini",negatif,,True,acak,Rifky,B_101-450,,negatif
+163,2d8999f0-10f8-4b2e-8814-8fd7453f9935,2025-03-03 08:47:49,2,1,"mohon di perbaiki aplikasinya, mau login aja verifikasinya gak masuk masuk",negatif,,True,acak,Rifky,B_101-450,,negatif
+164,78d16c76-1518-4f31-92e1-9ab3ad6e7e50,2025-03-03 02:44:36,2,1,"APLIKASI SAMPAH GK BERGUNA SAMA SKLI,GK MEMBANTU,👎",negatif,,True,acak,Rifky,B_101-450,,negatif
+165,14bb6628-6a59-483a-aeef-1de499a46493,2025-03-24 07:45:07,2,1,"Aplikasi rusak, sekelas aplikasi Negara seperti ini... wkwkwkkwk",negatif,,True,acak,Rifky,B_101-450,,negatif
+166,43aecefe-a8cf-402a-9ee8-90c14544d835,2024-10-05 03:33:58,1,1,Aplikasi Sampah bukan membantu rakyat malah bikin musingken rakyat.ga jelas Kominfo,negatif,,True,acak,Rifky,B_101-450,,negatif
+167,a2ce123b-6009-4f2b-a5a2-93a1bd450d27,2024-12-22 04:21:43,1,1,aplikasi mbelgedes,negatif,,True,acak,Rifky,B_101-450,,negatif
+168,4f3a9c98-bdb9-4f97-a818-c46594b1e980,2025-03-21 04:22:40,2,1,aplikasi tidak berguna,negatif,,True,acak,Rifky,B_101-450,,negatif
+169,f8f6ec99-5784-4d21-bbe0-2961a17362d8,2025-03-03 02:01:42,2,1,tolong bpak ibu yang terhormat. kemabalikan seperti dulu untuk masuk aku DJP ini dipermudah hanya dengan no efin dan email. kayanya lapor e filling wajib tapi kenapa dipersulit. no hp tidak valid terus sementara lewat online tidak bisa lewat tlpon tidak bisa bahkan kekantor pajak juga tidak bisa. gimana ini coba. bpak ibu kita bayar pajak bukan ga bayar. klo seperti itu udah cukup bayar pajak saja tidak usah melaporkan,negatif,,True,acak,Rifky,B_101-450,,negatif
+170,8b945c00-9cc8-4ec5-a67e-2f9fa8c239a7,2025-09-17 12:21:19,3,1,"aplikasi sangat busuk. mau login aja susah ,verif berulang2 gada yg masuk tuh codenya",negatif,,True,acak,Rifky,B_101-450,,negatif
+171,1277704d-cdba-4c46-ac7f-553771084954,2025-03-06 09:37:11,2,2,"Di aplikasi disebut efin sudah terkirim di email, tapi setelah di cek di email ng ada, mungkin lemot aja tapi udah ditunggu 1/2 hari blum juga masuk bagimana ini...",negatif,,True,acak,Rifky,B_101-450,,negatif
+172,9abfe9b5-4bdb-43ae-b773-5124b35f2c73,2026-03-31 14:21:46,4,1,aplikasi memusingkan. udah mah kita wajib bayar pajak. mau aktivasi ribet minta ampun. aplikasi yg tadinya buat memudahkan malah bikin pusing.,negatif,,True,acak,Rifky,B_101-450,,negatif
+173,d7ec9e50-b73c-4550-84ec-b6f49906ff59,2024-03-06 09:26:26,1,1,Tidak membantu sama sekali,negatif,,True,acak,Rifky,B_101-450,,negatif
+174,cbab9a2e-db36-4815-9d79-454e82eef51f,2025-02-17 06:06:36,2,1,Aplikasi yang sangat tidak membantu. Tolong ditingkatkan lagi demi kemudahan dalam mengakses.,negatif,,True,acak,Rifky,B_101-450,,negatif
+175,fc639fe5-f5a4-4870-ba26-dfea022a9ea3,2025-02-25 05:04:10,2,1,"otp email lama ,, ampe kiamat gak di kirim2",negatif,,True,acak,Rifky,B_101-450,,negatif
+176,b71e1188-5b41-49a0-98c6-19872223b378,2026-07-23 09:58:07,4,1,"Pengen Indonesia maju? jangan persulit orang lain yg mau membantu...!!! Aneh, ko bodoh amat sih. Anggaran bikin aplikasinya aja yg besar tapi banyak errornya.. sangat sedikit fitur, sangat tidak mempermudah bagi penggunanya, padahal bukan mau minta duit..",negatif,,True,acak,Rifky,B_101-450,,negatif
+177,61e9010f-990d-420b-b0d5-638409abb589,2024-07-19 03:41:16,1,5,Mudah dan aman,positif,,True,acak,Rifky,B_101-450,,positif
+178,a0d6c692-a9b9-45ab-88a2-8949a02670c7,2026-07-13 11:57:48,4,1,APL kasi busuk,negatif,,True,acak,Rifky,B_101-450,,negatif
+179,303e4833-eb93-49a8-9c33-ee73a9f120f6,2026-05-13 07:06:44,4,4,suka,positif,,True,acak,Rifky,B_101-450,,netral
+180,852d1d71-ed55-4e21-bb76-c2a2c0e220ab,2025-08-23 04:48:55,3,1,ribet login susah harus ada EFIN buat tau EFIN nya harus ke kentor pajak.. jadi susah ribet...biar tau EFIN nya kenapa gak lewat wa atau email jadi lebih mudah dan gak ngabisin waktu juga...hadeeeuuhh,negatif,,True,acak,Rifky,B_101-450,,negatif
+181,ba8e4531-fa01-4807-b2bb-d0e397f3d13a,2026-02-18 09:54:58,4,1,gk jelas server busk,negatif,,True,acak,Rifky,B_101-450,,negatif
+182,21f705d4-e297-4a61-b1b8-cdff03d544f7,2025-04-09 07:47:18,3,5,ga bisa login,negatif,,True,acak,Rifky,B_101-450,,negatif
+183,695cc08b-52c2-49ab-9fb1-c080d4b36ce0,2024-12-05 16:22:57,1,1,"Entah apps apa ni,TDK berguna,minta eefin saja susah x,sudah dpt otp malah ttddk bisa di verifikasi👻👻👻,pulsa di kuras, entahlah, kebanyakan tidur dan kebanyakan orang males di siittu.anjritlah",negatif,,True,acak,Rifky,B_101-450,,negatif
+184,fb048e48-cb55-4975-b8c5-415f732672c2,2026-07-06 19:14:14,4,1,kerja yg bener!,negatif,,True,acak,Rifky,B_101-450,,positif
+185,698793d8-6abb-4656-82ee-a6a1522c2571,2026-01-21 05:28:01,4,1,"pak Pur liat ni aplikasi gak berguna. buat pajangan ajahhh, gak mempermudah pengguna",negatif,,True,acak,Rifky,B_101-450,,negatif
+186,715f3f05-93f6-48ad-ab3d-a77efd8a1587,2024-10-22 15:01:41,1,1,"Mau bikin NPWP di minta masukin email, aku ketik huruf bisa giliran angka masuk auto hapus, Lewat web dan apk hasilnya sama",negatif,,True,acak,Rifky,B_101-450,,negatif
+187,28889443-dc4b-486e-94aa-17953f2a837a,2025-04-01 18:47:51,3,1,cara daftarnya gimna,netral,,True,acak,Rifky,B_101-450,,netral
+188,8b529f19-43b7-4d5a-bb47-a4d266602059,2026-02-12 08:27:37,4,1,"rakyat disuruh taat pajak,pemerintah bikin APP aja kaga becus,otak +62 mah susah SDM rendah",negatif,,True,acak,Rifky,B_101-450,,negatif
+189,9a57eea2-7f2e-4426-8652-fbb94342d1a9,2025-09-17 09:03:05,3,1,"DI SURUH LAPOR PAJAK, TAPI BUAT LOGIN AJ SUSAHNYA MINTA AMPUN",negatif,,True,acak,Rifky,B_101-450,,negatif
+190,608abd4c-bbe6-43bf-84ca-2e0c1564ab89,2026-03-22 10:34:54,4,1,aplikasi gak jelas padahal punya pemerintah masa kaya gini buat aktivasi akun aja susahnya minta ampun ada aja yang eror. dulu udah bisa login enak sekarang malah ditambah coretax sialan bikin mudah kagak malah suruh aktivasi lagi. dimana mana pemerintah diksih uang pajak buat aplikasi yang nggak usah bagus bagus lah asal fungsinya jelas bisa dipakek apalah dikit dikit eror namanya apa gabisa dipake.,negatif,,True,acak,Rifky,B_101-450,,negatif
+191,bdd245e8-9ca6-48c7-b140-cf3f3ac11af1,2025-08-14 21:53:01,3,1,apk sampah,negatif,,True,acak,Rifky,B_101-450,,negatif
+192,0a9c6102-bc9d-4267-a438-1cfb134e0015,2025-05-19 09:59:42,3,1,cuma mau ngasih tau ini aplikasi nya bukan aplikasi resmi hati-hati karna bisa retas hp kalian,negatif,,True,acak,Rifky,B_101-450,,negatif
+193,01277ce3-8a51-4ef4-b74a-e6113646a737,2025-01-07 13:21:31,2,1,Aplikasi tolol.gimana mau bayar pajak,negatif,,True,acak,Rifky,B_101-450,,negatif
+194,eb403d01-08a9-4ddc-b634-04665f07d1f3,2025-07-14 16:01:13,3,1,"kacau ini masa email saya berubah, jadi email yang tidak saya kenal, wah keamanannya sudah gak bisa di percaya ini perpajakan",negatif,,True,acak,Rifky,B_101-450,,negatif
+195,2d5a0422-e002-4681-b127-ca42b7d83468,2025-12-09 07:54:18,3,5,good apk,positif,,True,acak,Rifky,B_101-450,,positif
+196,15b0d88d-83ba-4e63-ac4d-d22e05c96e7f,2024-07-07 12:32:30,1,1,"Kalo liat di YouTube begitu masuk ada beberapa menu dibagian bawah, tapi di aku cuma ada beranda sama bayar.",negatif,,True,acak,Rifky,B_101-450,,negatif
+197,8a1f890e-8d31-4ca0-aa49-ddf36a960184,2026-03-14 16:02:52,4,1,"aplikasi nya nihil banget, buat apa bikin aplikasi kaya ginih kalau gak bisa di gunain,.",negatif,,True,acak,Rifky,B_101-450,,negatif
+198,ed480e38-df68-4c88-8a3e-02e1c7ca7069,2024-02-23 22:50:49,1,5,Sangat bermampaat,positif,,True,acak,Rifky,B_101-450,,positif
+199,763608ab-1c99-4a02-abb8-6bfaadacfc23,2026-03-07 20:27:14,4,1,ko susah sih masupnya.dipermudah dong bagi yg sudah terdaftar harusnya masup otomatis,negatif,,True,acak,Rifky,B_101-450,,negatif
+200,ebbbb8c3-2895-4d7b-86de-fa98a210ac7f,2025-12-22 03:09:42,3,5,mantap 👍,positif,,True,acak,Rifky,B_101-450,,positif
+201,bc6f603e-7f1a-4176-9069-b0da1d2d37fc,2025-02-19 01:28:12,2,1,Aplikasi sampah,negatif,,True,acak,Rifky,B_101-450,,negatif
+202,005ee099-36c8-4957-a82e-3e90c3b0960b,2024-07-13 06:33:52,1,2,"Pliislah tolong ya daftar pertama link cuma sekali buka kode OTP bayar,. Menyusahkan sdah 4 email daftar kagak selesai-selesai",negatif,,True,acak,Rifky,B_101-450,,negatif
+203,2054fdb5-30f8-462c-9a5c-98dc0ae19e05,2024-12-10 23:06:56,1,5,Bagus banget memudahkan,positif,,True,acak,Rifky,B_101-450,,positif
+204,360230c3-83da-4e2b-af08-39ee5f488137,2025-10-13 08:30:18,3,1,Aplikasi dari pemerintah gk ada yg bener selalu eror,negatif,,True,acak,Rifky,B_101-450,,negatif
+205,49b4e011-2487-4306-bb57-07d5a0786d8d,2024-02-27 07:43:12,1,1,hari gini minta efin suruh datang langsung ke kpp nya..ketinggalan zaman bos..gmn mau maju perpajakan negri ini..sulit,negatif,,True,acak,Rifky,B_101-450,,negatif
+206,799b5049-7061-433e-82aa-da94bc30ac6d,2024-10-07 13:04:04,1,1,"Setiap mau verifikasi wajah selalu gagal, trs suruh foto pas muka dilingkaran, dah pas tapi gagal aja,pdhl data dah sesuai. Tolong perbaiki lagi",negatif,,True,acak,Rifky,B_101-450,,negatif
+207,ed2ede99-502d-49c3-850b-11c5aba5eeb3,2024-04-16 09:50:50,1,1,Setau saya blm ada menu pelaporan SPT nya ya mohon tambah kan dong menu nya biar lebih kumplit dan aplikasi nya perbaiki lemot banget,negatif,,True,acak,Rifky,B_101-450,,negatif
+208,bf0dc9b0-5e8d-4124-8682-1901be3788db,2026-01-13 11:27:16,4,1,DAJAL,negatif,,True,acak,Rifky,B_101-450,,negatif
+209,4b11a67d-1b5b-46dc-953b-74129ae7f5e5,2025-01-30 06:28:03,2,1,lambat,negatif,,True,acak,Rifky,B_101-450,,negatif
+210,9601b882-8c97-43b7-be27-a4f26616ffac,2025-12-31 11:29:28,3,1,jelek aplikasinya. developer nya terbaru buru tanpa QA. menu masukin otp ngebug. terus kode generate nya muncul di atas tombol verifikasi,negatif,,True,acak,Rifky,B_101-450,,negatif
+211,437adf2e-8ce3-4df6-aa19-0a1a75f20a27,2026-05-26 04:56:19,4,1,aplikasi eror tidak jelas,negatif,,True,acak,Rifky,B_101-450,,negatif
+212,98206e82-5b3c-4760-8835-68a894c233cf,2024-10-31 05:56:55,1,1,Aplikasi no,negatif,,True,acak,Rifky,B_101-450,,negatif
+213,4352055f-9b02-4297-8e70-0e4bead36a51,2024-11-14 14:29:23,1,1,Gak bisa di pake. Login selalu gagal. Gak bermutu. Alamat email benar. Password benar. Payah,negatif,,True,acak,Rifky,B_101-450,,negatif
+214,5079f23d-55b1-47b4-9903-9d8fe514a4bb,2024-03-07 14:43:46,1,5,"Cepat, telat dan akurat",positif,,True,acak,Rifky,B_101-450,,positif
+215,1c3607f1-e160-4806-8a4d-b1ae222b0825,2024-07-16 03:07:19,1,1,"Apa apa an. Mau masuk dg NPWP dan password yang sesuai, malah gagal untuk masuk. Sampai bolak balik reset password, tetep aja gk bisa masuk",negatif,,True,acak,Rifky,B_101-450,,negatif
+216,d301d922-f416-4493-91bc-1005f9c568c3,2024-03-26 07:37:01,1,1,aplikasi bagus,positif,,True,acak,Rifky,B_101-450,,positif
+217,90e20bc6-209b-4170-a412-5bbdf0f3b46f,2025-06-20 07:02:14,3,1,kok kirim verifikasi kode telepon aja lama banget,negatif,,True,acak,Rifky,B_101-450,,negatif
+218,d69344e5-e89f-4cca-af96-fa0394adb9b3,2024-05-02 16:50:02,1,1,"Baru diinstall, langsung nongol pop up apk harus diupdate dan apk gak bisa digunakan",negatif,,True,acak,Rifky,B_101-450,,negatif
+219,f6c667bb-1c5a-436f-bdaf-44780ba669de,2025-02-26 02:48:10,2,1,Apk DJP online sudah bagus tapi kok gak bisa melakukan laporan SPT tahunan di aplikasi sangat di sayangkan Lalu apa gunanya ini aplikasih di buat Semogah kedepan nya bisa mengakses laporan SPT tahunan 👍,negatif,,True,acak,Rifky,B_101-450,,negatif
+220,239b65de-4b95-4070-827d-838f54dcda69,2026-01-28 12:29:29,4,1,mau dibayar pajaknya ga sih app ribet banget,negatif,,True,acak,Rifky,B_101-450,,negatif
+221,b8ff2b32-eb66-48f7-b6bc-71d2721a2369,2026-05-23 01:28:39,4,1,kenapa slalu gagal terus yaa? aneh bgttt berkali2 nyoba ga bisa2,negatif,,True,acak,Rifky,B_101-450,,negatif
+222,357ee3c1-6ebd-4c6a-9b21-1278f9126195,2024-03-26 07:57:13,1,1,"mau bayar pajak aja sulit sekali, pake gk bisa segala provide tri dan axis. sekala negara padahal . dh gitu APPnya gk bisa di pencet daftarnya",negatif,,True,acak,Rifky,B_101-450,,negatif
+223,2a0654ca-2fe2-46f9-8b0b-a6ca3b3ffcbf,2026-03-06 00:43:53,4,1,mau login aja susah. nyusahin orang mau ngisi SPT pajak,negatif,,True,acak,Rifky,B_101-450,,negatif
+224,8c27192c-f144-4c08-ac17-996e8995c6b9,2025-03-18 21:34:23,2,1,tidak nyambung,negatif,,True,acak,Rifky,B_101-450,,negatif
+225,678fe70f-cbb8-40e3-b5ca-f9b44a89f215,2024-11-20 10:36:18,1,3,Saya kasih bintang 3 dlu,netral,,True,acak,Rifky,B_101-450,,netral
+226,2cda58f0-7cde-4b5b-bb21-2e331a8a2ea8,2025-10-22 06:54:41,3,1,kenapa susah banget live chat padahal mau ganti nomer hp,negatif,,True,acak,Rifky,B_101-450,,negatif
+227,86b4e7bf-0f38-4565-8256-d3748e26d14a,2024-02-27 08:42:56,1,1,"Lupa efin, pengiriman kode Verifikasi melalui SMS tidak masuk"" Ditunggu samapai 1jam -2 hari gaada SMS masuk, melalui email juga sama tidak bisa jawaban malah diarahkan untuk menghubungi nomor kantor pajak sudah dihubungi tidak bisa, lewat live chat disarankan sama seperti saran di email, Tolong jangan seperti itu customer sudah mengikuti arahan yang diberikan berikan kesan yang baik!!!",negatif,,True,acak,Rifky,B_101-450,,negatif
+228,6b5c22fb-c79b-476a-b5a9-50b0f913c131,2026-02-13 02:08:19,4,1,aplikasi Bodong,negatif,,True,acak,Rifky,B_101-450,,negatif
+229,f8b12391-b66d-4397-90f5-348efa7ea9e6,2026-04-09 12:28:50,4,1,apk tai,negatif,,True,acak,Rifky,B_101-450,,negatif
+230,79d4810b-22b0-450e-8f0b-7a39ff61c093,2024-08-22 07:04:46,1,1,Asli busuk banget smpe pulsa hbis gk bisa verti otp,negatif,,True,acak,Rifky,B_101-450,,negatif
+231,7d521354-dae3-461b-ba9f-b128c17bff05,2025-04-07 05:46:21,3,1,tidak bisa berkata-kata,netral,,True,acak,Rifky,B_101-450,,negatif
+232,6e7f70ec-7412-4c3a-8ebd-11d35aacd4fc,2025-03-04 02:49:28,2,1,"Lapor pajak aja susah,. Kode verifikasi bisa berjam jam baru di kirim, setelah di masukkan malah sudah gak berlaku,. Aplikasi apaaa ini,.",negatif,,True,acak,Rifky,B_101-450,,negatif
+233,7cb4ef1b-5c7b-49ca-b58a-dba61e8b424a,2024-01-09 00:01:18,1,5,Good,positif,,True,acak,Rifky,B_101-450,,positif
+234,0dd9bfc1-9873-48aa-b17d-686f8a577a74,2025-02-26 10:22:03,2,3,Saya mau login tidak bisa Eror,negatif,,True,acak,Rifky,B_101-450,,negatif
+235,b392279e-63bf-4d6f-aeec-74509b28cae5,2025-02-11 06:45:44,2,5,Dimana di dapatkan kode Efin pajak?,netral,,True,acak,Rifky,B_101-450,,netral
+236,09a10ebc-6ff8-4b12-ab11-654f54c18f5e,2025-01-12 08:59:03,2,1,Aplikasi ampas daftar npwp aja dipersulit. Bisa nya cepet klo pake CALO,negatif,,True,acak,Rifky,B_101-450,,negatif
+237,c1528eb3-6279-442f-8e44-bf30bc7188bf,2025-12-16 01:29:12,3,5,mantap,positif,,True,acak,Rifky,B_101-450,,positif
+238,e17ecc2d-1c20-44fe-a49c-fa510fbe68d3,2025-01-18 09:40:07,2,1,Gak guna,negatif,,True,acak,Rifky,B_101-450,,negatif
+239,9518d72c-31e0-493b-9d1c-5fabcf508352,2024-09-09 07:09:44,1,1,"Jan duit pajak asli ne gae opo seh, kok kerjo ne koyok ngene wong pajek😤",negatif,opini_politik,True,acak,Rifky,B_101-450,,negatif
+240,58b7a9b8-12ce-4ffd-92ff-8dd397e8cab7,2025-03-13 01:13:21,2,1,Verifikasi OTP tidak dikirim baik via email dan SMS. Sangat tidak membantu,negatif,,True,acak,Rifky,B_101-450,,negatif
+241,1f045326-07b6-4866-aa2c-016dcae8f216,2025-04-22 01:36:11,3,1,"Aplikasi pemerintah gak pernah ada yang bener, aplikasi cacat !!!",negatif,,True,acak,Rifky,B_101-450,,negatif
+242,781995c1-c64a-481f-855e-ffaa1df5d6ba,2025-12-04 09:02:47,3,1,"APLIKASI GA GUNA, PAJAKIN RAKYAT CEPET MAU DAFTAR RIBET HARUS KETEMPAT BUAT APA INI APLIKASI",negatif,,True,acak,Rifky,B_101-450,,negatif
+243,7a8a5b38-70ea-4786-b49a-65f116d15c19,2026-09-24 03:59:52,4,1,aplikasi pemerintah kaga ada yg bener . mau otp aja susahnya minta ampun GK sampe sampe udah beberapa hari dicoba,negatif,,True,acak,Rifky,B_101-450,,negatif
+244,3cda90e7-3385-44aa-95a7-e8bfd3ad80a1,2025-05-10 15:53:03,3,1,3 nomor aku pake buat verifikasi gak masuk2 pesannya.,negatif,,True,acak,Rifky,B_101-450,,negatif
+245,18f38736-a78f-43a3-8c77-6f3ed26c4573,2024-02-02 08:12:36,1,5,Sangat bagus,positif,,True,acak,Rifky,B_101-450,,positif
+246,ed9f7c41-4e30-43ea-9c94-b9fc21eb8b9c,2025-12-13 17:20:46,3,1,"apknya jelek kek orng""nya, sekelas pemerintah gini kerjanya pantas jelek lebih bagusan apk game",negatif,,True,acak,Rifky,B_101-450,,negatif
+247,6af2fea2-d328-43e5-8ba6-eafde361d671,2024-12-20 06:40:14,1,1,Ini tombol verifikasi kode ga akan d buka kah?,negatif,,True,acak,Rifky,B_101-450,,negatif
+248,a8956cbb-8141-4356-8724-68c2a322d381,2025-03-07 05:40:45,2,5,Ya gitu,netral,,True,acak,Rifky,B_101-450,,negatif
+249,2249114f-1727-49f8-8f51-40225e862dbb,2024-10-01 19:15:25,1,1,"Yang bener aja! Apk sama web kaga jelas gimana bisa cara laporan, mana kena denda kalau kaga laporan ngotak aja lah malah mempersulit rakyat. ""SPT Tahunan telah diatur dalam Undang-Undang No.28 Tahun 2007 tentang Ketentuan Umum dan Tata Cara Perpajakan. Mengacu undang-undang tersebut, pemerintah mengharuskan seluruh wajib pajak agar melaporkan SPT sesuai dengan ketentuan yang berlaku."" Nih lagi ""Apabila Wajib Pajak tidak menyampaikan Surat Pemberitahuan sampai batas waktu, dapat dikenakan sanksi",negatif,,True,acak,Rifky,B_101-450,,negatif
+250,50bd1167-b9ec-42f9-9ab3-1f3c934409ab,2025-01-11 09:07:35,2,1,Live chat kagak pernah bisa. Di aplikasi maupun website. Buat apa bikin aplikasi kalo gak guna!,negatif,,True,acak,Rifky,B_101-450,,negatif
+251,9920bc92-ee0e-4124-ba7d-15bd9824707f,2025-04-17 01:18:17,3,1,Sengaja di buat pusing dan sulit supaya kita habis tenaga tak ada waktu untuk berfikir lain intinya bayar,negatif,,True,acak,Rifky,B_101-450,,negatif
+252,f9a393d4-6b62-41ff-be0e-7c506f61f91b,2026-02-03 12:06:03,4,1,Gak iso login,negatif,,True,acak,Rifky,B_101-450,,negatif
+253,774252e1-c3a9-4649-bdb0-b6f4b4f8c697,2025-02-11 05:24:11,2,1,Belum pantas di publish,negatif,,True,acak,Rifky,B_101-450,,negatif
+254,5fd4c351-d3ca-4324-afd8-c420a27fba82,2025-01-14 08:57:06,2,1,Aplikasi tolol d bikin g bisa login😁😁😁,negatif,,True,acak,Rifky,B_101-450,,negatif
+255,c8674bfc-73d0-4e62-8aa2-7c469924b029,2025-06-01 23:42:57,3,1,kesel banget udh beberapa kali login gagal padahal password sama NPWP udh puluhan ribu kali di cek sama tapi ttp ga bisa login,negatif,,True,acak,Rifky,B_101-450,,negatif
+256,dd122a24-3c61-46cf-8103-e74fb79b48fa,2025-03-04 08:06:58,2,1,"menurut saya aplikasi ini sama sekali tidak membantu, gw ngerasa kalo pemerintah emng ga niat buat upgrade deh, masih bertahan dengan sistem dan orang-orang lama. jaddiii menurutku sih ga usah berharap pemerintah bisa mengikuti jaman dengan baik hehe",negatif,,True,acak,Rifky,B_101-450,,negatif
+257,53353624-5dae-4707-a054-fd50dd3a5d8e,2024-06-05 07:03:54,1,1,Bukannya mempermudah malah mempersulit,negatif,,True,acak,Rifky,B_101-450,,negatif
+258,60d244b7-6c0b-4a1d-9053-740b6f95a6a1,2026-01-13 11:19:06,4,1,aplikasi susah di gunakan,negatif,,True,acak,Rifky,B_101-450,,negatif
+259,bf23913c-ae2c-4b09-a4c0-2aa2b1c93c27,2025-03-17 09:59:21,2,1,Aplikasi sia sia,negatif,,True,acak,Rifky,B_101-450,,negatif
+260,decf6ff7-195d-4b1b-89d4-a106d6c5d599,2025-02-26 05:55:45,2,1,"Tidak ada respon sama sekali dari live chat pajak, tolong benahi saya sudah 2 hari menunggu respon bolak balik buka chat live",negatif,,True,acak,Rifky,B_101-450,,negatif
+261,50d7d4b5-8d75-4772-ac64-48c35d56005c,2024-12-25 13:57:57,1,5,"Terimakasih min updetan kali ini lebih baik drpda sebelumnya, sekarang tombol OTP verifikasinya sdh bisa d klik, jadi mudah deh untuk mendapatkan EFIN",positif,,True,acak,Rifky,B_101-450,,positif
+262,78887f6e-302f-448a-a61f-7e765ffd15c5,2025-01-14 01:44:40,2,1,pakai aplikasi susah..ga bsa bikin ebil...ribet,negatif,,True,acak,Rifky,B_101-450,,negatif
+263,3476abbe-dd73-40ec-932d-ebbef7d894c4,2026-03-30 07:31:01,4,2,Mau login aja susah mohon system segera di perbaiki,negatif,,True,acak,Rifky,B_101-450,,negatif
+264,7018cd85-97df-4b8d-ac96-49ed957e4381,2026-04-18 10:19:06,4,1,"aplikasi gak guna, gak jelas,error muluu..payah",negatif,,True,acak,Rifky,B_101-450,,negatif
+265,8e04a507-a8fa-44a4-80ee-cbcd8fb25f36,2025-04-28 02:09:08,3,1,pelayanan di kantor jelek sekali.,negatif,,True,acak,Rifky,B_101-450,,negatif
+266,eada04ff-a746-4c3f-a398-252d126ee040,2025-02-27 03:30:08,2,1,biar bintang yang berbicara,netral,,True,acak,Rifky,B_101-450,,netral
+267,fe7b7af8-ce44-4136-a63e-dd8f55171515,2025-03-03 14:53:02,2,1,Parah lah... Ngga bener...,negatif,,True,acak,Rifky,B_101-450,,negatif
+268,52f4b206-5617-4f65-ae54-bc88bfa3b159,2024-12-03 10:44:26,1,1,"Minimal aplikasi di benerin lah, malu bgt rakyatnya suruh bayar pajak tapi pelayananya minus.",negatif,,True,acak,Rifky,B_101-450,,negatif
+269,c5c7e2b2-8f1f-45ab-bda4-f2653d27b150,2025-05-23 09:32:33,3,1,"sa kesal sekali, buat NPWP jadi susah semenjak jadi cortax. verif 2 hari 2 malam. bodoh sekali",negatif,,True,acak,Rifky,B_101-450,,negatif
+270,2e16f942-6ad5-4d46-8f80-47b430425d05,2026-03-25 12:49:17,4,1,"kampungan, aplikasi haus foto dll,masa tiap di buka harus selfie wkwkwkwkw kenapaa tidak pakai sidak jari",negatif,,True,acak,Rifky,B_101-450,,negatif
+271,4235c94e-078d-43ed-a1f5-3de66f278199,2024-09-25 15:25:31,1,1,"aplikasi bermasalah, lebih baik hapus saja aplikasinya",negatif,,True,acak,Rifky,B_101-450,,negatif
+272,86ff52f4-a21f-4b39-b5a4-6fc4089aef0a,2024-10-20 04:39:27,1,1,Aplikasi ga jelas,negatif,,True,acak,Rifky,B_101-450,,negatif
+273,ac9508c3-139b-444d-8b45-45d77799564c,2025-08-02 14:42:53,3,1,"aplikasi ini dibuat dari uang pajak kami , tapi malah mempersulit hidup dan buang buang waktu sangaaatttttt anehhhh jangan hanya mau rakyat bayar pajak aja tapi buat aplikasi malah nyusahinnnnnnn",negatif,,True,acak,Rifky,B_101-450,,negatif
+274,7232ffb3-d3d4-4f68-99d8-4146e5f66609,2025-01-29 02:11:35,2,1,"Apa apaan ini aplikasinya udah lengkap semua data yg diminta, malah dipersulit, padahal bener2 lupa efin Niat buat aplikasi ga sih, kalo emng ganiat buat aplikasi sekalian aja nyuruh masyarakat datengin langsung kantor pajak yg terdekat buat npwp,dihapus aja apk nya ga guna juga Jaman canggih TPI apk bobrok!",negatif,,True,acak,Rifky,B_101-450,,negatif
+275,f97ffcea-c490-4f36-9fd8-340f308c5a6b,2025-04-14 05:16:46,3,1,ampas,negatif,,True,acak,Rifky,B_101-450,,negatif
+276,22618ffc-9b29-4f26-a902-84e10df71fde,2024-06-07 02:11:08,1,5,Sangat membantu saya dalam laporan tahunan,positif,,True,acak,Rifky,B_101-450,,positif
+277,74837b98-df09-4c9a-9555-761dedcd74b7,2025-10-22 06:54:09,3,1,"aplikasi gak gua, bikin npwp susah",negatif,,True,acak,Rifky,B_101-450,,negatif
+278,2f16c287-f041-467b-b8f2-ecba9ff704e3,2025-10-14 07:12:24,3,1,"Pendaftaran sulit di persulit , ga usah klen kerja longor kalau ini aja klen persulit",negatif,,True,acak,Rifky,B_101-450,,negatif
+279,2a4ffadc-edb8-423e-87a4-0b05012d3e05,2025-02-07 03:56:46,2,1,"Masuk aja susah, suruh masukin kode tapi gk dikirim ke email, sekelas aplikasi untuk negara kok kaya gtu",negatif,,True,acak,Rifky,B_101-450,,negatif
+280,50123960-682b-4cf9-9c10-935aa9d50949,2025-06-17 08:19:48,3,1,aplikasi ini jelek sekali lambat jangan percaya orang-orang cht dari Wa,negatif,,True,acak,Rifky,B_101-450,,negatif
+281,81428f26-4f69-4c23-a419-bc7043c0dae3,2025-12-18 06:55:18,3,1,aplikasi ga guna,negatif,,True,acak,Rifky,B_101-450,,negatif
+282,055ee725-2879-4ebd-a494-97ac1d77b21e,2025-01-30 06:43:20,2,1,"BAYAR PAJAK DOANG, APKNYA GA BERJALAN DENGAN BAIK. PERTANYAAN SAMA CS KAGA BISA",negatif,,True,acak,Rifky,B_101-450,,negatif
+283,9f218de6-32d2-45e9-83d2-d4e88e93b6b8,2025-03-21 21:48:30,2,1,membingungkan,negatif,,True,acak,Rifky,B_101-450,,negatif
+284,51bb8c4f-27b9-4639-b004-b5b08be6a0d5,2025-12-04 17:12:32,3,1,"loginnnya ribet, selalu eror padahal user name sama password udah benar. apk cacat nggk guna dari pemerintah.👎👎",negatif,,True,acak,Rifky,B_101-450,,negatif
+285,0aeee790-1cd7-44c5-94ca-f08777a18ac5,2025-07-06 15:26:42,3,4,lumayan,netral,,True,acak,Rifky,B_101-450,,positif
+286,67a811b1-5518-41f5-85fd-240a88f4f92e,2024-09-01 16:04:17,1,1,Ribet banget,negatif,,True,acak,Rifky,B_101-450,,negatif
+287,01556969-9a02-45cf-b2b9-50357e0557c9,2026-03-23 00:17:51,4,1,"tolong perbaiki kecepatan website nya karena itu mengganggu sekali untuk orang yang ingin membuat NPWP selalu gagal, sinyal lemot, website sering error dan masih banyak lagi, kumohon jangan apa apa dikorupsi",negatif,,True,acak,Rifky,B_101-450,,negatif
+288,154c438a-b5a1-40fe-a5e2-7674be59b9e8,2025-01-15 07:59:48,2,1,"apakah nama djp disalah gunakan bt penipuan,krn sy di tlp pakai logo ini,ngaku vertivikasi data umkm, fan di arahkan dwld ini,dan sruh ok² di macam2 ,semoga pd hati2,dimintai data internal hp",negatif,,True,acak,Rifky,B_101-450,,negatif
+289,5d581ecc-45b0-4e23-8d8b-7b99c1818d26,2024-01-09 04:18:09,1,4,Good,positif,,True,acak,Rifky,B_101-450,,positif
+290,f20280e4-5077-4853-aee4-9d341395894f,2025-03-30 00:02:25,2,1,"aplikasinya belum siap digunakan, mau buat spt tahunan saja tidak ada menunya, mau cek laporan spt sebelumnya juga tidak ada, proses aktivasi sangat ribet, apa pembuatan aplikasi ini juga dikorupsi?",negatif,,True,acak,Rifky,B_101-450,,negatif
+291,646d879b-75af-4295-ac73-63aa68c677d6,2025-09-10 12:27:00,3,1,males amat tiap buka aplikasi harus log in ulang mulu,negatif,,True,acak,Rifky,B_101-450,,negatif
+292,216ef081-5548-4aee-b73d-952ff276ac21,2026-05-23 06:29:29,4,1,"ini gimana sihh aplikasi report bangtt pas tahap pendaftaran kirim nomor handphone pas minta otp SMS kaggk muncul"" lihat di WhatsApp kaggk ada lihat di pesan kaggk ada ihhh gini amatt pajakk mah gedee terus apa gehh udh download aplikasi daftarnya di arahin ke website amang"" pemerintah doang ini mahh pajak doang GEDEEE , kaggk kayak aplikasi Porli daftar gampang kaggk ribettt ini mahh ihhh",negatif,,True,acak,Rifky,B_101-450,,negatif
+293,1c2cd7f8-a961-4028-ac2c-8a808d25b0b3,2024-03-30 13:55:13,1,1,Yang digadang gadang setiap baliho efiling ternyata zonk wkwkwwk,negatif,,True,acak,Rifky,B_101-450,,negatif
+294,ebdaa542-fd81-4dcf-9a3a-80ef646d184e,2026-04-30 16:48:48,4,1,"gatau deh mau lapor pajakk dibuat susah gini, ini kalo sampe ga lapor terus kena denda 100ribu kebangetan sih apalagi yg belum berpenghasilan, padahal kemarin pas pake djp online enak, ini aku udah coba berkali kali lewat wab gabisaa, bukan masalah bisa langsung datang ke kpp tpi keadaan merantau sibuk kerja lagian zaman makin modern maunya yg lebih fleksibel bisa online tpii dibuat susah ginii",negatif,,True,acak,Rifky,B_101-450,,negatif
+295,2257e8e4-9f9f-4832-b665-b021f3849bf1,2025-08-13 04:09:39,3,1,sistem eror terus,negatif,,True,acak,Rifky,B_101-450,,negatif
+296,8c2d6f33-cab9-46df-8429-1277f7f3d44e,2024-06-14 10:08:06,1,1,"aplikasi sampah, sampah dan sampah,",negatif,,True,acak,Rifky,B_101-450,,negatif
+297,9c3d2841-b7af-4a06-be9e-b0577d678669,2024-03-25 06:12:08,1,1,Ebusseet ini apk kek kntl,negatif,,True,acak,Rifky,B_101-450,,negatif
+299,f4f4ad81-64d0-4996-9c6e-3ff66ae935b2,2024-01-11 03:54:18,1,5,Sangat membantu 🙏,positif,,True,acak,Rifky,B_101-450,,positif
+300,e008d5c3-9f58-4af7-b985-492d73869cc3,2025-04-10 12:05:45,3,1,login mau lapor pajak aja di persulit,negatif,,True,acak,Rifky,B_101-450,,negatif
+301,6858d381-6f9a-4252-9598-931e6d584079,2024-03-28 06:55:16,1,1,"Mau lapor pajak aplikasi eror mulu, gak lapor pajak denda, pemerintah bisa nya bikin susah aja",negatif,,True,acak,Rifky,B_101-450,,negatif
+302,d1ca5dcd-fce5-44bd-8fad-c90fcd7701c7,2025-06-03 00:43:44,3,1,ga niat bikin server,negatif,,True,acak,Rifky,B_101-450,,negatif
+303,f7d38db8-3a2a-4b55-9d61-8f6dc0276438,2026-09-06 23:44:06,4,1,gak bisa log in parah siihh... sangat di sayangkan aplikasinya kualitas rendah,negatif,,True,acak,Rifky,B_101-450,,negatif
+304,4ce8abb8-7d71-4220-a4a3-d9f80ac0adf0,2026-04-05 19:44:51,4,1,sungguh sangat buruk ini aplikasi. mau daftar juga susah banget.. padahal mau baik mau laporan pendapat.,negatif,,True,acak,Rifky,B_101-450,,negatif
+305,50068b90-62b6-457a-add3-6b5ecc09006c,2025-08-01 07:26:00,3,1,"aplikasi gak membantu banget. mau daftar, mau laporan pajak aja susah nya minta ampun. di wa gak membantu banget. tidak ada sosialisasi pencerahan perpindahan ke coretax. RIBET. GAK GUNA. HABISIN ANGGARAN DOANG. MASYARAKAT KECEWA!",negatif,,True,acak,Rifky,B_101-450,,negatif
+306,948d0873-2df8-434b-bfd3-66024f7d20bb,2025-12-24 04:06:08,3,1,aplikasi tolol,negatif,,True,acak,Rifky,B_101-450,,negatif
+307,626149f5-6016-4627-ad47-cc48e3f25c61,2025-06-12 04:00:39,3,1,AOK GK GUNA MAU DAFTAR NPWP MINTA NO HP TAPI GK NGIRIM KODE..,negatif,,True,acak,Rifky,B_101-450,,negatif
+308,ef5269c0-e654-4622-b137-c91b76e112b7,2024-09-05 09:23:33,1,1,"Aplikasi kemplo, buang-buang duit negara",negatif,opini_politik,True,acak,Rifky,B_101-450,,negatif
+309,891d7d3b-9002-45e0-8cfd-0cc5b1d67d94,2025-05-06 21:29:03,3,3,asik gak dia,netral,,True,acak,Rifky,B_101-450,,negatif
+310,be4e8fc9-8f60-4c20-a727-2d2eeabb97ca,2024-02-12 09:01:55,1,2,Baik,positif,,True,acak,Rifky,B_101-450,,positif
+311,f6eaba6c-a462-4c65-8fac-4bef3076e620,2024-03-26 06:35:19,1,1,"Aplikasi bukannya bantu malah makin kesel. Tolol IT developmentnya. Sruh update tapi malah error, d playstore aja ga ada updatenya. Gmna sih.. Aplikasi tolol.",negatif,,True,acak,Rifky,B_101-450,,negatif
+312,1eada6bf-19ba-4fcd-a420-14e52ff4d07d,2024-03-22 08:36:24,1,1,"Kebanyakan loading, gini nih aplikasi klo biaya mahal hasil nyata murahan. Di korup terus",negatif,,True,acak,Rifky,B_101-450,,negatif
+313,dddd7351-f1b0-48ba-af6c-ed0f4fb9c40f,2026-02-11 06:35:47,4,1,susah apk nya,negatif,,True,acak,Rifky,B_101-450,,negatif
+314,ceac4af1-9655-4f92-a16b-50d33950b185,2026-08-17 01:42:08,4,1,"kok ada ya aplikasi se sampah ini, pdahal duit pajak gde tapi ga mampu kelola aplikasi susah buat daftar",negatif,,True,acak,Rifky,B_101-450,,negatif
+315,47246e89-23f4-49f9-972d-9b7ca764f800,2025-04-21 05:44:19,3,1,korupsi korupsi,negatif,opini_politik,True,acak,Rifky,B_101-450,,negatif
+316,96b66ad5-1996-4155-a7d2-33538c98dde9,2024-08-06 04:07:39,1,5,Good,positif,,True,acak,Rifky,B_101-450,,positif
+317,07d9ae01-5b9f-42ff-8a38-2f16773687c8,2025-09-06 12:46:58,3,5,"aplikasinya bagus banget untuk ladang korupsi, mantap kali, lanjutkan menyengsarakan masyarakat 👍🏻",negatif,opini_politik,True,acak,Rifky,B_101-450,,positif
+318,42bd8ec2-0056-4a3d-8b19-3ae8fcb87d87,2025-05-23 04:47:49,3,1,aneh kita yang bayar pajak kita yang laporan. dan mau laporan pun sulit dapat datanya.,negatif,,True,acak,Rifky,B_101-450,,negatif
+319,2a7c96ae-f9ed-4183-bc90-12513ea11930,2024-12-30 11:01:56,1,1,"Hati2 penipuan a/n djp disuruh download aplikasi kemudian masuk ke aplikasi yg proses cuma verifikasi2 doang. Nanti ada kode otp, mereka minta untuk aktivasi & semua saldo di ATM akan habis",negatif,,True,acak,Rifky,B_101-450,,negatif
+320,9bf9a4d2-1f42-4799-a613-5be5f2bb793d,2026-05-23 13:46:55,4,1,aneh,negatif,,True,acak,Rifky,B_101-450,,negatif
+321,d65183bc-e686-4b93-b5f9-7f6f290131e4,2026-08-05 04:14:56,4,5,"untuk aplikasinya bagus sebagai pra layanan dari pemerintah, namun tolong untuk developer nya, saya mau masuk susah dan untuk verifikasi klaim sertifikat dikatakan ""waktu sesi habis"" atau saat aktivasi akun dan melalui tahap verifikasi wajah ""eror"" padahal belum terdeteksi, tolong diperbaiki lagi. apalagi untuk khusus daerah terpencil yang tidak memiliki akses layanan kantor pajak terdekat, serta hanya bisa bergantung pada aplikasi ini saja. jadi tolong sekali lagi diperbaiki.",negatif,,True,acak,Rifky,B_101-450,,negatif
+322,4bda9550-8068-4b77-8c4f-52fd65635f17,2025-02-25 08:27:06,2,1,aplikasi gak guna...buang2 uang...,negatif,,True,acak,Rifky,B_101-450,,negatif
+323,8ef47b2f-924d-4fac-bc21-065fb61688ad,2026-03-05 00:43:41,4,1,"Mau bayar pajak aja dipersulit, aplikasi tak berguna, tidak profesional 👎👎👎",negatif,,True,acak,Rifky,B_101-450,,negatif
+324,4915420f-f2d1-478a-9270-a9b209d5c9af,2025-09-05 06:58:13,3,1,pwngen bilang anj,negatif,,True,acak,Rifky,B_101-450,,negatif
+325,29616739-6011-481b-92ad-e994bf39b1e8,2024-06-04 23:12:59,1,5,Sangat baik.,positif,,True,acak,Rifky,B_101-450,,positif
+326,b5aca959-c139-4721-8833-a1b28ad79f43,2024-05-16 19:31:25,1,1,"TIDAK BISA MASUK MAU DI APLIKASI ATAU PUN DI GOOGLE CROME SELALU GAGAL MULU!!,KATANYA DATA GAK ADA,PADAHAL KALU DICEK BISA MUNCUL!!",negatif,,True,acak,Rifky,B_101-450,,negatif
+327,fdfc0612-7405-4fb4-9f5b-9da4afa05522,2025-03-10 16:34:28,2,1,Aplikasi ini dimanfaatkan untuk penipuan saya sempat terjebak,negatif,,True,acak,Rifky,B_101-450,,negatif
+328,25d93db4-7caa-4003-b432-3dcbcbdf144c,2025-01-03 07:43:44,2,1,Baik website dan aplikasi semua masih jauh dari harapan,negatif,,True,acak,Rifky,B_101-450,,negatif
+329,9dfcf097-9de3-4b7c-8654-ae63e9b9ce8c,2025-11-05 07:58:17,3,1,mau masuk aplikasi susah banget padahal sudah punya akun,negatif,,True,acak,Rifky,B_101-450,,negatif
+330,5391cdc3-9fab-40ef-859f-1bd4b22f0f95,2025-05-14 15:59:39,3,1,"emang apa apa yg dibuat pemerintah semua sampah, sudaah berhasil registrasi. giliran cari dokumen kartu palah ga ada",negatif,,True,acak,Rifky,B_101-450,,negatif
+331,661c3766-fd45-480a-a665-26420bafa70e,2025-03-24 07:53:10,2,1,orang nganggur sudah tidak kerja jgn suruh lapor pajak. apanya yg mau lapor kan sudah dilaporkan oleh perusahaan. ngapain minta perorangan lgi.,negatif,opini_politik,True,acak,Rifky,B_101-450,,negatif
+332,3de4c7ac-6f6a-4954-bd86-a10d981cb9fa,2025-11-05 08:27:46,3,1,"login dapat exception session berakhir chat cs, buttonya gak bisa ditrigger wkwkw",negatif,,True,acak,Rifky,B_101-450,,negatif
+333,1f2e1e93-6fac-4d04-8ea5-5a63deb20692,2025-09-08 16:01:38,3,1,"Untuk apa aplikasi ini kalo daftar ajah masi disuruh ke web site nya,setidaknya ada aplikasinya untuk mempermudah orang buat NPWP atau cek yang lain",negatif,,True,acak,Rifky,B_101-450,,negatif
+334,7aa2a003-ed9b-4ff2-8ca3-973b653ad752,2026-02-12 04:07:50,4,1,"Kalau sudah bagus, We'll Be Back Soon...",negatif,,True,acak,Rifky,B_101-450,,positif
+335,3955eba2-2aa8-4127-b7f8-6bfb51d941a3,2026-07-05 17:40:03,4,1,"aplikasi nggak ada gunanya, malah bikin ribet",negatif,,True,acak,Rifky,B_101-450,,negatif
+336,1bce454e-9612-44c9-9a47-ed08edbab0db,2025-03-18 19:03:31,2,5,selalu ok,positif,,True,acak,Rifky,B_101-450,,positif
+337,9bf2703a-96b6-4bb3-b717-313a913a421b,2025-12-10 15:48:52,3,1,jelek 👎🤟,negatif,,True,acak,Rifky,B_101-450,,negatif
+338,1e404593-a7f1-4efc-90ab-02706fb63718,2024-12-30 23:39:26,1,1,Live chat nya GK bisa d akses,negatif,,True,acak,Rifky,B_101-450,,negatif
+339,51cefb30-f6fd-4eaa-922d-60824fe68978,2025-03-06 07:30:24,2,1,"aplikasi lemotnya minta ampun,tolong ini cuma mau verifikasi email doang lama banget padahal udah bisa login...kok susah banget sih",negatif,,True,acak,Rifky,B_101-450,,negatif
+340,f6f4b381-72ea-42d8-ae55-3baf44cd0611,2024-03-18 02:33:29,1,5,"Praktis dan banyak menu menarik. Bisa melihat kantor pajak terdekat sesuai lokasi kita saat ini, bisa akses kalkulator pajak, lupa EFIN, buat kode billing, update aturan terbaru, dan sebagainya. Yuks, unduh aplikasinya untuk layanan pajak yang makin praktis.",positif,,True,acak,Rifky,B_101-450,,positif
+341,5520bd3f-6a47-4026-b6c4-8d4cde6182a4,2025-03-10 00:41:10,2,1,Mudah untuk. Mengecek PBB stts,positif,,True,acak,Rifky,B_101-450,,positif
+342,993f5593-50c8-4951-af75-7d4648a4295f,2025-05-18 20:48:29,3,1,"ini aplikasi palsu gaessss, bukan dari pemerintahan direktorat jendral pajak, ingat! ini aplikasi palsu, liat aja di instagram nya royshakti yg ada centang biru nya",negatif,,True,acak,Rifky,B_101-450,,negatif
+343,9707e246-eaef-452f-8071-c0afcc152c24,2026-04-02 03:23:24,4,1,"Apk apa ini Gk jelas betul iklannya cuma 5 menti udah bisa buat NPWP pas mau daftar baru lembaran kedua udah di persulit kita udah verify email & no telpon udah masukin kode otp juga pas mau lanjut Gk bisa gitu kok katanya mempermudah, kita disuruh wajib pajak buat NPWP dipersulit pajak dibayar dikorupsi pula nanti Gk bayar pajak kita pula disalahkan dianggap ilegal kocak memang aturan negara ini",negatif,,True,acak,Rifky,B_101-450,,negatif
+344,8f4d50b1-1fd8-432c-9eb6-c8e85b7cee37,2026-02-06 07:00:20,4,1,"update secara berkala tiap hari, tanpa hasil yg signifikan, lelet",negatif,,True,acak,Rifky,B_101-450,,negatif
+345,1802d094-47ae-48d9-bdf3-fd5b2c26d1c6,2026-03-18 05:21:58,4,1,"aplikasi ga jelas, tombol efin tidak ada, iuran gaji lo pada aja kita dibuat ribet",negatif,,True,acak,Rifky,B_101-450,,negatif
+346,f321a5a9-3ec7-4eda-9d4f-b9e73efd9708,2025-03-06 11:43:07,2,1,"Udah setahun lebih, ini aplikasi masih aja problem di bagian verifikasi pengecekan EFIN,( buka pake hp ga bisa di scroll gak bisa di apa apain jadinya stuck ga bisa minta verifikasi mau di kirim kemana) Gada niat buat benerin kah??",negatif,,True,acak,Rifky,B_101-450,,negatif
+347,5af5d394-2047-4e6d-a407-64384fed5bdd,2026-03-31 02:44:12,4,1,"Sudah diperas dengan pajak, mau lapor pajak juga masih kena pajak SMS. Memang ini aplikasi dan instansinya menyusahkan saja. Mau lapor lewat web, harus login di apk. Mau login di apk, harus konfirmasi lewat laman online lagi. MENYUSAHKAN DAN MENYENGSARAKAN SAJA👎",negatif,,True,acak,Rifky,B_101-450,,negatif
+348,e7fb35c4-b41c-4c07-a6bd-e3ae24654310,2025-01-10 06:07:12,2,1,enggh bisa login dari aplikasi M- Pajak Tetepi bisa login dari browser .... Adeh gawat aplikasi ini,negatif,,True,acak,Rifky,B_101-450,,negatif
+349,3f17af77-94c5-43ae-9aec-736a65c56d7d,2025-01-06 03:54:13,2,1,"Aplikasi GAGUNA!!! Mau registrasi aja ngga bisa, muter"" mulu.. yang ada bikin bingung",negatif,,True,acak,Rifky,B_101-450,,negatif
+350,7809cffa-4cc2-4241-a7de-3622aa2b2c06,2024-03-23 00:49:56,1,1,"Gak bisa digunakan, tetep kudu ke kantor pajak 👍",negatif,,True,acak,Rifky,B_101-450,,negatif
+351,24833d26-644d-4427-9bac-0492c29982b8,2025-11-10 14:27:49,3,1,kita mau jadi rakyat yang taat bayar pajak tapi mau daftar online susahnya minta ampun muter2 gak selwsau selsai ada saja yang menyebut gagal apa lagi aplikasi ini harusnya ada link kusus bagi pengguna baru untul melakukan pendaftaran,negatif,,True,acak,Rifky,B_101-450,,negatif
+352,4722e504-6863-4132-9d79-5202f310429f,2025-02-05 01:28:17,2,1,"Mengajukan lupa EFIN, sudah ngisi syarat2nya, katanya dikirim lewat email, tapi sampai sekarang nggak ada email masuk. Chat lewat Live Chat juga respon bertele2. Mau tertib kok susah amat.",negatif,,True,acak,Rifky,B_101-450,,negatif
+353,fd3551fa-00f6-4acc-baa4-7642d05eba98,2025-04-24 16:47:39,3,5,sangat membantu,positif,,True,acak,Rifky,B_101-450,,positif
+354,94c8486f-facb-4e19-8484-3e5f5a17905c,2025-01-07 02:06:25,2,1,"Seharusnya aplikasi ini mendapatkan bintang setengah, minimal kasih fasilitas pembuatan NPWP-nya dj aplikasi ini. Secara logika bagaimana caranya orang masuk kalau belum daftar. Rakyat dipaksa bayar pajak tetapi aplikasi pajaknya bermasalah",negatif,,True,acak,Rifky,B_101-450,,negatif
+355,3aa9db1c-3af2-432b-9d1f-9b1c52784c79,2024-10-29 02:48:44,1,1,percuma pembuatan NPWP online kalo harus minta EFIN offline ke kpp,negatif,,True,acak,Rifky,B_101-450,,negatif
+356,75c1a03b-792f-4485-8e57-2059ccb5bcd4,2026-02-14 17:58:04,4,1,BUSUK,negatif,,True,acak,Rifky,B_101-450,,negatif
+357,5d13b288-41a1-4afa-a16f-0b63787c4014,2025-02-07 10:57:55,2,1,Ngk mobile ng webnya ngk offline kantornya sama sama susah,negatif,,True,acak,Rifky,B_101-450,,negatif
+358,b7595c99-5961-4faa-9765-168a0856d230,2024-12-19 10:55:13,1,1,Verifikasi lupa efin error,negatif,,True,acak,Rifky,B_101-450,,negatif
+359,18c2f64b-4052-4cd9-8928-68776401ee8a,2024-10-10 09:52:55,1,1,sampah banget lambat mau download bukti potongan lama sampah brooo bayar pajak mahal mahal buat apk sama website kek sampah,negatif,,True,acak,Rifky,B_101-450,,negatif
+360,f34fcacf-0a75-4cff-bc3e-2f51ec0cbbd6,2025-11-20 01:39:20,3,1,apk gk jelas,negatif,,True,acak,Rifky,B_101-450,,negatif
+361,6fe16f40-670d-4805-beb2-b06540a8fc54,2026-07-10 03:50:12,4,1,"aneh, gjls makin ksini makin aneh apaan map putih² gitu gajelas gajelas",negatif,,True,acak,Rifky,B_101-450,,negatif
+362,637c5924-12f6-4605-a5a3-d5b317bf93b0,2025-03-06 08:12:46,2,1,Gak lapor di denda tapi lapor via aplikasi gabisa login via web eror gimana seh,negatif,,True,acak,Rifky,B_101-450,,negatif
+363,40c55469-382b-4966-a8ae-4c6731bf80bc,2024-01-26 07:05:19,1,1,Mempunyai NPWP ribet ini lah itu.apa lgi ngurus efin ah.mending gak ush punya NPWP.. bikin susah,negatif,,True,acak,Rifky,B_101-450,,negatif
+364,08d97d5d-549c-4733-8ff1-c753fa84cf3b,2025-06-13 05:46:36,3,1,aplikasi.. siliiiiit !!? sangat membagongkan gak berguna sma s kali.,negatif,,True,acak,Rifky,B_101-450,,negatif
+365,d8fc265d-6a58-4fe8-9524-d39e534fe34a,2024-11-06 08:53:40,1,1,Mohon maaf untuk pendaftaran sangat ribet dan bermasalah. Jika tidak di perbaiki saya akan berikan rating yg buruk. Buat perpajakan jangan ribet,negatif,,True,acak,Rifky,B_101-450,,negatif
+366,de7a89d1-3923-4dcb-9e5d-90e02859e8f3,2025-02-05 08:29:49,2,1,Ngebug aplikasinya,negatif,,True,acak,Rifky,B_101-450,,negatif
+367,0230a31b-da4b-495f-9d06-96eb08e3d328,2025-03-24 16:10:41,2,1,"mau jadi warga taat aja susahnya, coy. udah masukin NPWP, password, error. pesan username dan password yang anda masukkan salah. padahal itu gak pernah berubah, ajukan Lupa Password gak bisa, balik lagi, balik lagi. Iki pie to, coy. padahal udah tanggal 24 maret, bentar lagi abis waktu pelaporan. mbok ya bikin aplikasi yang bener pak, duit rakyat kok disia-siakan dengan aplikasi sampah kayak gini.",negatif,,True,acak,Rifky,B_101-450,,negatif
+368,0a6a7ebc-fb4b-4ff4-bedf-a8fb19840d8f,2024-08-30 14:05:20,1,5,Sangat Membantu,positif,,True,acak,Rifky,B_101-450,,positif
+369,0db51bb5-9416-4482-be1f-aecb493b91b9,2026-06-02 08:16:39,4,1,becus bikin aplikasi ga sih??????,negatif,,True,acak,Rifky,B_101-450,,negatif
+370,b0bc71d7-a9a8-4f9f-b10c-8dcb48717202,2024-08-06 01:52:13,1,1,"Hancur Tidak bisa login password bener di bilang salah Ganti password jaringan bermasalah, padahal jaringan bagus",negatif,,True,acak,Rifky,B_101-450,,negatif
+371,50105455-a772-425a-b1f0-40c0a8029ba7,2024-01-22 12:47:11,1,1,Aplikasi pemerintah? Bukanya mempermudah malah mempersulit. 1.pembuatan akun npwp sulit minta ampun 2.untuk log in sulit 3.figtur ampas g bisa jalan (contohnya laporan SPT tahunan. Fiks aplikasi ter ampas yang pernah saya download🤡,negatif,,True,acak,Rifky,B_101-450,,negatif
+372,6aeb02e8-6f51-423a-b1df-f80113080a58,2026-04-30 09:43:01,4,1,gajelas mau login aja di bikin ribet,negatif,,True,acak,Rifky,B_101-450,,negatif
+373,88b65cae-4080-4c73-8943-9b1eda4308a3,2025-01-09 01:03:08,2,1,Masa pengajuan lupa EVIN ngga bisa padahal sudah ngisi data sesuai yang di minta .. Tinggal tahap terahir ngga bisa di pencet si,negatif,,True,acak,Rifky,B_101-450,,negatif
+374,989011d5-9099-4959-8266-93c2be3aa7a7,2025-03-18 02:04:29,2,3,Verify nomer hp NPWP gak di kirim,negatif,,True,acak,Rifky,B_101-450,,negatif
+375,1ac16702-25b7-4fef-b162-fc5cf652c56c,2024-06-30 13:58:54,1,1,"Sudah daftar dari tahun 2016, sampai hari ini masih kesulitan akses situs pajak, selalu salah pasword!",negatif,,True,acak,Rifky,B_101-450,,negatif
+376,5c8212f8-5468-4a9d-8757-f8c7bce2b33f,2026-08-27 09:30:12,4,1,najis bikin pharap sandi kaga bisa bisa,negatif,,True,acak,Rifky,B_101-450,,negatif
+377,eb32adff-ea7b-4403-bcd8-7e3cf01891b1,2026-02-10 21:42:13,4,3,"daftar online lwt coretak alamat domisili sdh benar tp gagal trs, cm ngurangin pulsa sm kuota doank.",negatif,,True,acak,Rifky,B_101-450,,negatif
+378,1a72deba-e11b-42e8-b540-3a6d2acf9c25,2026-07-22 12:20:13,4,1,aplikasi sampah,negatif,,True,acak,Rifky,B_101-450,,negatif
+379,55886907-90dd-49e7-9f9b-079854ce532f,2025-06-29 15:17:29,3,1,terlalu lama proses masuk akun ...dan selalu di tolak karena kebanyakan memasukan akun,negatif,,True,acak,Rifky,B_101-450,,negatif
+380,d969a495-4f56-4288-844f-07db97fdcea6,2025-03-10 05:22:55,2,5,Cara pelaporan pajak pratama,netral,,True,acak,Rifky,B_101-450,,netral
+381,eed748bf-b993-4040-9e3a-303958a60138,2026-02-11 00:19:29,4,5,aplikasi yang bagus mudah diakses,positif,,True,acak,Rifky,B_101-450,,positif
+382,336a3802-882a-40d3-b69e-d656dea7d08e,2024-05-28 13:18:42,1,1,coba buka aplikasi games Pow .. rating lebih tinggi 4.4 / zuma .. uwow ..,negatif,,True,acak,Rifky,B_101-450,,negatif
+383,808ca2a4-6836-437f-aa9f-bb0fb8df76f8,2025-02-26 03:41:31,2,1,Nunggu kode verifikasinya lama banget saya sampe 2 hari blm ada kode nya,negatif,,True,acak,Rifky,B_101-450,,negatif
+384,3c342853-3535-4a5c-a60a-7a4fafcabc7b,2026-02-05 06:28:21,4,1,"susah banget mau laporan tahunan dipersulit bgt aplikasinya jelek sekali, kemarin bisa log in tapi tidak bisa uodate data hanya bisa menampilkan kartu, sekarang katanya harus update di playstore tapi pas udah update harus log in harus aktivasi dan gabisa terus kalo mau log in... haduh pusinggg... pembuat aplikasi nya harus yang handal dong jangan asal²an",negatif,,True,acak,Rifky,B_101-450,,negatif
+385,91481391-ee2a-43e9-86ed-3a8484c9f743,2025-05-28 03:32:36,3,5,sangat membantu 🙏 lanjutkan....!!!,positif,,True,acak,Rifky,B_101-450,,positif
+386,ea4e9172-f454-4e62-9886-91f5035fb1fa,2025-06-30 02:52:46,3,1,gK bisa membantu pelaporan ribet kalo mesti ke kantor pajak gak guna aplikasi ini,negatif,,True,acak,Rifky,B_101-450,,negatif
+387,78fdeed9-3f0f-403a-97e7-219a6a09b2bc,2025-03-15 15:53:56,2,4,Mudahan lancar,netral,,True,acak,Rifky,B_101-450,,positif
+388,5dc4a144-02e3-4bac-943c-6f2a962648d4,2025-02-18 02:23:16,2,1,"Permohonan lupa Efin selalu gagal, walaupun email dan yang lainnya benar. Mohon tingkatkan lagi pelayanan dalam aplikasi atau perbaiki aplikasi",negatif,,True,acak,Rifky,B_101-450,,negatif
+389,d13625ef-5fcc-4a68-9f12-5defdcc8aff6,2025-10-18 05:37:21,3,1,apk ga guna bikin npwp aja susah bnget internet lancar dibilang ngga emng konoha,negatif,,True,acak,Rifky,B_101-450,,negatif
+390,ca6cc7b8-6be4-4f47-afa2-307408648e97,2024-04-01 14:06:27,1,5,sangat bermanfaat,positif,,True,acak,Rifky,B_101-450,,positif
+391,e7514266-756a-486c-856f-c696b4a78b84,2026-04-28 17:57:18,4,1,effort udah jam 1 malem buat aktivasi eh nyatanya kesalahan melulu. udah bener tahun kemarin pake e-filling lebih gampang.nggak kaya gini susahnya minta ampun!!,negatif,,True,acak,Rifky,B_101-450,,negatif
+392,772eb825-6721-4884-9068-e6a6602656f8,2026-03-10 12:13:09,4,1,punya negara aja kaya mash eror,negatif,,True,acak,Rifky,B_101-450,,negatif
+393,0c5f307b-01a3-4f9c-928b-9ad97f5ab722,2026-02-22 06:17:12,4,1,"gajelas, verifikasi nomor handphone kenapa ga masuk bahkan saya coba sampe seminggu?! bisa gasih yg niat bukannya ini juga penting ya buat kita apa coba, aplikasi yg harusnya dibutuhin bener bener malah ga guna, minimal kalo ada kendala server cepat di perbaiki! apaaaaaaaaaaaallllaahhhh",negatif,,True,acak,Rifky,B_101-450,,negatif
+394,26c399e6-aca1-4491-aa57-6ec0769dfc7c,2025-07-23 09:37:55,3,1,sangat buruk fitur kurang lengkap,negatif,,True,acak,Rifky,B_101-450,,negatif
+395,74044475-b7f1-4480-bac5-718fa7b05e5f,2025-03-06 02:35:39,2,1,Aplikasi sampah. Apalagi coretax aduh. Banyak masalah. Ga dapet dapet kode verifikasi ke email atau SMS parah,negatif,,True,acak,Rifky,B_101-450,,negatif
+396,32c38762-44f0-45e2-812d-bb77c2f4d35e,2025-02-13 04:42:48,2,5,Sangat bagus,positif,,True,acak,Rifky,B_101-450,,positif
+397,58e08967-24c6-48d9-ac57-afb46d0b0d5a,2025-07-27 03:29:01,3,1,fungsinya aplikasi buat apa sih? minimal ada fitur buat perbatui nomer hp/email.. masa ya tiap taun harus lapor pajak tapi gak dikasih fitur pembaruan data,negatif,,True,acak,Rifky,B_101-450,,negatif
+398,a05c363c-33b5-441d-a8f8-9b485454cd7d,2025-02-15 23:49:52,2,5,Akhirnya bisa dapat EFiN..,positif,,True,acak,Rifky,B_101-450,,netral
+399,0c13e212-ed27-4e23-9203-9d6065b4103b,2025-02-26 03:01:23,2,1,"kenapa buat aplikasi bukan untuk mempermudah, tiap bulan bayar pajak, mau lapor spt tahunan kenapa tidak bisa, mohon untuk orang terkait dibadan perpajakan buat aplikasi yang mudah, jangan bikin pusing, tolong perhatikan",negatif,,True,acak,Rifky,B_101-450,,negatif
+400,e70658ed-9a0e-4546-a91f-ff5baccb99bb,2025-11-11 11:30:33,3,1,susah masuk dan daftarnya.,negatif,,True,acak,Rifky,B_101-450,,negatif
+401,5905e9c5-0249-43c7-b76f-84a0e29ab09c,2024-03-19 05:17:26,1,1,Semoga segera diperbaiki,negatif,,True,acak,Rifky,B_101-450,,netral
+402,8c54cb94-b291-4d49-83e3-03726ac16616,2025-01-13 04:08:04,2,1,Aplikasi busuk gini ngabisin anggaran negara aja !!! Pelayanan kek kadal,negatif,,True,acak,Rifky,B_101-450,,negatif
+403,e0c29f19-6b12-482b-ab31-50292465bcad,2025-01-14 22:27:31,2,2,"Aplikasi tergaberguna asli udah di coba verifikasi email Ampe berhari hari tuh email kaga masuk masuk, sue bnget dah, ujung ujungnya malah harus Dateng ke KPP langsung akhh tolong dong yaa di tingkatkan lagi untuk masyarakat, katanya lebih mudah klo digital ini malah mempersulit, mau login ajh GK bisa bisa , gimana klo lagi keadaan terdesak",negatif,,True,acak,Rifky,B_101-450,,negatif
+404,8fbec50f-25cb-4a52-965d-43b5ecb40f07,2025-07-03 01:16:12,3,1,"saya mau bikin NPWP kenapa terhalang sama pihak ketiga terus ya, selalu di masalahkan validasi pekerjaan maksudnya apa si Indonesia",negatif,,True,acak,Rifky,B_101-450,,negatif
+405,8900325c-0962-49ee-9f30-1f12223880f3,2025-01-07 04:01:07,2,1,"Tidak bisa digunakan, log in selalu error",negatif,,True,acak,Rifky,B_101-450,,negatif
+406,93bc1c2b-02b1-485a-8ef1-a3b0116fbd72,2024-08-08 03:32:25,1,1,Apk pemerintah tp low performa...rakyat mau pajak aja dipersulit...ujung-ujungnya dikorupsi 😤,negatif,,True,acak,Rifky,B_101-450,,negatif
+408,23c35d7f-ad7b-4285-bf40-5195666866ad,2026-09-10 05:08:59,4,1,"kalo bisa si g mau ngasih bintang . berkali kali ngisi gagal terus, g tau apa kesalahannya, data udh bener padahal. g usah ngadain apk ini lah kalo bener² belum siap pake. apk ga jelas",negatif,,True,acak,Rifky,B_101-450,,negatif
+409,3583e6c4-de82-4491-8fd3-bd30b6861133,2024-02-12 09:06:37,1,1,Di saat masyarakat membutuhkan ada aja yg manfaatkan. Saran saya jgn download aplikasi ini.. Pulsa sudah kepotong tapi tidak ada kejelasan.,negatif,,True,acak,Rifky,B_101-450,,negatif
+410,cc52705f-43c5-4dfe-97ed-1ea270824337,2024-02-23 17:19:58,1,4,Sudah bagus hanya saya mau cek nmr NPWP saya,netral,,True,acak,Rifky,B_101-450,,netral
+411,428b6c7f-93d0-4ea0-b246-e026a5acae86,2025-12-15 08:38:49,3,1,payah aplikasi nih..padahal user name dan pasword sudah betul.masih salah juga,negatif,,True,acak,Rifky,B_101-450,,negatif
+412,da582308-f3ff-45ba-899e-9d3e3f364206,2025-11-25 07:34:24,3,1,"katanya udah dibenerin tapi nggak bisa"" login termasuk webnya coretax",negatif,,True,acak,Rifky,B_101-450,,negatif
+413,711d86ce-e8a3-4711-970f-68ddc7d06211,2024-05-31 02:03:04,1,1,"Aplikasi eror npwp dan sandi sdh betul pun ttp tidak bisa log in....perbaiki lagi coba .jangan kecewakan orang,!!!",negatif,,True,acak,Rifky,B_101-450,,negatif
+414,6451e774-374a-40df-8b20-00d8af0b2b3b,2025-12-20 15:53:48,3,1,apk ampas,negatif,,True,acak,Rifky,B_101-450,,negatif
+415,f6b4c176-947c-4b84-881d-6cc09490837f,2026-04-18 02:17:18,4,1,Aplikasi Paling Ribet.. Pembaruan Terus tapi Login makin Susah.. Id dan Pasword SDH Benar TPI kesalahan Login Terus... TIM IT nya Payah untuk aplikasi ini,negatif,,True,acak,Rifky,B_101-450,,negatif
+416,1a4ee3e6-c53d-4163-a890-60e8925b0c22,2025-12-31 03:43:45,3,1,"kita dituntut untuk update laporan,tapi kalian sebagai penyedia platform tidak update soal kemudahan pelayanan login dari setengah jam yang lalu selalu gagal,alasannya sesi telah berakhir lebih baik kembalikan ke setelen awal saja,agar lebih mudah diakses",negatif,,True,acak,Rifky,B_101-450,,negatif
+417,abbacf7d-a42e-4b69-b41b-7b2690b0e357,2026-03-18 04:27:10,4,2,kenapa tak bisa lapor spt melalui aplikasi ini???,negatif,,True,acak,Rifky,B_101-450,,negatif
+418,52cf1e68-4284-4d17-bad8-e2b6b3e2b044,2024-01-13 04:13:02,1,1,Tolong di perbaiki lagi masa iya gak bisa buat daftar,negatif,,True,acak,Rifky,B_101-450,,negatif
+419,964c5e93-09b6-4845-80d9-13e8d88561d2,2025-01-25 03:52:19,2,1,"Aplikasi apa si ini nomor telpon engga jelas buat verifikasi OTP dan email-nya pun juga engga jelas, aneh banget buat aplikasi ke tukang kebun kayanya engga jelas gini Punya anggaran bukannya buat aplikasi untuk memudahkan malah mempersulit masyarakat bikin pusing",negatif,,True,acak,Rifky,B_101-450,,negatif
+420,e4396d3f-0f97-4ac2-87dd-30be15099f75,2025-09-29 01:39:55,3,1,👎🏻👎🏻👎🏻👎🏻,negatif,,True,acak,Rifky,B_101-450,,positif
+421,4e635a80-0480-4a27-a590-f3ca26f0d241,2025-12-19 01:58:27,3,1,"susah loginnyaaa padahal udah bener, sama sama nyusahin rakyat kocak",negatif,,True,acak,Rifky,B_101-450,,negatif
+422,4a944bbd-2e3b-4879-8fd1-e305e16f39c0,2026-05-11 03:23:09,4,1,"sumpah bug nya ga pernah di benerin, pantes aja merugikan negara org dalam nya aja ga pernah di benerin",negatif,,True,acak,Rifky,B_101-450,,negatif
+423,985cd1e6-2ef4-462d-9597-0c644c8b3cd5,2024-12-05 10:32:18,1,1,"HATI"" GUYS.... Data bisa bocor, ada aja yang mengaku dari pihak DJP. Dan anehnya dia kirim name tage nya, mungkin palsu. Dikirim link sama dia, M-Pajak tapi beda sama yg ada di playstore ini. Miris yaaa, pemerintah punya tapi masih bisa dibobol orang datanya. Atau malah jual data??? Saya lapor mindra ajaa keknya biar diaudit... 🙃 Hampir livin dan brimo keretas, langsung sadar karena notif bahaya dari HP, dan mulai mikir apa iya pegawai pajak yg begitu sibuk punya waktu sebanyak ini nanya""...",negatif,,True,acak,Rifky,B_101-450,,negatif
+424,02cc7f0f-06da-45b3-b424-496862be0720,2024-01-16 05:09:35,1,1,"Daftar aja dibuat susah,kalo buat apl yg bner dkit",negatif,,True,acak,Rifky,B_101-450,,negatif
+425,3cd87c95-0b7c-40c4-9dff-72beb8863e1e,2026-06-15 09:02:29,4,1,"aplikasi nya jelek, error terus, halaman tidak ditemukan, login berulang, sertifikasi digital juga invalid, gimana saya mau menggunakannya? tolong respon",negatif,,True,acak,Rifky,B_101-450,,negatif
+426,9e5527f5-7718-4195-8dfc-4e15c96db67d,2026-04-12 12:09:23,4,1,MAU LAPOR PAJAK AJA SUSAH BENER JELEK PELAYANAN NYA,negatif,,True,acak,Rifky,B_101-450,,negatif
+427,eeb7b863-e2e4-44e0-9122-75cdb33130e8,2024-02-14 02:37:48,1,1,masuk ke akun sendiri saja susah. verifikasi efin selalu gagal.,negatif,,True,acak,Rifky,B_101-450,,negatif
+428,6fbef180-504e-45e9-8753-3c8d97326884,2025-04-14 21:38:07,3,1,aplikasi aneh. GX ada menu aktifasi,negatif,,True,acak,Rifky,B_101-450,,negatif
+429,2825d688-75a8-440b-be6a-fb8bacf16187,2024-03-21 13:22:50,1,1,Apk apaan mau login aja susah apalagi pas cek efin katanya udah dikirim email tp nggak ada email masuk👎👎,negatif,,True,acak,Rifky,B_101-450,,negatif
+430,df580be4-4bb2-44c0-9fd7-0ea1df12c3e7,2025-05-24 13:24:29,3,1,pelayanan jeles sekali ga bisa kasih solusi,negatif,,True,acak,Rifky,B_101-450,,negatif
+431,c60d9fd8-4a9c-4396-ace0-e69fd69fc1de,2026-07-07 14:17:15,4,5,baik,positif,,True,acak,Rifky,B_101-450,,positif
+432,58a467d1-0689-400d-9467-de0db9281b36,2025-06-18 14:54:18,3,5,Excelence,positif,,True,acak,Rifky,B_101-450,,positif
+433,59308dcf-2136-40f4-9618-24fafa4b00ec,2025-03-03 09:13:08,2,1,Orang di suruh bayar pajak rutin tapi pelayanan gajelas,negatif,,True,acak,Rifky,B_101-450,,negatif
+434,9d1bc695-0e40-4988-a74f-55caaf637bb1,2025-01-13 06:48:28,2,1,"kalo belum siap aplikasiinya jangan apa"" online sekarangg yahhh mau laporan pajak aja susah banget secara onlinee klo belum ready ngapain wajib lapor lewat aplikasi",negatif,,True,acak,Rifky,B_101-450,,negatif
+435,693112e7-ee97-4460-9439-c2198597bea4,2026-03-04 11:13:52,4,1,klo belum becus bikin aplikasi mending belajar bikin bakwan dlu sana,negatif,,True,acak,Rifky,B_101-450,,negatif
+436,4c7201b2-d510-46ba-b366-dce433bd9598,2024-03-01 08:23:30,1,1,"Ngomong nya di permudah, asli nya di persulit...fitur gak ada yang bisa di pake",negatif,,True,acak,Rifky,B_101-450,,negatif
+437,3b4612e5-4142-4d72-a0dc-a1f9068924bf,2025-03-18 04:41:39,2,1,Ini aplikasi apa Cuma bisa ke menu utama live chat cuma launding parahh Ini aplikasi resmi atau bukan Hadehh padahal menunya sangat sederhana tapi saat di klik gak bisa di buka,negatif,,True,acak,Rifky,B_101-450,,negatif
+438,5af944ca-f923-4432-97c8-fbd57904f1d5,2024-03-27 05:40:29,1,1,"Ini belum optimal ya aplikasi nyaa developer ,udah tahap kirim verifikasi ,tapi tak kunjung datang ke email ,itu nyangkut dimana developer",negatif,,True,acak,Rifky,B_101-450,,negatif
+439,c6ccb543-b610-4bbd-a158-ba7a5f205e09,2025-02-04 03:00:34,2,1,"Aplikasi ga guna, lemotnya minta ampun",negatif,,True,acak,Rifky,B_101-450,,negatif
+440,5e23ed3e-6af8-4834-b46e-03696464eb26,2025-02-24 16:33:56,2,1,"Minta verifikasi lewat email masuknya 7 jam berikutnya, minta verifikasi lewat sms nda masuk²... Pakai sisanya nda bisa, apa coba.. gimana mau lapor pajak",negatif,,True,acak,Rifky,B_101-450,,negatif
+441,8b7baa55-7542-465d-bbee-494c0335f570,2025-02-24 11:31:13,2,1,Minta kode aja lama banget harus nunggu berjam,negatif,,True,acak,Rifky,B_101-450,,negatif
+442,19227e5b-68af-4623-94cc-5c4a1dc05f13,2024-12-19 21:50:56,1,1,"Aplikasi cacad, jangan di download",negatif,,True,acak,Rifky,B_101-450,,negatif
+443,2c66bffc-412c-473d-b498-af4d42e65ebe,2024-03-07 14:56:22,1,1,"Sumpah susah bgt di hubungannya bwat lupa EFIN dari via gmail WA tlp semuanya ga bisa ada kesalahan lahh atau apalahh,,, padahal kita mau lapor pajak tapi ko di bikin susah gitu",negatif,,True,acak,Rifky,B_101-450,,negatif
+444,054f8182-98f5-461a-9807-babadc6bddab,2026-06-17 06:48:51,4,1,mengecewakan parah,negatif,,True,acak,Rifky,B_101-450,,negatif
+445,dd34ad2d-28bf-4cab-b617-868bac64f353,2025-03-07 18:05:38,2,5,Terimakasih aplikasi sangat membantu kami,positif,,True,acak,Rifky,B_101-450,,positif
+446,650b5617-5667-4919-9231-dd27625b5d48,2025-03-06 07:31:09,2,1,Aplikasi pelayanan publik ko lemotnya ampun...... Kalah cepet sama Aplikasi pinjol,negatif,,True,acak,Rifky,B_101-450,,negatif
+447,251a461f-c438-4c1a-8216-b378af23a81b,2026-07-28 12:51:15,4,1,error mulu,negatif,,True,acak,Rifky,B_101-450,,negatif
+448,188b829a-846d-40a7-ad60-4fab54c8413b,2024-05-28 10:27:55,1,1,"Gak guna ribet dan payah yang sangat konyol, verifikasi data aja gagal terus",negatif,,True,acak,Rifky,B_101-450,,negatif
+449,657c069f-39b1-41ee-a13b-c8525563062b,2025-12-24 17:21:50,3,5,"tolong suruh generasi muda yang mengolah ini aplikasi,,menunya pada ga jelas ya Allah,,padahal tinggal buat yang simpel"" aja",negatif,,True,acak,Rifky,B_101-450,,negatif
+450,35f315d8-7c97-428d-afdc-2bf009c2cf9b,2025-07-09 02:24:26,3,1,"payah pelayanan chat tunggu 30 hari kerja baru bales lama banget . sekalinya terhubung tidak membantu sama sekali, lebih menyerahkan masalah itu kembali pada pelanggan. shame on you;!!",negatif,,True,acak,Rifky,B_101-450,,negatif
+451,a04bb23d-1c67-424d-befc-9ccf2e578460,2025-03-29 02:34:51,2,5,gimana cara daftar baru di DJP online dengan nomor pajak yang sama dengan nomor KTP..??,netral,,True,acak,Teman,B_451-800,,netral
+452,578df0fe-aa03-4ffb-9784-b83ba653006c,2025-03-11 08:46:44,2,1,"Sistem yang buruk, sulit saat verifikasi , padahal kita baik loh mau bayar pajak malah dipersulit, saya juga merasa kurang manfaat dari pajak yang saya berikan",negatif,,True,acak,Teman,B_451-800,,negatif
+453,e14725e0-3e56-42b4-bbf7-72f39e9c086f,2024-02-22 16:27:04,1,5,Bagus,positif,,True,acak,Teman,B_451-800,,positif
+454,0ba97ffb-1d04-4be5-8a8e-50c14026c7c0,2025-06-16 00:06:44,3,1,"apk busuk, verifikasi lama",negatif,,True,acak,Teman,B_451-800,,negatif
+455,76af0aa5-b0b7-4241-94cb-24583bfa5200,2024-03-16 09:35:38,1,1,Ada apa dengan aplikasi ini mau login aja susah. Tolong lah dibenerin biar bisa diakses,negatif,,True,acak,Teman,B_451-800,,negatif
+456,b27a9799-7e0f-45c3-a1be-8445ba479459,2024-05-26 06:51:36,1,1,Buset dah...,netral,,True,acak,Teman,B_451-800,,negatif
+457,f43b5583-1766-471e-8757-c6170828de2a,2024-03-22 06:49:06,1,1,Aplikasi berguna sudah sesuai semua tetap gagal,negatif,,True,acak,Teman,B_451-800,,negatif
+458,95524a87-5075-41c2-a9d8-e7d9f8cf9e0a,2025-01-08 09:09:21,2,1,Sangat tidak membantu,negatif,,True,acak,Teman,B_451-800,,negatif
+459,f1f823a3-0a42-40ce-9cb4-32bf31944837,2025-01-31 09:02:39,2,1,Server lemot parah untuk sekelas pemerintah tolong diperbaiki heran asli,negatif,,True,acak,Teman,B_451-800,,negatif
+460,d10e7fda-50bc-48dc-bb60-0578aad8b4b1,2026-02-09 06:55:08,4,1,"Loging susahnya minta ampun padahal, Pasword sudah benar karena saya catat NIK benar. masih aja gagal",negatif,,True,acak,Teman,B_451-800,,negatif
+461,3f1989ac-94a8-4a46-b991-8bfae7edbb5e,2025-08-02 08:59:52,3,5,mantap,positif,,True,acak,Teman,B_451-800,,positif
+462,d4540c26-791e-4c39-bc39-935ffecfcec1,2025-08-10 02:15:23,3,1,"dana ada, kenapa ngga di perbarui apk sejelek ini si? otp nomor ga muncul 2 jam, gimana mau jadi anggota wajib pajak? heran",negatif,,True,acak,Teman,B_451-800,,negatif
+463,b02fcf9f-e795-4198-ac1e-8c5d68f7d30c,2025-01-10 13:23:15,2,1,Gini amat aplikasi pemerintah hdeuh emil sudah bener tapi ngebug nungguin verivikasi ampe berhari hari belum juga ada,negatif,,True,acak,Teman,B_451-800,,negatif
+464,f310c67b-0509-4007-b5a4-30743a51b43b,2026-04-10 15:33:57,4,1,Sampah !,negatif,,True,acak,Teman,B_451-800,,negatif
+465,d5dc38f6-4510-4aaf-bbe6-aaf5b7e374c3,2024-10-01 13:23:16,1,1,Web eror,negatif,,True,acak,Teman,B_451-800,,negatif
+466,589327b3-b1b5-48b1-9bb5-43d82a1c57dc,2024-08-09 06:21:35,1,1,"nerima duit mulu bisanya ,suruh ngembangin aplikasi buat membantu masyarakat malah error terus baik aplikasi ataupun servernya",negatif,,True,acak,Teman,B_451-800,,negatif
+467,e334a26b-e719-4b9b-82b0-49d6d18b29f8,2025-04-16 03:22:18,3,1,cara masuknya gimana?,netral,,True,acak,Teman,B_451-800,,netral
+468,1fea72d1-54fa-4b6e-a5ce-e609277eb41c,2025-10-11 05:58:19,3,1,"susah login, error trs",negatif,,True,acak,Teman,B_451-800,,negatif
+469,b7df6524-9391-4495-9106-4db6b106c0ef,2025-01-31 07:26:28,2,1,Kayaknya kita yang bayar ya..tapi kenapa kita juga yang lebih rueepot 😄,negatif,,True,acak,Teman,B_451-800,,negatif
+470,4e1ab5b4-199a-4a50-a8f1-5891fbff0610,2025-10-09 13:11:07,3,1,"tolol negara macam apa menyediakan aplikasi malah buat rumit warga nya, buat daftar pajak aja susah nya minta ampun tapi kami di paksa dan di wajib kan bayar pajak",negatif,,True,acak,Teman,B_451-800,,negatif
+471,7028e45e-8564-4bfe-8977-e6fa7e4b6558,2025-03-06 03:24:13,2,1,Aplikasi Lemot,negatif,,True,acak,Teman,B_451-800,,negatif
+472,f567ef16-46cf-4b6a-a9c2-68ee4255fbf2,2024-01-17 05:43:04,1,1,Niat hati mau bantu bayar pajak malah aps kek lite. Lain kali duit pajak jgn d korupsi biar benarin ni apps,negatif,,True,acak,Teman,B_451-800,,negatif
+473,85ae3a01-819a-4d8d-a239-f35c27454643,2025-10-28 22:44:36,3,1,periksa Sri mulayani atas kasus cortex yang memakan 1T lebih,negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+474,c5a5a90c-7edc-4ea5-9563-3407801bb64a,2024-01-10 13:06:32,1,4,lupa pasword dan efin gimana ya...,netral,,True,acak,Teman,B_451-800,,negatif
+475,29119446-bfd1-478f-984c-d914fe4cbdb1,2025-01-20 12:06:43,2,1,Apk parah ga bermutu,negatif,,True,acak,Teman,B_451-800,,negatif
+476,d52c8f74-218b-41c9-b5e0-fb7a2d2bd41c,2025-10-16 23:17:55,3,1,tak bisa diakses utuk daftar baru buang buang waktu sj,negatif,,True,acak,Teman,B_451-800,,negatif
+477,0ccee561-32d7-4bcb-a4db-1e5dfe40b737,2024-12-20 10:06:51,1,1,"Otp sudah dapat tapi tombol verifikasi tidak hidup, oon bgt yg bikin, android 14",negatif,,True,acak,Teman,B_451-800,,negatif
+478,3f413994-f64a-4da9-adf9-3f1c584ddea9,2025-09-27 00:09:45,3,3,kirain cuma sya ternyata bnyak yg ngalamin gagal masuk,negatif,,True,acak,Teman,B_451-800,,negatif
+479,a66de85f-a470-4721-91b7-e7e41cc67098,2025-03-18 01:20:18,2,1,Aplikasi ga berguna.tidak jelas menunya.,negatif,,True,acak,Teman,B_451-800,,negatif
+480,0d4f6272-d63a-452e-b045-f124b5a1a6b0,2025-03-04 03:19:38,2,1,"Macam babi emang. Mau buat NPWP online verifikasi nomor sama email sampai refresh 10mnt 3x tp gak masuk"" kode verifnya.. trus buat apa semua disarankan online tp apa"" gak memadai begini?",negatif,,True,acak,Teman,B_451-800,,negatif
+481,43cb4dc4-6627-4629-a80e-80fa2674f004,2024-07-21 10:53:35,1,1,"Apk sampah, web sampah.. bubar",negatif,,True,acak,Teman,B_451-800,,negatif
+482,28cf089b-9e0f-4589-8314-d5f67dc34324,2024-03-13 04:47:56,1,1,"Muncul peringatan harus update, tapi di Google Play statusnya udah versi terbaru. Aneh.",negatif,,True,acak,Teman,B_451-800,,negatif
+483,7809f43d-2429-479c-b51f-26d170afe483,2025-01-08 13:46:02,2,1,"BUAT APLIKASINYA AJA TOLONG DANA NYA KAN BANYAK YAH, BIKIN YG PROPER GITU JGN MENYULITKAN. Mau bayar pajak ni, nnti kalo gak bayar pajak kena marah, mau bayar sulit pendaftaran dll nya 🤣",negatif,,True,acak,Teman,B_451-800,,negatif
+484,614518a3-ffea-49c4-bbde-730c61040379,2025-03-03 05:07:14,2,1,"Email sudah benar tapi tidak ada otp yg dikirim terus, pake nomer hp malah gangguan terus, aplikasinya mempersulit sekali",negatif,,True,acak,Teman,B_451-800,,negatif
+485,7f3868c3-14a2-4e56-b3bd-77770aa449c5,2025-08-05 08:42:18,3,1,aplikasi ribet,negatif,,True,acak,Teman,B_451-800,,negatif
+486,923a2f4a-2fb9-410b-8ccd-dec0db4856fd,2025-09-19 07:33:03,3,1,"aplikasi dan web tidak berjalan dengan lancar menyusahkan orang kalau bener bener membantu orang itu aplikasi dan webnya harus lancar. katanya disuruh taat pajak, buat npwp aja dipersusah. nggak berguna sama sekali, lebih baik diberhentikan aja",negatif,,True,acak,Teman,B_451-800,,negatif
+487,70b69d44-703c-4bd5-aca5-c7611a9eb6b6,2025-06-15 20:13:11,3,2,"daftar online, masa hapus npwp harus datang ke tempatnya mana jauh , tolong adakan hapus npwp via online juga",negatif,,True,acak,Teman,B_451-800,,negatif
+488,98bf88df-3671-4ed3-a11a-d8e53d26418f,2025-09-09 13:13:12,3,1,Ga di web / aplikasi mau lapor pajak aja susah amat! udah login pake akun terdaftar malah invalid eror! kenapa sih kalian pemerintah selalu nyusahin rakyat,negatif,,True,acak,Teman,B_451-800,,negatif
+489,4b8b1748-d5c8-44f1-8bf2-0df5df5b0e5c,2026-06-26 12:28:44,4,1,pemerintah kalo bikin aplikasi dongo cuma nguras pulsa gua doang kalo gabisa bikin aplikasi kasih ke anak anak gen z yang ngerti dah boomers sok sok an bikin apk ya gini,negatif,,True,acak,Teman,B_451-800,,negatif
+490,cbb90608-3e21-46f7-bfa6-d9ef1c49b6a9,2024-09-19 22:59:02,1,3,"Oke belum berkembang, mulai berkembang, sangat oke berkembang 🤭",netral,,True,acak,Teman,B_451-800,,negatif
+491,46f11ae8-0ee4-457f-9b31-bc9faa823b3d,2024-02-07 10:39:04,1,1,"Aplikasi tidak membantu, malah lebih parah dari web nya, tidak bisa login kalo pw bener ntar ganti capta salah, gitu mulu, Terimkasih",negatif,,True,acak,Teman,B_451-800,,negatif
+492,afd95cb0-87e1-44c5-8e44-33d48430a393,2025-12-18 23:43:52,3,1,"setiap isi nomor npwp gak bisa di isi tetap kurang satu, aplikasi bodoh",negatif,,True,acak,Teman,B_451-800,,negatif
+493,1b4267a1-230b-49a4-a153-58c484642a2c,2026-01-05 15:55:20,4,1,aplikasi ngk banyak membantu apalagi sekarang pake kortex² apa lah saya ngk paham tambah susa aja kemaren harus valid sama nik sekarang ada kortex² segala harus ganti pin lagi masuk sana sini menunya buang² waktu aja,negatif,,True,acak,Teman,B_451-800,,negatif
+494,60e6c36a-ca6b-4552-a2e9-f73e2d74694b,2025-05-26 02:46:20,3,2,"astaga untuk pengajuan lupa EFIN aja lama kali, masa terus terusan eror, tadi udah 10% gagal lagi",negatif,,True,acak,Teman,B_451-800,,negatif
+495,f164f907-4d3d-4455-82ff-2bca50264d7e,2024-04-17 02:44:25,1,1,"""Sayangnya M-Pajak telah berhenti"" melulu..",negatif,,True,acak,Teman,B_451-800,,negatif
+496,3d955ea7-b0c5-4caf-83e5-62095e63c00c,2024-11-02 11:06:59,1,1,"Susah login via website atau aplikasi, padahal username dan sandi sudah benar, reset password juga tidak terpengaruh",negatif,,True,acak,Teman,B_451-800,,negatif
+497,53ba67da-2c00-4eab-8acd-9ac06985d9a1,2025-02-06 14:09:51,2,2,Gimana daftarnya,netral,,True,acak,Teman,B_451-800,,netral
+498,196875c7-5247-4747-b4a8-a11ce488b292,2026-04-30 03:08:52,4,1,"Aplikasi kentang, mau masuk akun gabisa². siaa siaa uang pajak gw 👎",negatif,,True,acak,Teman,B_451-800,,negatif
+499,542f3f10-9b34-420b-846c-631b1bef6d4d,2025-06-16 14:48:33,3,1,tidak bisa ber word word... ni aplikasi sangat membantu memancing emosi,negatif,,True,acak,Teman,B_451-800,,negatif
+500,0f4e57d1-3d51-41eb-9195-6ecda2a0f7d4,2025-11-20 15:54:40,3,2,"mau bayar pajak pun seribet ini, hahaha..",negatif,,True,acak,Teman,B_451-800,,negatif
+501,be1fb194-d018-4566-a72c-82f2d80d8b42,2026-04-03 17:38:01,4,1,aplikasi jelek,negatif,,True,acak,Teman,B_451-800,,negatif
+502,3ff4abf1-c263-4cab-b3d2-5718e98cf634,2025-06-16 13:37:35,3,1,niat bikin aplikasi tidak.? jadi aparat negara sudah dibayar tapi kerja.nya gk bisa di andalkan..,negatif,,True,acak,Teman,B_451-800,,negatif
+503,ec51405c-3866-4e73-96fb-b7921fc2e8be,2026-03-10 01:23:05,4,1,"ga bisa login udah berminggu-minggu,ga bisa bikin aplikasi yang bagus kah ,orang disuruh taat pajak tapi aplikasi nya ga mendukung ,ngabisin anggaran aja",negatif,,True,acak,Teman,B_451-800,,negatif
+504,1f2dc688-c6ea-4611-a067-52cbe257a958,2025-07-05 08:11:49,3,1,ngga jelas amat dahh mau tanya aja kaga bisa ngetik blok lahh,negatif,,True,acak,Teman,B_451-800,,negatif
+505,2e8c17b7-976b-4e3e-af43-fbda2940ca4d,2024-04-28 23:49:13,1,5,Good,positif,,True,acak,Teman,B_451-800,,positif
+506,5142d8cc-d692-44e0-a139-44e162a13da3,2026-07-27 11:39:06,4,1,aplikasi malah banyak BUG. bisa bocor data kalau begini.,negatif,,True,acak,Teman,B_451-800,,negatif
+507,fb722c47-28ad-40b7-b945-3cf2559498b2,2024-06-21 03:30:46,1,1,"sangat jelek, mau daftar aja dipersulit. Aplikasi peninggalan VOC.",negatif,,True,acak,Teman,B_451-800,,negatif
+508,7b9e714a-fedc-4708-bc2f-92be6bfe0003,2026-04-30 15:01:17,4,1,"login gagal ,padahal data sudah benar ,Hmm perbaiki lagi ,masa iya aplikasi begini error",negatif,,True,acak,Teman,B_451-800,,negatif
+509,a5c4db4f-b2f3-41d5-ab3e-a502b9c8583a,2024-05-26 05:36:50,1,5,Sgat bantu,positif,,True,acak,Teman,B_451-800,,positif
+510,da893a11-9d0d-4a57-b8f7-788ecf45c0be,2026-03-10 12:19:23,4,1,gak jelas ini,negatif,,True,acak,Teman,B_451-800,,negatif
+511,932c59a0-afc2-4535-88f0-0f818e277a85,2024-09-02 22:11:41,1,2,"Tolong admin, kenapa ya ini gak bisa bikin Form Pajak pph21.. Tombol buat nya gk timbul2",negatif,,True,acak,Teman,B_451-800,,negatif
+512,77b6e44d-fa2c-4b19-9c49-315f3cc9d60c,2024-02-29 13:00:36,1,1,ini sebenarnya buat apa aplikasi dibuat??? kok saya merasa g ada faedahnya... berharap ada aplikasi agar dipermudah dalam administrasi nya..eehh malah seperti spam ni aplikasi...mau lapor pajak aja gak tau dimana yang mesti di pilih.. beneran kecewa sama dinas perpajakan yang bangga pakai ni aplikasi secara global,negatif,,True,acak,Teman,B_451-800,,negatif
+513,bdf5a787-e311-449c-be2a-e219deb543c3,2025-12-05 22:23:18,3,1,mohon untuk di permudah cara merubah pasword yg sudah lupa... udah menciba berbagai cara tetap gagal .. ujung ujungnya tetap pakai website.,negatif,,True,acak,Teman,B_451-800,,negatif
+514,18a2ae16-7e52-4313-bce2-75a7927f8cae,2024-06-06 05:04:01,1,3,tidak bisa di gunakan,negatif,,True,acak,Teman,B_451-800,,negatif
+515,ef877bf9-968f-48b1-abf3-d4bdff1b257b,2026-01-15 05:16:22,4,1,banyak yang kesulitan masuk aplikasi ini.,negatif,,True,acak,Teman,B_451-800,,negatif
+516,3be31138-5398-4c9f-9acf-5c47536bcdab,2026-01-26 08:08:05,4,1,Ngga jelas,negatif,,True,acak,Teman,B_451-800,,negatif
+517,5c8458a4-e7ba-423c-a9d0-57590c3eee48,2025-04-06 15:26:50,3,2,"emg bagus sih, tpi knpa sudah verifikasi email, setelah 1 bulan email rubah sendiri dan harus ke kantor lgi untuk verifikasi email kembali, klo begitu kn cape bolak blik ke kantor untuk perbaikan email.",negatif,,True,acak,Teman,B_451-800,,negatif
+518,7f6180e9-824e-4a60-9865-94660d886f6a,2025-03-11 05:38:02,2,1,"Banyak bug nya, disuruh milih kode autentikasi ngga ada tombol nya",negatif,,True,acak,Teman,B_451-800,,negatif
+519,3dfe51d4-730c-4373-a7e5-e9852bb2289f,2025-07-26 02:40:58,3,1,sangat tidak membantu,negatif,,True,acak,Teman,B_451-800,,negatif
+520,ea8e2120-46f2-4565-b450-6e68bd129013,2025-03-05 08:12:59,2,3,"Kalo bisa di menu awal beranda setelah log in ,langsung terlihat total penerimaan pajak seluruh rakyat .dan itu selalu update secara sistem otomatis tiap ada pembayaran pajak masuk dr rakyat . Biar transparan !rakyat tau brapa sihh penerimaan pajak negara ini.",netral,,True,acak,Teman,B_451-800,,negatif
+521,ad9fdfe5-50b7-4cb9-b350-1bb65afc1473,2024-02-12 03:29:12,1,1,Petugas pajak nya cuma makan gaji buta di tambah lagi hasil pajak di korup lagi maka nya urusan di bikin ribet mau ngurus lupa Efin aja ribet,negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+522,aff7ea53-8c14-4894-830a-c0a83691ce56,2026-07-27 04:19:54,4,1,bingung juga. ini apk mempersulit aja,negatif,,True,acak,Teman,B_451-800,,negatif
+523,cb2072d9-e5f1-42cb-8b84-ca29109992b7,2025-09-25 13:23:30,3,1,"Gak beres, Menu pendarannya gak ada, gmn mau login",negatif,,True,acak,Teman,B_451-800,,negatif
+524,0e88c7c7-016d-4090-899a-b7c0b63733f8,2025-02-10 09:28:26,2,1,SEMUA MENU SUDAH KADALUWARSA..PERCUMA ADA MENU GA BERGUNA ..APLIKASI SPAM,negatif,,True,acak,Teman,B_451-800,,negatif
+525,a3941a1e-e585-4e4e-8cd7-ceccf2683a9f,2025-02-25 01:08:04,2,1,Gimana sih mau live cht eror. Terus. Mau buat nvwp di chrom kode dari gmail ngk dikirm dikirm nya lama skli orang butuh kapan dikirim kapan. Ngk update bnget sih nyusahin,negatif,,True,acak,Teman,B_451-800,,negatif
+526,4c581f60-1fe5-4a0e-885c-b439336334dc,2024-05-20 11:31:15,1,1,"Kenapa mau bayar pajak aja di bikin ribet. Kemaren saya beli motor bekas, di STNK nya ada fotocopy pemilik nya. Tpi sang pemilik udah meninggal,jadi di jual dengan istrinya. Lalu saya ke kantor pajak untuk bayar pajak kendaraan, lah dia minta orang nya datang. Udah saya bilang orng nya udah meninggal. Ini ada Poto copy KTP nya. Trus orang pajak nya tak mau proses. Heran betul sama orang pajak, kita ada niat mau bayar malah tak bisa. Ya udah saya biarin aja tak bayar pajak sampai sekarang.",negatif,,True,acak,Teman,B_451-800,,negatif
+527,cb632811-991c-4585-ba21-200568cc98b5,2026-02-20 02:59:50,4,1,"kedok aplikasi. 🤣🤣 ngisi atau login tetap pakai extension web, istansi besar sekelas perpajakan kalah sama apk umkm. kocak emg.",negatif,,True,acak,Teman,B_451-800,,negatif
+528,f6e54eab-6d9d-444b-85ef-b5da5c7f7001,2025-02-16 11:55:57,2,2,"Apk dari pemerintah kembali ya ke pemerintah dibikin biar mudah warganya lapor malah nyusahin amat masuk apk, gokil luh",negatif,,True,acak,Teman,B_451-800,,negatif
+529,525da94d-3a75-4119-8f03-1d5df5fb7693,2025-10-26 23:14:38,3,1,"ini pembuatnya kagak sekolah apa gimana, sekedar cek saja ngk bisa",negatif,,True,acak,Teman,B_451-800,,negatif
+530,6d5db665-066e-46cb-8392-4265781eda94,2026-02-27 07:08:32,4,1,pantes GK masuk2 kode otp nya stelah baca komen GK tau nya emang bermasalah suasu...,negatif,,True,acak,Teman,B_451-800,,negatif
+531,e3e9d60b-532a-40f7-b7f5-11f06febb097,2026-06-11 12:38:31,4,1,hapus aja tidak layak pakai,negatif,,True,acak,Teman,B_451-800,,negatif
+532,155d3f56-7c6c-4f79-a6fc-b88b959659d9,2026-02-14 09:15:05,4,1,aplikasi gak guna buang2 biaya,negatif,,True,acak,Teman,B_451-800,,negatif
+533,30af360f-c9ad-4d47-a670-29cec53b4df8,2024-03-28 02:46:23,1,1,"Mungkin saya orang ke 273.8jt dari penduduk indonesia yg memberi rating 1 pada aplikasi ini, sayang tak ada rating 0, kalau ada saya pilih yg 0",negatif,,True,acak,Teman,B_451-800,,negatif
+534,1fee7c05-29ea-4003-9038-1db68a61d07c,2026-08-03 06:25:32,4,1,aplikasi kok erorrrrr,negatif,,True,acak,Teman,B_451-800,,negatif
+535,b3e1f79e-98b8-4c2e-80be-c65c95e1b080,2026-06-09 15:31:25,4,1,apk ga jls,negatif,,True,acak,Teman,B_451-800,,negatif
+536,517d38c3-58eb-43ca-9bb3-3c930bdff068,2025-12-17 14:50:53,3,1,"ini npwp terbaru ada 16 digit, ini kenapa nggak bisa? yang diinput cuma bisa 15 angka tinggal 1 aja gak bisa diinput. alhasil npwp gak terdeteksi. Tolong segera dievaluasi",negatif,,True,acak,Teman,B_451-800,,negatif
+537,7a2d0bd4-d7ed-4242-a712-73744e31a968,2026-04-09 12:24:27,4,5,lebih mudah,positif,,True,acak,Teman,B_451-800,,positif
+538,d32b3955-cf3f-40ce-8b18-747e138c82e1,2026-06-04 05:05:46,4,4,sangat berguna,positif,,True,acak,Teman,B_451-800,,positif
+539,4dd4d568-7b91-4810-8395-55ad4eb7fb41,2026-09-20 04:16:17,4,1,"aplikasi taiiiiiiii,",negatif,,True,acak,Teman,B_451-800,,negatif
+540,ecc0334c-c402-4e29-a2f9-db5b35c3273d,2024-03-30 20:59:21,1,1,"Minta kode Verifikasi sampai botak nungguin gak masuk²,, padahal nomor yg didaftarkan masih aktif 👎👎👎",negatif,,True,acak,Teman,B_451-800,,negatif
+541,b7d63900-893d-4395-a60c-491014d835af,2026-09-28 07:40:15,4,1,"aktivasi aja susah bngt, kek gini apa cara negara memperlakukan uang rakyat",negatif,,True,acak,Teman,B_451-800,,negatif
+542,c294d376-db7d-4043-bfa6-f637052b4a0c,2024-01-31 11:07:08,1,1,"Tolol banget Verifikasi email ga masuk masuk, di spam juga ga masuk.. Entah admin yg lelet atau developernya bodoh.. Jgn bikin Apk Npwp kalau ga Gercep.. konyol",negatif,,True,acak,Teman,B_451-800,,negatif
+543,a46b9b11-f841-45bf-9a94-99ac5fcfc427,2025-04-15 16:16:23,3,1,serba lambat,negatif,,True,acak,Teman,B_451-800,,negatif
+544,951983d4-423d-4d40-a4ac-2770dd2c2afa,2025-09-29 06:27:20,3,5,mantap,positif,,True,acak,Teman,B_451-800,,positif
+545,86567178-5c04-4031-9e87-04913e300178,2026-04-30 11:48:43,4,1,rubah password ajha susah banget gara bug,negatif,,True,acak,Teman,B_451-800,,negatif
+546,d19638c0-c848-4958-be83-9696b2d8022b,2024-12-23 10:33:33,1,1,Validasi sangat super susah ribet menyusahkan apk taekkk,negatif,,True,acak,Teman,B_451-800,,negatif
+547,4e1d10d7-b581-4eee-a45c-73fcdf108049,2025-01-15 22:57:50,2,1,Eror,negatif,,True,acak,Teman,B_451-800,,negatif
+548,f5c37a5b-627c-48bc-83b2-acef31fac9a6,2026-05-12 11:11:11,4,1,ribet banget,negatif,,True,acak,Teman,B_451-800,,negatif
+549,00c306ca-5a91-4153-abbf-d75bcc932ce5,2024-03-09 00:47:48,1,1,Susah terhubungnya,negatif,,True,acak,Teman,B_451-800,,negatif
+550,c91b40f1-9b2a-46c7-a2d8-b6aadcf1216b,2025-12-06 02:03:33,3,1,tak bisa loginn tololl,negatif,,True,acak,Teman,B_451-800,,negatif
+551,8e7e6024-a069-41eb-90a2-a6c139d414de,2025-07-04 10:01:48,3,1,"jelek banget, tiap mau login gagal terus. gimana mau lapor coba. payah",negatif,,True,acak,Teman,B_451-800,,negatif
+552,4b080eac-9550-4d3d-a969-72da02f89b0c,2024-02-05 03:46:41,1,1,"sistem nya masih harus banyak perbaikan,untuk kode verifikasi tidak muncul,dan proses lama",negatif,,True,acak,Teman,B_451-800,,negatif
+553,31ff6049-47e9-4c1f-bbd1-9fddb0aa8448,2024-01-23 08:39:10,1,2,"Yang seharusnya mempermudah malah bikin kesel, udah beberapaa kali log in untuk pengajuan efin malah gagal terus.",negatif,,True,acak,Teman,B_451-800,,negatif
+554,24c3fff0-e676-479e-b9b1-8511d86768e8,2024-02-06 05:56:39,1,5,Terima kasih mudah dipahami,positif,,True,acak,Teman,B_451-800,,positif
+555,7e399418-9ce0-4e30-a427-83959b953745,2025-12-28 16:26:58,3,1,"app yang tidak punya opsi lupa password. Saya tidak bisa masuk akun coz lupa password. Please dong pemerintah, buat app yang bagus bukan buat ribet masyarakat...",negatif,,True,acak,Teman,B_451-800,,negatif
+556,ef72f551-43ee-4ce9-9691-eef48c3605b9,2026-02-06 05:06:52,4,1,"aplikasi rusak , bacaan Sistem Eror melulu kita di paksa Update tapi pelayanan nya sangat Buruk , Sistem Tidak berfungsi , gimna ni pengurusnya , kalau tidak mampu Mundur aja , Mikir dong",negatif,,True,acak,Teman,B_451-800,,negatif
+557,b3176cf7-ad3e-49c1-b4e6-b438f3001c92,2025-01-06 16:03:58,2,1,"aplikasi gak guna.. Error terus,,, pake duit rakyat doang bisa nya.. 👎",negatif,,True,acak,Teman,B_451-800,,negatif
+558,c958fb25-e498-4f72-b3c1-3ab2deeb023b,2026-03-29 09:43:00,4,1,"sistem buruk, cuma mau lapor pajak saja verifikasi data error terus",negatif,,True,acak,Teman,B_451-800,,negatif
+559,465167fc-a16d-42dd-88b2-356ad591c5b0,2026-06-08 21:01:43,4,1,Rumit!,negatif,,True,acak,Teman,B_451-800,,negatif
+560,f108413b-4036-4a2f-af98-36b1a415f4aa,2024-07-01 11:10:04,1,1,ampun dah tunggu kode OTP aja sampai maut jg kaga sampe....,negatif,,True,acak,Teman,B_451-800,,negatif
+561,d9462a72-ac09-401c-aa99-5dd237fd857b,2026-02-27 23:48:07,4,1,harus lebih ditingkatkan lagi tidak bisa login saat ingin melakukan pelaporan SPT tahunan,negatif,,True,acak,Teman,B_451-800,,negatif
+562,66f55794-d30d-4506-adcf-f4a52e495b5f,2024-01-08 02:43:25,1,1,"Aplikasi ga jelas, login aja susah",negatif,,True,acak,Teman,B_451-800,,negatif
+563,07b0ab11-e937-4d2f-97fe-ada799907bd6,2025-10-18 02:55:53,3,1,"WOY YANG BENER AJA, UDAHMAH VERIFIKASI PAKE PULSA, MANA DATA GEOMETRISNYA KAGA MUNCUL, APK PEMERINTAH KEK AMPAS SEMUA ANJIR SHIBAALLLLLL BENERIN DULU SEMUA INI BIKIN STRESS AJA BUKAN MEMPERMUDAH😒",negatif,,True,acak,Teman,B_451-800,,negatif
+564,71a36c20-2a2f-4dc3-afb4-0c2bb068fce9,2025-03-10 05:03:59,2,1,"Ini pemerintah serius nggak sih bikin aplikasi, kita mau taat bayar pajak aja dipersulit.",negatif,,True,acak,Teman,B_451-800,,negatif
+565,6d9ce997-802f-4532-ba6f-88c0abc6c510,2025-03-18 22:22:03,2,2,Baik,positif,,True,acak,Teman,B_451-800,,positif
+566,0dff8864-35ce-4988-9a3e-697cd00b7b47,2026-04-20 01:38:33,4,5,bagaimana cara meleporkan pajak asn,netral,,True,acak,Teman,B_451-800,,netral
+567,6c80f7bd-5d76-443c-a821-f877b55b4aa5,2025-12-21 13:00:06,3,1,apk rusak,negatif,,True,acak,Teman,B_451-800,,negatif
+568,e753c0ad-b4e4-440d-b12a-ee5ac03fbd5f,2025-09-17 23:13:54,3,1,aplikasi tolollllll mau ganti pw aj susah bener taiii korupis mulu anjg,negatif,,True,acak,Teman,B_451-800,,negatif
+569,7481b733-443c-49dc-84dd-41c2a3ce22ed,2025-02-04 04:58:27,2,1,Lupa efin Ndak bisa lewat sini Susah amat,negatif,,True,acak,Teman,B_451-800,,negatif
+570,9463652e-5119-4b9e-8051-4f8f9449d855,2025-02-28 00:23:36,2,2,"Login saja susah,kode otp dikirim 2 jam kemudian,gimana mau pakai aplikasi ini",negatif,,True,acak,Teman,B_451-800,,negatif
+571,e2a26efb-715c-4f39-ab42-b1f20d76f0ac,2025-09-09 08:28:53,3,5,mantap,positif,,True,acak,Teman,B_451-800,,positif
+572,d38108b0-932a-46c5-a90b-d119736f80f3,2024-01-20 07:18:44,1,1,"Kelasnya Penjala uang rakyat, bikin apk untuk rakyat saja seperti main main....Gunakan uang rakyat untuk memperbaiki apk ini supaya memudahkan rakyat membayar keringat kalian. Kelasnya Kemenkeu apk bobrok.",negatif,,True,acak,Teman,B_451-800,,negatif
+573,17163a5e-8a42-4579-a6fa-155a71638644,2026-09-12 08:51:42,4,1,gak bisa didownload,negatif,,True,acak,Teman,B_451-800,,negatif
+574,1a917dc3-cc64-4f1a-9f57-859db8284dfa,2026-06-01 13:34:56,4,1,apk paling najis verifkasi doang susah banget,negatif,,True,acak,Teman,B_451-800,,negatif
+575,41379e95-915e-4d63-8208-e284efb5450e,2025-10-14 08:43:07,3,1,login susah,negatif,,True,acak,Teman,B_451-800,,negatif
+576,51b6e57a-6c92-4ffd-a04e-e4f547659d3b,2025-11-12 08:05:44,3,1,Tidak bisa digunakan,negatif,,True,acak,Teman,B_451-800,,negatif
+578,9397b86c-cd77-4a1f-95b7-e45262748564,2024-07-07 04:05:16,1,1,Buang2 anggaran buat aplikasi ini,negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+579,360c4548-7dc3-432d-9dde-c16207246801,2025-09-21 02:27:35,3,1,ntah apa ribet kali,negatif,,True,acak,Teman,B_451-800,,negatif
+580,c4ac9e6b-dcdd-411e-8b9c-e35b9d51928e,2026-02-14 16:38:51,4,1,"aplikasi tidak jelas , ambil foto aja susah nya minta ampun",negatif,,True,acak,Teman,B_451-800,,negatif
+581,0c8772f5-a046-402c-8a7a-4095f10516a6,2026-09-09 07:28:45,4,1,"APK SAMAPAH!!! mau aktifin sertifikat degital aja susah nya minta ampun, udah coba beberapa kali tetep aja gagal padahal data semua udah bener, ni apk bisa di bilang gak guna untuk di buat, giliran narikin pajak pada kenceng, pas masalah beginian pada merem, gua aduin pak purbaya lu pada",negatif,,True,acak,Teman,B_451-800,,negatif
+582,c563136d-69b0-47b1-99ac-5d6a8502c19c,2025-02-11 00:30:08,2,1,"Aplikasi gak guna. Mau log in ja sush. Nunggu e-mail, giliran buka e-mail. Mlah ngulang lagi dari awal. Terus aja gak kelar2.",negatif,,True,acak,Teman,B_451-800,,negatif
+583,42f7ae2c-a76d-4c3b-aec1-2d4cc218c3d2,2025-07-02 00:24:16,3,2,suruh bayar pajaknya suruh sat set.. tp aplikasi eror mulu g dibenerin,negatif,,True,acak,Teman,B_451-800,,negatif
+584,379ea7e6-a266-4cf5-9a7b-e1dcbab3c0d1,2025-03-25 23:20:44,2,1,ribet,negatif,,True,acak,Teman,B_451-800,,negatif
+585,2c602f68-79c2-49d3-a45c-995ecf0e3c89,2024-10-20 06:38:05,1,1,"Bayar pajak elit, pelayanan syulid. Slebew",negatif,,True,acak,Teman,B_451-800,,negatif
+586,d7591dad-a1d7-49df-b61d-05325dc688a8,2024-07-24 08:32:02,1,1,"Registrasi aja dibikin susah, daftar Npwp pakai kartu tri gk boleh, emangnya kartu tri itu ilegal di indonesia apa? Ngurus offline dipersulit surat keterangan lurah, formulir ini itu. Ngurus online juga dipersulit. Sebenarnya negara indonesia itu pingin masyarakatnya terdaftar di lembaga pajak gak sih? Kok registrasi aja dibikin ribet & susah kayak gak pingin masyarakat indonesia terdaftar di lembaga pajak aja. Aplikasi gak guna, ribet & berbelit2, gue uninstall aja sekalian.",negatif,,True,acak,Teman,B_451-800,,negatif
+587,469d11f6-2dfc-4277-b02d-153e4f008c5c,2026-02-10 06:37:11,4,1,aplikasi gak guna eror terus,negatif,,True,acak,Teman,B_451-800,,negatif
+589,267d29d2-019e-4f35-8188-43ab230ed544,2026-09-02 04:32:32,4,1,mau login malah ribet banget udah pake duit rakyat buat apk,negatif,,True,acak,Teman,B_451-800,,negatif
+590,b0d28a8a-af78-491b-86dd-5e0199e49749,2024-12-03 04:12:23,1,1,"Yak seperti biasa, tipikal aplikasi bobrok khas pemerintah. Menunya ribet, mau login dibilang salah password, udah reset password tetep ga bisa login. Yang kek gini narikin pajak dari kita, cuih.",negatif,,True,acak,Teman,B_451-800,,negatif
+591,9a9bc3c6-2e67-4ac2-a4db-06691cfecf14,2025-02-19 09:44:45,2,5,Sangat membantu,positif,,True,acak,Teman,B_451-800,,positif
+592,8fe59b61-a3c1-4477-aefc-a843b0c00fb9,2025-03-27 00:33:38,2,1,"aplikasi busuk banget, lemott kayak yang bikin",negatif,,True,acak,Teman,B_451-800,,negatif
+593,a8451fbb-e4f5-4597-8af2-74ad2cfdd650,2025-06-06 04:48:39,3,1,"Sesi telah berakhir, log in ulang dengan user name dan password yg benar tp selalu sesi telah berakhir daaaannnn seperti itu terus.. Serius ini gaji saya dipotong hampir rata rata lebih dari 1 juta tiap bulan tapi dengan layanan aplikasi resmi dirjen pajak milik pemerintah seperti ini? #SAVE RAJA AMPAT",negatif,,True,acak,Teman,B_451-800,,negatif
+594,77f52b2e-ce3a-42e7-8143-e66edaf4cb6f,2024-01-08 17:28:25,1,1,"Sumpah ini aplikasi pajangan aja , daftarin pakai email tulisannya email sudah terpakai, padahal di check blm terdaftar .coba siapa yg sukses daftar pakai aplikasi ini",negatif,,True,acak,Teman,B_451-800,,negatif
+595,625b8879-03f0-4bdb-924d-e975e1192272,2024-02-22 00:55:48,1,4,Saya mau vertifikasi efin sulit bener dan chatnya jg jaringan putus Lapnya padahal sinyal bagus... saran saja lebih dicermati utk online supaya lebih mudah lagi... 🙏,negatif,,True,acak,Teman,B_451-800,,negatif
+596,b150f1ce-73f9-45df-95c4-95b315906556,2025-02-03 01:32:02,2,1,"Gunanya livechat diweb dan diaplikasi pajangan doangkah? Untuk diakses susah amat live chatnya. Koneksi terputus mulu. Coretax susah diakses lagi, mau daftar malah nik sudah diduplikasi mulu",negatif,,True,acak,Teman,B_451-800,,negatif
+597,5d7c706c-798b-4aad-9b32-553961b21484,2025-08-07 14:55:07,3,1,susah masuk ke apk nya padaal udah beneer,negatif,,True,acak,Teman,B_451-800,,negatif
+598,36a776a6-1ed9-43ee-bf65-0a4e52c10d8b,2025-03-02 04:00:05,2,1,"Kacawww , aplikasi sampah nunggu Kode OTP sampe 3 jam ,habis itu gabisa login",negatif,,True,acak,Teman,B_451-800,,negatif
+599,c1b3bd68-7860-4e48-a976-4069640aaee8,2025-05-24 10:57:06,3,2,saya kurang mengerti dan memahami bagaimana penggunaan aplikasi ini...sering dapat telp mengatasnamakan Ditjen pajak...dengan berbagai alasan masalah bla-bla-bla...🙏,negatif,,True,acak,Teman,B_451-800,,negatif
+600,aaed8216-7624-4037-b8c7-612e9e32804a,2026-03-06 02:36:40,4,5,sangat baik sekali,positif,,True,acak,Teman,B_451-800,,positif
+601,68c86456-117a-4c1f-8e2f-6fd0b30ea000,2024-10-17 03:42:09,1,1,Ngabisin pulsa doang buat minta otp,negatif,,True,acak,Teman,B_451-800,,negatif
+602,e5d8642d-6554-4086-a908-f052ea8677a2,2025-11-24 03:34:01,3,1,dari jawaban petugasnya tidak jelas dan tegas,negatif,,True,acak,Teman,B_451-800,,negatif
+603,31bea605-2471-40ac-a554-5e5f514cace8,2026-01-06 08:27:36,4,5,sangat terbantu,positif,,True,acak,Teman,B_451-800,,positif
+604,1aeac645-aa8d-46f8-b6dd-9a9d0d526141,2026-03-17 14:20:56,4,1,Aplikasi kontoll,negatif,,True,acak,Teman,B_451-800,,negatif
+605,c1d25bd5-ef5e-4c83-8b27-6b242e988d5f,2026-07-10 17:41:18,4,1,"aplikasi ga becus,udah bener masukin tetep aja salah,bubar aja kalian",negatif,,True,acak,Teman,B_451-800,,negatif
+606,a9f38f39-28f5-4dd4-9f6a-4742c6ca3627,2025-02-26 04:01:33,2,1,"nunggu otp 2 abad , niat gk bikin aplikasi",negatif,,True,acak,Teman,B_451-800,,negatif
+607,98b376b9-e0db-4753-b14b-7c56e2263ab0,2026-09-14 01:45:22,4,1,aplikasi Tidak Bisa Up load Berkas / foto... Bikin Aplikasi tapi tidak Bisa Di Gunakan....Rugiiiiii..Bukannya Bikin Mudah Malah Sama aJa,negatif,,True,acak,Teman,B_451-800,,negatif
+608,7793d942-c451-41ec-9ef1-e275761fc0e4,2026-03-08 06:06:47,4,1,susah banget loginnya. data sudah sesuai tp gak bisa.,negatif,,True,acak,Teman,B_451-800,,negatif
+609,f9903135-3d14-4512-baca-6d52ad1019a2,2026-03-04 02:53:04,4,1,"kalau kamu mau buka usaha, kamu harus keluar modal sendiri. tp giliran usahamu berhasil, pemerintah menuntut pajak. ketika kamu kerja, segala resiko, tekanan, beban, tuntutan kamu tanggung sendiri, tapi ketika kamu gajian, pemerintah menuntut pajak darimu. rajin bayar pajak, tapi hidup ga semakin baik. pendidikan tetap mahal, kesehatan tetap mahal, kerja tetap susah, penghasilan tetap kecil, tapi pejabat dan pemerintah hidup makin mewah wkakaka .btw nunggu OTPnya lama!!!!",negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+610,18663bea-3fb9-4955-a652-b0f1a5aa0cc2,2026-06-06 16:00:00,4,1,"klok gak niat ngebantu jangan bikin akun kayak gini,bukan mempermudah malah makin mempersulit.",negatif,,True,acak,Teman,B_451-800,,negatif
+611,41fc4ca5-c681-4c99-9da6-c8d49a696076,2025-03-07 06:20:14,2,1,"Kok minta kode efin aja lama,sudah lama nunggu malah eror,,jadi ulangi lagi Hadehhhhhh",negatif,,True,acak,Teman,B_451-800,,negatif
+612,233e9ef1-b4b9-41ee-b327-20a3236850f8,2026-03-30 13:48:40,4,1,gak guna,negatif,,True,acak,Teman,B_451-800,,negatif
+613,08fc6275-57e7-4b64-b21b-e7c0433bf77b,2025-04-17 13:52:18,3,5,terbaik,positif,,True,acak,Teman,B_451-800,,positif
+614,991a5d08-eb3f-4ad8-aa93-28c926beedb8,2025-03-17 07:22:21,2,1,Aplikasi tolol..,negatif,,True,acak,Teman,B_451-800,,negatif
+615,c94953db-1823-435b-a74a-f240e548cfce,2026-02-02 07:21:27,4,3,pa sy tinggal kompirmasii tanda tangan doang masih gagal terus padahal NIK SY uda di registrasi tapi tiap kompirmasi tanda tangan selalu muncul registrasi nik tolong perbaiki datA sy pa trima kasi,negatif,,True,acak,Teman,B_451-800,,negatif
+616,a112d29d-56b9-40e4-9cfe-cabe1d48a3ca,2025-11-23 17:01:39,3,1,"pengajuan efin disuruh pake nomor npwp 15 digit, udah tau sekarang pake 16 digit, boomer kocak ga bisa bikin aplikasi😹🤏🏻",negatif,,True,acak,Teman,B_451-800,,negatif
+618,47765250-e913-423a-903e-534ee556a696,2024-08-31 11:15:59,1,1,Data gagal tersimpan eror padahal sudah tinggal terakhir aktivasi,negatif,,True,acak,Teman,B_451-800,,negatif
+619,e824fd0e-96d7-4c3c-90ed-5a164f3c24bc,2025-03-04 07:06:54,2,1,menyusahkan,negatif,,True,acak,Teman,B_451-800,,negatif
+620,bb67b746-06f5-4cfc-a4fa-79e32ca7ea56,2026-03-31 12:12:54,4,1,"kita mau bayar pajak, kita keluar uang kita yang repot dan ribet. kalo aplikasinya mudah dan lancar sih mending ya. lah ini apaan dah sampah banget",negatif,,True,acak,Teman,B_451-800,,negatif
+621,e76d9dff-c819-4494-aa06-a28b4640d695,2026-03-09 02:57:31,4,2,"mau aktivin coretax susah banget, ribet gagal mulu bisa dipermudah gak si",negatif,,True,acak,Teman,B_451-800,,negatif
+622,fcf36a7e-93f7-4ef4-908a-1342956e72d3,2025-02-27 08:08:38,2,1,"Tinggal satu langkah verifikasi lagi, segala gak ada tombol OK nya.",negatif,,True,acak,Teman,B_451-800,,negatif
+623,04e3d26d-328e-4726-8a46-9082b016b38c,2025-02-04 12:27:46,2,1,Tidak berguna,negatif,,True,acak,Teman,B_451-800,,negatif
+624,8dcb747e-c998-4d6a-9558-891d9733b625,2026-07-28 04:00:59,4,1,"mau aktivasi aja error mulu,mending ga usah dah bikin aplikasi.buang buang anggaran.anggaran nya pada dikorupsi",negatif,,True,acak,Teman,B_451-800,,negatif
+625,73b65979-eea0-415f-ba01-3852391c7d2a,2025-02-06 08:42:35,2,5,sulit login,negatif,,True,acak,Teman,B_451-800,,negatif
+626,a1f3c04c-5fec-4c37-af4b-ff35cd80e579,2025-04-23 14:27:43,3,1,aplikasi terjelek👎,negatif,,True,acak,Teman,B_451-800,,negatif
+627,42de8ad9-4f74-47fc-ab81-3f4f2e898e77,2026-05-13 04:15:00,4,1,bobrok,negatif,,True,acak,Teman,B_451-800,,negatif
+628,25cdde01-a741-48ce-a8c4-292e2b9e3dce,2025-03-16 07:02:45,2,5,Jadi mudah,positif,,True,acak,Teman,B_451-800,,positif
+629,70b298ea-7c19-4428-a6fe-deb17425912a,2025-02-13 09:23:32,2,1,"Aplikasi gak guna gak bsa buat lapor SPT tahunan, lola lg",negatif,,True,acak,Teman,B_451-800,,negatif
+630,aa793886-4a43-4131-a930-0ce08f78e6dd,2026-02-12 05:33:38,4,5,"masih kurang optimal sih, harus ditingkatkan lagi",negatif,,True,acak,Teman,B_451-800,,negatif
+631,f29a4da2-19dd-42e2-a5da-028185e8533b,2025-02-12 02:44:32,2,1,"Nomer NPWP sudah sesuai,efin sudah berhasil diperbaharui,tapi buat login keterangan selalu erorr sistem...hihhh... aplikasi kurang bermanfaat",negatif,,True,acak,Teman,B_451-800,,negatif
+632,9fe98b83-27ba-43bb-b928-5e5c7c4dac15,2025-03-05 04:13:11,2,1,Kode efin ga di kirim2 parah bgt,negatif,,True,acak,Teman,B_451-800,,negatif
+633,4f2de2e5-c4e5-4869-9a8c-aa0c75dfb300,2025-03-03 01:22:44,2,1,"Buang buang dana negara, chat cs aja ga bisa",negatif,,True,acak,Teman,B_451-800,,negatif
+634,86389738-53db-427e-9fe4-ab8f8820e069,2025-03-03 12:28:25,2,1,"Ga seperti tahun kemarin,skrng kalo lupa sandi lupa email akun djp online susah mau lapor spt,gmna ceritanya ini,makin kesini makin jelek mau d web mai d aplikasi",negatif,,True,acak,Teman,B_451-800,,negatif
+635,09d38d25-cbf7-4f71-aed7-9aebd999eaf5,2026-06-24 05:15:02,4,2,kenapa verifikasi nomor telfon lama sekali tidak ada respon,negatif,,True,acak,Teman,B_451-800,,negatif
+636,d5f803ea-d12c-4066-85f7-6d51291c8a7a,2026-04-01 10:04:53,4,1,"Udah ya temen², jangan daftar online, percuma habis2 in pulsa kalian doang, udah muak banget dengan pajak² an",negatif,,True,acak,Teman,B_451-800,,negatif
+637,4b25d061-9b90-4f59-9cf1-09d424e162d7,2025-06-23 03:13:37,3,1,"mau lihat NPWP aja ribet,mau bayar pajak ribet,apa2 dibuat ribet alias mulek...aplikasi ruwet...indonesia gelap gulita,aplikasi pemerintah kok kayak gini buat daftar saja gak bisa,di indonesia banyak orang pintar tp pintar itu...tau sendirikan?!",negatif,,True,acak,Teman,B_451-800,,negatif
+638,7733c020-36d2-4356-9a58-4f435b351154,2025-03-25 02:07:30,2,1,percuma aplikasinya udh ada efin tetap aja disuruh laporan spt tahunannya ke kantor pajak...,negatif,,True,acak,Teman,B_451-800,,negatif
+639,4ced1868-9302-44f8-b346-75283c51dfed,2025-11-27 11:43:03,3,1,udah tertib... ehh gantian laporan dipersulit.,negatif,,True,acak,Teman,B_451-800,,negatif
+640,df87f92a-8ed4-4a97-a768-862f1d43ac4c,2026-05-10 00:11:50,4,1,"payah mau login aja susah betul, mana aktifasi doang aja makan waktu banget.... tolong lah orang mau taat pajak loh ini kok malah dipersulit",negatif,,True,acak,Teman,B_451-800,,negatif
+641,529ed9d3-bbba-44e6-a4cf-8c1e2578d7e8,2026-04-10 13:33:33,4,1,"aplikasi tidak sangat membingungkan,",negatif,,True,acak,Teman,B_451-800,,negatif
+642,853ba504-42bc-40c5-906c-5b19704916db,2026-02-22 22:05:20,4,1,sekiranya ga mau ngelayanin gausah so soan bikin apk ga ada gunanya,negatif,,True,acak,Teman,B_451-800,,negatif
+643,a1dd5050-f316-4079-94f5-79311943ba7d,2026-03-09 02:15:04,4,5,good,positif,,True,acak,Teman,B_451-800,,positif
+644,b794ad51-a452-421a-a6c6-47681187865d,2026-02-05 07:42:58,4,1,"hapus aja aplikasi ke gini co, gajelas bgt",negatif,,True,acak,Teman,B_451-800,,negatif
+645,5b9017c7-47ae-4d45-b8c6-289f5235999b,2026-06-21 03:06:13,4,1,sangat buruk,negatif,,True,acak,Teman,B_451-800,,negatif
+646,c65f9303-4a69-4205-bc44-22e74b0c6862,2026-07-24 13:02:00,4,1,"aplikasi dongo, cuma di puter"" di login aja dongo dongo,di kira gua kgk ngerti.",negatif,,True,acak,Teman,B_451-800,,negatif
+647,bfe7d1a9-f896-4780-8e1d-3799fb6404f5,2026-08-07 12:35:46,4,1,Asuuuu,negatif,,True,acak,Teman,B_451-800,,negatif
+648,301ec034-f740-4015-ad5a-67fe52db1024,2025-06-09 06:49:18,3,1,"makanya kalau bikin web, aplikasi apapun itu yg sifatnya pelayanan publik. dana nya di pakai semua buat peruntukannya biar bagus aplikasinya ga lelet",negatif,,True,acak,Teman,B_451-800,,negatif
+649,c73557e9-b51b-4743-901c-e1646fcaba0e,2025-08-13 07:34:49,3,4,luar biasa sangat membantu,positif,,True,acak,Teman,B_451-800,,positif
+650,4cbb831a-5a62-433e-8487-ebe3f9a02174,2024-02-15 02:50:21,1,5,Aplikasi pajak sampah.,negatif,,True,acak,Teman,B_451-800,,negatif
+651,60c74598-b94c-4b22-b643-9084378ea337,2025-02-21 06:56:02,2,1,"Udh bayar. Mala di suru bikin buat laporan yg sangat ribet sekali,apk berat gak mendukung,harusnya pemerintah ngasih laporan ke kita bukhti pembayaran,karn langsung motong dari gajian,bukan kitanya bikin laporan..... semua di bikin ribet",negatif,,True,acak,Teman,B_451-800,,negatif
+652,6b22d582-5eed-4bca-b0bf-ae41f1f71e9d,2024-12-18 10:52:23,1,1,"Tombol verifikasi disable, semoga cepat di update.",negatif,,True,acak,Teman,B_451-800,,positif
+653,f2be1f26-ab03-4641-90da-ff64478e30d4,2025-05-13 12:11:24,3,1,Ribet,negatif,,True,acak,Teman,B_451-800,,negatif
+654,fa12c7bd-9a4c-471c-bb9e-d54a4a3f85f9,2024-09-22 06:31:47,1,5,Sangat cocok untuk melihat pajak saya,positif,,True,acak,Teman,B_451-800,,positif
+655,278d7344-ab1b-4b4a-a688-8bcea6df722c,2025-04-14 04:46:36,3,1,kok cacat ya,negatif,,True,acak,Teman,B_451-800,,negatif
+656,f44c72ce-104d-47ba-b1b7-dc374a6f1424,2024-03-19 07:22:04,1,1,"Keringat sendiri di suruh bayar pajak ,,, sistemnya di persulit pula buka wabnya parah sulit tolong di perbaiki lg",negatif,,True,acak,Teman,B_451-800,,negatif
+657,ad5bf104-7c69-4a41-b5f2-0a0ff4f632fa,2026-09-25 04:46:40,4,1,zolim,negatif,,True,acak,Teman,B_451-800,,positif
+658,ed4b755f-591a-4958-ae5e-02bd80643fc7,2026-02-12 22:09:23,4,1,baru juga download dan buka apk sudah disuruh update 😟,negatif,,True,acak,Teman,B_451-800,,negatif
+659,a6c54e0f-1860-4c9b-9cea-bd31e5ed5752,2026-04-26 12:36:29,4,1,fungsi aplikasi buat apa?,negatif,,True,acak,Teman,B_451-800,,negatif
+660,9f7ed62b-ccf6-4d49-9b1a-5576161574d4,2026-04-06 06:14:23,4,1,ga fungsi,negatif,,True,acak,Teman,B_451-800,,negatif
+661,dbbde57e-b2d1-4469-80eb-c6af5fac9c5b,2024-10-04 12:30:19,1,1,"Ini aplikasi kok muter"" Terus mau login Gimana sih",negatif,,True,acak,Teman,B_451-800,,negatif
+662,38889b86-9c72-4982-989a-d72fed7de28b,2025-06-16 06:45:16,3,5,mantaaaap,positif,,True,acak,Teman,B_451-800,,positif
+663,7de9ded0-cc20-4881-9962-8bfe9ff2d24d,2025-03-18 05:27:08,2,1,"Aplikasi Busuk, Sampah, Ribet.",negatif,,True,acak,Teman,B_451-800,,negatif
+664,42f8aaef-d3b7-4dc1-b16b-3ecc0f7efb62,2025-12-23 08:41:18,3,5,Dengan aplikasi Mpajak dangat membantu kami,positif,,True,acak,Teman,B_451-800,,positif
+665,c2b7b3d3-6794-4a81-86b6-e09d75863a82,2025-09-07 02:02:51,3,1,"Kalau aplikasinya masih belum sepenuhnya bisa di gunakan, jangan di publish dulu dan jangan di promosikan. setiap login selalu kendala error, padahal NIK/NPWP sudah valid, eh giliran di klik verifikasi malah error. mohon untuk di tarik dulu aplikasinya dari PlayStore, soalnya belum bisa di gunakan 100%. mohon untuk di perbaiki dulu",negatif,,True,acak,Teman,B_451-800,,negatif
+666,fba61de3-3b77-4269-8f44-3484718bf1bb,2025-06-29 13:08:43,3,1,"verifikasi email aja terus,aplikasi pajak kok susah di akses",negatif,,True,acak,Teman,B_451-800,,negatif
+667,582e6e8a-aae1-4935-b664-cf6afbb4685b,2026-07-17 08:14:27,4,1,eror Mulu mau login ..kocakk,negatif,,True,acak,Teman,B_451-800,,negatif
+668,71316aa2-dfed-4f61-a173-33656a2fda57,2025-01-23 04:27:02,2,1,Aplikasi mbobrok Berserta instansinya Ribet,negatif,,True,acak,Teman,B_451-800,,negatif
+669,aca7d326-b0c3-4ef7-aa7c-033dcdf545b7,2025-01-16 06:26:45,2,1,Live chat susah di akses. Registrasi susah sekali. Mau taat pajak aja susah.,negatif,,True,acak,Teman,B_451-800,,negatif
+670,7ab376db-8521-409f-ace0-36a843cc1eb7,2025-03-01 03:45:23,2,2,"Pas masuk harus verifikasi lewat email, pas di cek email nya gak ada inbok, ditungguin sampe pegel bolak balik lihat email, pas no verifikasinya muncul, pas mau ke aplikasinya mulai dari awal lagi, harus masukin verifikasi nomor yang baru lagi, bikin kesel 😤",negatif,,True,acak,Teman,B_451-800,,negatif
+671,95406743-1a5c-421a-a358-28116d475ca3,2026-02-15 17:28:02,4,1,sampah,negatif,,True,acak,Teman,B_451-800,,negatif
+672,364b7262-1d4a-4db3-a618-de49d3a0670e,2025-01-20 11:38:09,2,3,"Mau pasang listrik di Indonesia harus ada nidi , slo, siup dan nib, buat siup dan nib harus ada no npwp, giliran buat no npwp registrasi situs tidak ditemuakn, coretax. susah kalau urusan sama pemerintah, buat aturan tapi dipersulit sendiri. Kocakkk",negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+673,b6b49be2-b717-44ad-a2c8-a81fae0d3acc,2024-05-21 01:59:12,1,1,"Orang mau nyari NPWP dan cuma tanya nomer EFIN aja susahnya minta ampun, cuma mau bayar pajak aja di persulit. Ndeso bgt sistemnya sumpah!!! Serba online tp di suruh datang ke KKP, Saya yakin birokrasi di KKP pasti lama bgt. Gitu gaji org pajak tinggi tinggi banget, kek alun koruptor eselon III dirjen pajak bisa beli ini beli itu. Sistem tuh perbaiki, gak cuma gaji aja yang gede",negatif,,True,acak,Teman,B_451-800,,negatif
+674,669fed3b-5ff0-4cde-90db-bd865d97ff16,2026-03-11 02:06:50,4,1,payah,negatif,,True,acak,Teman,B_451-800,,negatif
+675,95ff2f50-52a0-4fbb-a529-46262f9385b0,2026-02-20 17:46:14,4,1,tidak bisa verifikasi nomor telpon,negatif,,True,acak,Teman,B_451-800,,negatif
+676,8274c250-45ff-4198-b9bd-2482fcddefde,2026-03-05 04:43:52,4,1,"APLIKASI QONTOL, YANG NGEMIS SIAPA YANG REPOT SIAPA QONTOLLLL",negatif,,True,acak,Teman,B_451-800,,negatif
+677,74adaebb-6afd-4b94-bed2-0ed79962b592,2025-06-20 12:36:43,3,5,lupa FFIN pas verifikasi lewat email kok bukan email saya yng terdaftar,negatif,,True,acak,Teman,B_451-800,,negatif
+678,1f347198-cd44-44c7-b937-6f7e6ef1736e,2024-07-01 04:21:00,1,1,Sampah emg! Baru juga download mau effin udah tinggal verifikasi lewat email pas buka aplikasinya lagi ngulang dari awal..,negatif,,True,acak,Teman,B_451-800,,negatif
+679,d74e8633-ef9e-45e3-956e-3856fc431d02,2025-06-21 05:17:36,3,1,gak jelas aplikasi,negatif,,True,acak,Teman,B_451-800,,negatif
+680,76d78673-a4d4-4a35-9bc8-b5790571714f,2025-05-15 13:16:45,3,1,susah apk nya error mulu,negatif,,True,acak,Teman,B_451-800,,negatif
+681,5a768328-c6cc-48bc-bce6-753ffd7fd285,2025-12-10 06:41:53,3,1,"deplover ga jelas, ada gak ada aplikasi sama aja ribet, besok besok jadi deplover pripayer aja",negatif,,True,acak,Teman,B_451-800,,negatif
+682,638e63a7-a83d-4b91-a401-b6fcac5238f1,2024-08-09 01:33:16,1,1,PAJAK TERUSSS... JALAN RUSAK BIKIN AMBERO DAN JANTUNG PROTOL,negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+683,4e47063c-88f0-4d92-803b-60d4988babce,2024-06-28 03:34:09,1,1,Penasaran pengadaan web & maintenance abisin anggaran brp hasilnya kek gini 🚩,negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+684,aa8fe15b-2afa-4dd5-81c9-2bf30a662b18,2025-01-09 15:05:34,2,1,"Tolong di tingkatkan lagi, aplikasi GK bisa di akses",negatif,,True,acak,Teman,B_451-800,,negatif
+685,701ce14a-cbd4-4c8d-8149-3c01cf957e85,2024-10-03 11:17:19,1,1,Ga guna. Buang buang anggaran saja. #indonesia,negatif,,True,acak,Teman,B_451-800,,negatif
+686,a8aa9531-73ec-45f9-a39f-bd9a2d771db6,2024-02-29 02:07:40,1,1,"Ribet, lama, nyusahin, dicoba berkali kali minta kode efin kgak bisa2",negatif,,True,acak,Teman,B_451-800,,negatif
+687,011765f3-44b0-4a5b-b772-bcac62ac49bc,2026-02-04 13:07:24,4,1,Mohon diperbaiki ya.. aplikasi tidak worth banget,negatif,,True,acak,Teman,B_451-800,,negatif
+688,6d2f5945-8432-4527-bdbc-9d4f54122e3f,2025-03-03 09:01:04,2,1,"Pajak elit server sulit, mau dapet verifikasi login aja nunggu 1 jam. Gimana ya cara lapornya",negatif,,True,acak,Teman,B_451-800,,negatif
+689,c5d2de25-22b6-4d68-bdbe-412aeb7d02b4,2025-04-28 16:48:03,3,1,"apk yang lama sudah bagus, dan apk yang sekarang gak bisa di akses, buang"" anggaran negara saja",negatif,,True,acak,Teman,B_451-800,,negatif
+690,1bb9c4e1-33e5-4dbf-bc2c-657ddbf8ccdc,2025-03-17 07:19:48,2,1,"Aplikasi ini tidak membantu sama sekali, anda akan diarahkan ke kantor pajak",negatif,,True,acak,Teman,B_451-800,,negatif
+691,904aaebe-f261-4b9a-98ce-f2f38481851f,2025-01-07 02:40:03,2,1,"Gk jelas, login kg bisa², udah tau mau buat NPWP",negatif,,True,acak,Teman,B_451-800,,negatif
+692,e3b73861-0814-4c60-bf93-c3c4cd39d401,2025-06-05 04:47:07,3,3,"Ganti coretax donk, ini M-Pajak masih memisahkan NIK dg NPWP",negatif,,True,acak,Teman,B_451-800,,negatif
+693,37daa4ea-bdd4-4f74-b8cb-d05d91910de9,2026-02-26 02:40:39,4,1,"mau bayar pajak aj di persulit,ga bisa di aktivasi",negatif,,True,acak,Teman,B_451-800,,negatif
+694,eb7c3d18-1bb7-482a-9141-0b8ced0a4a10,2025-03-27 02:20:11,2,1,"kocak gimana mau ngisi NPWP dengan benar kalo di batasi 15 digit , sedangkan no NPWP 16 digit, 👎👎👎👎😤",negatif,,True,acak,Teman,B_451-800,,negatif
+695,b256847f-b7a2-491a-b98c-d2c3a2fd21bd,2025-12-23 19:55:20,3,5,sukses selalu.,netral,,True,acak,Teman,B_451-800,,positif
+696,d2ae08a6-af62-4af8-941e-792c4982bcf5,2025-09-12 19:43:49,3,1,membutuhkan efin aja susah gagal trus untuk di foto gk jelas tidak mempermudah,negatif,,True,acak,Teman,B_451-800,,negatif
+697,5785c0ad-de5a-40b1-aebc-ccbe6a01f813,2024-03-20 03:56:33,1,1,APLIKASI SAMPAH,negatif,,True,acak,Teman,B_451-800,,negatif
+698,6548adf9-6733-47ec-954d-dd99301c8a1e,2024-03-28 02:46:16,1,1,Ga guna,negatif,,True,acak,Teman,B_451-800,,negatif
+699,f57fcf1f-957f-4862-9ad1-3df5593b4692,2025-09-22 04:11:39,3,1,makin nyusahin,negatif,,True,acak,Teman,B_451-800,,negatif
+700,8c426fd2-598f-41c9-9f4f-69517a336091,2026-08-17 06:19:05,4,1,"lambat pengiriman ke email, lupa sandi jadi gk bisa",negatif,,True,acak,Teman,B_451-800,,negatif
+701,3eda531e-5b11-4487-abc8-bd1f9f35970a,2024-03-21 05:21:34,1,1,"aplikasi tak bisa di pakai, ribet X",negatif,,True,acak,Teman,B_451-800,,negatif
+702,ce0bec58-2ec0-46c3-bacd-4f2d1f4e8d7b,2026-01-13 21:05:03,4,1,otp ga pernah di kirim woi,negatif,,True,acak,Teman,B_451-800,,negatif
+703,8306f15a-01f0-4469-ba89-7fac1abf5575,2025-04-11 10:13:32,3,1,yakin ini UI nya elek banget. ini benerap PNS di dinas perpajakan kinerjanya seperti ini?,negatif,,True,acak,Teman,B_451-800,,negatif
+704,721020ba-8646-413c-a602-65164ec7649a,2024-03-21 05:03:10,1,5,Oke😊😊😊,netral,,True,acak,Teman,B_451-800,,positif
+705,aba35e79-4704-4dbe-a1e6-257b3fc1fee5,2024-05-20 04:44:55,1,1,Angel angel,negatif,,True,acak,Teman,B_451-800,,netral
+706,7a5d1765-9633-432c-a063-cad062fe97b2,2024-12-12 05:13:17,1,4,Tolong tombol verifikasi OTPnya diperbaiki. Selama itu kah memperbaiki bug tersebut?,negatif,,True,acak,Teman,B_451-800,,negatif
+707,2db080e2-5a25-4051-a6d2-7d90bb175c7d,2024-02-06 12:06:57,1,5,Sangat bermanfaat & berguna,positif,,True,acak,Teman,B_451-800,,positif
+708,9e2e7ce9-b3e8-4bec-ad62-e9b5f9318c79,2025-06-12 07:20:08,3,1,burik mau masuk ga bisa bisa payah,negatif,,True,acak,Teman,B_451-800,,negatif
+709,d8c17a7f-ad1c-49b8-8c83-470e5e9d9b81,2025-01-19 01:41:21,2,1,"Aplikasi ribet , memaksa rakyat taat pajak tapi pelayanan menyulitkan . Apalagi para pekerja di lokasi pedalaman . Ngejar2 pajak mulu imbal baliknya minim",negatif,,True,acak,Teman,B_451-800,,negatif
+710,e1eb792d-d314-47ba-9198-c7937b472521,2024-01-24 21:28:12,1,1,buruk,negatif,,True,acak,Teman,B_451-800,,negatif
+711,35b2b697-0fb4-407d-8ca8-e305a720507b,2025-01-30 02:44:53,2,1,Eror teruuuus dari zaman dulu gk ngasih solusi,negatif,,True,acak,Teman,B_451-800,,negatif
+712,d2ba4f0f-4304-4844-abc5-cc1ab423fbab,2024-01-15 10:54:20,1,1,Saya selalu gagal untuk minta evin pajak,negatif,,True,acak,Teman,B_451-800,,negatif
+713,ee851273-944d-4433-aabe-f5e9a6d96fea,2025-02-09 12:18:24,2,3,"Minta tolong berbagi informasi, ada yang cht mengatas namakan dpj bahwa saya mendapatkan bantuan UMKM, contoh cht WA ""Dengan hormat, Kami ingin menginformasikan bahwa Anda terdaftar sebagai penerima Bantuan Langsung Tunai (BLT) UMKM dari Kementerian Koperasi Dan Direktorat Jenderal Pajak. Setelah informasi data diri lanjut dengan cht WA Kementerian Koperasi dan UKM memberikan BLT UMKM dengan dana berjumlah Rp. 7.200.000 yang sasarannya para pengusaha mikro yang akan direalisasikan di bulan 2",negatif,,True,acak,Teman,B_451-800,,netral
+714,3e1d255e-728e-4b3c-bbf0-51722d4da0d9,2025-02-12 01:31:47,2,5,Baik,positif,,True,acak,Teman,B_451-800,,positif
+715,49b21fa9-3a82-48c0-94e4-58325ced6172,2026-03-02 22:01:36,4,5,good,positif,,True,acak,Teman,B_451-800,,positif
+716,2771645f-1792-4e00-b6c9-6ddfcdc69d69,2025-01-31 00:14:24,2,1,"Buang2 anggaran biki aplikasi di jaman teknologi gini ajh ga becus, banyak bug gapernah di benerin.",negatif,,True,acak,Teman,B_451-800,,negatif
+717,dbc7c3af-ddfb-4606-ab0e-9a968f0a4e5c,2025-12-28 09:40:56,3,1,"Teknologi itu digunakan untuk mempermudah, mempercepat, dan mempermurah. kalau masih harus datang manual ke kantor pajak buat urusan akun segala macam apa gunanya aplikasi. Jaman sudah canggih masih saja kayak di jaman batu",negatif,,True,acak,Teman,B_451-800,,negatif
+718,64a687c8-eec3-49d7-b03f-137484356671,2025-09-19 03:56:52,3,1,"apk gajelas, uang pajak kemana aje bikin ribet lu",negatif,,True,acak,Teman,B_451-800,,negatif
+719,c5339624-2ee5-4292-912e-db2be2eca8a3,2026-06-18 02:26:54,4,1,"terpaksa download apk, di website eror mulu",negatif,,True,acak,Teman,B_451-800,,negatif
+720,4d2d7106-cfcf-418c-b9e0-1615952e8bc7,2025-02-27 07:30:50,2,1,"Benar benar menyusahkan Rakyat aplikasi ga berguna ini,nyusahin rakyat tiap sekali verifikasi lama + kita harus cepat cepat masukin effin kalo tidak tidak bisa masuk lebih dari 20 menit padahal kita rakyat nunggu bisa sampe 3 jam an untuk dapet code",negatif,,True,acak,Teman,B_451-800,,negatif
+721,7adc0a66-a4d5-458a-9349-1013a0c2fc23,2025-02-13 08:42:36,2,1,"dari tadi udah masukin verifikasi salah mulu, ini sih akibat kalo mau buka aplikasi pajak harus login dulu. tapi tidak dibarengi dengan konfirmasi jelas dan manajemen buruk",negatif,,True,acak,Teman,B_451-800,,negatif
+722,1afc2b42-e943-4071-9bc1-bc770bebe37e,2024-03-20 12:50:47,1,1,Bangsat,negatif,,True,acak,Teman,B_451-800,,negatif
+723,47b0927c-5f42-47a6-9ac4-ed87a566d621,2025-04-15 12:42:24,3,4,sangat membantu,positif,,True,acak,Teman,B_451-800,,positif
+724,36d75700-2882-43d3-a207-440ff4189d5e,2025-11-19 18:19:49,3,1,Aplikasi sampah Mau login aja error terus,negatif,,True,acak,Teman,B_451-800,,negatif
+725,1094cf4a-3ef0-42f8-838a-899029a0ef55,2026-02-07 05:18:59,4,1,sangat sangat sangattt ribet,negatif,,True,acak,Teman,B_451-800,,positif
+726,1eb4627e-a9f3-4518-89f0-95d9613d0f4e,2025-05-07 12:13:05,3,1,"Daftar Gabisa Disini, Ga Guna Banget, Daftar Di Web HP Malah Makin Ancur Dan Bikin Pusing",negatif,,True,acak,Teman,B_451-800,,negatif
+727,b4aa2441-a5ef-495d-beab-16f055c3b193,2024-04-29 05:48:44,1,1,"Datang ke kantor pajak langsung malah di suruh daftar online, giliran daftar online malah ribet. Terlalu banyak buang waktu",negatif,,True,acak,Teman,B_451-800,,negatif
+728,2979c2c0-4b44-4fb6-a79d-cf356387f443,2025-12-01 03:53:27,3,5,Aplikasi sudah bisa dibuka,netral,,True,acak,Teman,B_451-800,,negatif
+729,79f8242f-1615-4cad-8942-b6ca3d464d8d,2025-01-09 12:12:07,2,1,Aplikasi ngaco..gak ada gunanya...gimana Indonesia mau maju klau aplikasi begini...di suruh login dulu.tapi menu untuk buat akun ajaa gak ada...Berharap dii permudah..tapi tambah sulit..,negatif,,True,acak,Teman,B_451-800,,negatif
+730,fc0d3961-9207-4c90-b76e-5017effa8f50,2024-07-11 13:57:57,1,1,"Aplikasi ini gak berguna sama sekali , log in gak bisa padahal semua data sudah benar . Tapi sebenernya gak kaget sih sama yg beginian 😊",negatif,,True,acak,Teman,B_451-800,,negatif
+731,a69c1be9-e34d-4964-8a16-eafa4b737f1a,2026-06-26 16:32:03,4,1,"aplikasi paling menyiksa, buang waktu, plsa dn tenaga. sy coba daftar NPWP 2 hp android dn 1 tablet hasilnya nol awalnya sy pkir it masalah d hp sy trnyata yg brmasalah itu aplikasinya, peta tdak bisa d klik dan selalu kembali k awal alhasil sy hrus verifikasi dlu untuk krim otp dn menghabiskan pulsa. tolong di perbaiki lagi aplikasihnya, gak guna di adakan aplikasi ini klau tidak bisa membantu masyarakat si paling pajak yg tau hnya pajakin masyarakatnya😠",negatif,,True,acak,Teman,B_451-800,,negatif
+732,29572dac-3b5b-4ae1-afb7-9d9fb49aefa3,2025-07-10 08:43:05,3,1,"kenapa untuk meminta nomor EFIN, pasa kolom NPWP tidak bisa di ketik 1 angka terakhir..,? jdi pas pengajuan tidak bisa karena nomor NPWP nya kurang 1 anggka...",negatif,,True,acak,Teman,B_451-800,,negatif
+733,1602f916-1aa7-4670-a1db-a882582f41ce,2024-03-05 04:59:30,1,5,aplikasi ini membantu jadi kita tidak perlu ngantri berjam jam dikantor pajak,positif,,True,acak,Teman,B_451-800,,positif
+734,65d8ccc9-8579-489c-af15-4e25dc3b84ae,2025-03-12 14:33:17,2,1,Kirain aplikasinya bisa buat daftar npwp ternyata tidak,negatif,,True,acak,Teman,B_451-800,,negatif
+735,02443689-964a-43c9-abfa-5ce304739548,2024-03-22 14:06:46,1,1,Eror terus,negatif,,True,acak,Teman,B_451-800,,negatif
+736,79ce41b4-148f-4545-bba7-a7b5381b9493,2025-10-01 13:02:46,3,1,bagai mana ini aplikasi. menu daftarnya aja nggak ada.,negatif,,True,acak,Teman,B_451-800,,negatif
+737,e3ed2ae1-159b-4640-af71-e380e45b157f,2025-12-05 04:17:15,3,1,untuk login saja sulit sekali,negatif,,True,acak,Teman,B_451-800,,negatif
+738,7f0fa4b4-028c-4626-af0e-891e217de886,2025-07-02 04:35:05,3,5,bagus bs diakses dmn aja,positif,,True,acak,Teman,B_451-800,,netral
+739,9a3db63d-fb73-403b-8902-771a08176e23,2025-01-24 09:02:38,2,1,"Lupa efin di suruh lewat m pajak , udh di coba tpi pas mau ajuin pas bagian verifikasi email/sms nya ga bisa di klik coba ?? Kenapa itu ngebug atau gimana dah ? Udh di apus instal ulang sama aja ga bisa juga ngebug aplikasi nya . Ini kan aplikasi dari pemerintah nih kalo bisa di tingkatin lagi dong masa mau tau efin aja susah pake segala ngebug gitu aplikasi nya .",negatif,,True,acak,Teman,B_451-800,,negatif
+740,c48d6188-eade-4803-8627-be23acd71b48,2024-11-09 09:37:17,1,1,"benerin lagi link sama app, tololll",negatif,,True,acak,Teman,B_451-800,,negatif
+741,981cdaf5-9869-4213-a57c-f5850f3a265a,2025-02-13 04:21:45,2,1,Cacat,negatif,,True,acak,Teman,B_451-800,,negatif
+742,02fa243a-cd33-4ed6-8b12-ad1bc67c5804,2025-09-18 11:16:09,3,1,KODE VERIFIKASI NYA MANAAA,negatif,,True,acak,Teman,B_451-800,,netral
+743,28caddd3-939a-41d2-92d9-238bb4909eca,2025-02-03 13:00:14,2,5,"Proses cepat, thanks",positif,,True,acak,Teman,B_451-800,,positif
+744,42b25ab6-3267-4044-8bc2-8f7ea8dde415,2025-02-27 08:25:14,2,1,"MAU RESET LUPA SANDI AJA, ""PASSWORD DI KIRIM KE EMAIL"". TAPI DITUNGGU SAMPAI KUCING BERANAK 100 PUN GAK MASUK². SERIUS GAK SIH MELAYANI RAKYAT?",negatif,,True,acak,Teman,B_451-800,,negatif
+745,3fade0c4-1c13-48c0-bcc9-d37633909ac6,2024-03-22 07:51:45,1,1,"Sudah masukin no npwp dan password, salah mulu, sampai ubah password typ salah lagi pas login",negatif,,True,acak,Teman,B_451-800,,negatif
+746,bd17bb7e-835a-42d2-806a-d2d0d3a5aa87,2025-01-19 09:51:25,2,1,Aplikasi ini sangat tidak berguna. Meskipun sudah update tetap tidak berguna. Aplikasi ini Dibikin Cuma ngabisin anggaran.,negatif,,True,acak,Teman,B_451-800,,negatif
+747,fc8bd887-bded-4f72-a86c-761d47baedf6,2026-03-04 12:39:32,4,1,aplikasi tolol,negatif,,True,acak,Teman,B_451-800,,negatif
+748,6f64d755-ee8d-4187-b73c-c0a5ac8a7358,2025-03-19 01:28:36,2,1,Aplikasi tempek,negatif,,True,acak,Teman,B_451-800,,negatif
+749,3ed276b7-8b42-4c07-ac1a-56e44fdb638f,2025-03-26 02:09:43,2,5,mantap,positif,,True,acak,Teman,B_451-800,,positif
+750,07c844f4-e5c3-4318-a874-136bfabccf99,2024-12-17 17:42:22,1,1,Sangat jelek sekali. Tombol verifikasi tidak dapat ditekan.,negatif,,True,acak,Teman,B_451-800,,negatif
+751,147e8d03-9d39-490e-a91a-d8acbe3c5881,2026-01-14 03:27:58,4,1,login tdk bisa padahal NIK dan password sudah benar. thn 2026 mau lapor pajak malah tdk login. mau ketawa tapi inilah indonesia,negatif,,True,acak,Teman,B_451-800,,negatif
+752,010d9790-c001-4b6e-b0e2-96f503702c2e,2026-02-07 01:14:55,4,2,semakin kesini semakin ga jelas ni apk,negatif,,True,acak,Teman,B_451-800,,negatif
+753,b32c0b68-cfe7-4993-b09f-4cb4afccc252,2025-10-08 12:41:00,3,1,aplikasi gak jelas,negatif,,True,acak,Teman,B_451-800,,negatif
+754,3dbfaae9-7d24-4eaa-8941-a68582843c22,2026-04-13 03:26:42,4,1,banyakan di tilep biaya r&d nya ini aplikasi 🤣 gak usah saya jelasin dah ya kenapa saya tulis begini yang lain udah banyak jelasin di bawah,negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+755,dccc82e6-a924-4a5d-a638-01826985f225,2025-10-22 11:55:33,3,1,gabisa di akses kocak banget nih aplikasi. 🤣🤣😆,negatif,,True,acak,Teman,B_451-800,,negatif
+756,e43b658e-c02e-419e-baa8-4326b361c623,2025-01-15 02:00:58,2,1,"Aplikasinya sangat lambat. Kita ajukan berulang kali untuk mendapatkan kode EFIN pun selalu saja gagal. Masukkan kode OTP yang dikirim oleh sistem pun dibilang ""SALAH"". Tolong diperbaiki aplikasinya. Jika tidak bisa digunakan, silahkan kunci saja aplikasinya.",negatif,,True,acak,Teman,B_451-800,,negatif
+757,5f12b1e5-e390-44b1-a04a-338218c91850,2025-12-23 04:28:34,3,5,good,positif,,True,acak,Teman,B_451-800,,positif
+758,ca8107b3-0e94-44ed-b812-f8636f97e3e8,2025-12-13 02:27:12,3,5,sangat membantu bangeet trimakasih,positif,,True,acak,Teman,B_451-800,,positif
+759,95be22be-091e-41aa-87f8-bcfbf0404f5d,2026-01-20 22:30:22,4,1,aplikasi tersampah yang pernah saya pakai dan gunakan seumur hidup saya udah ngabisin dana triliyunan tp ttp ni aplikasi ama websitenya ttp sampah yg buat kek anak SMP yg baru pegang komputer,negatif,,True,acak,Teman,B_451-800,,negatif
+760,b6d136af-0387-4e56-b73f-1db442b31953,2024-04-08 15:46:51,1,1,"ribet,, baru install suruh update dah nunggu 1 jam gx selesai2 updatenya,, mana maksa banget pengupdatetanya , mana gak bisa di kembalikan, bukan mempermudah malah mempersulit,,",negatif,,True,acak,Teman,B_451-800,,negatif
+761,e26835b7-98b1-41d8-a294-c3587e093f5b,2026-06-17 03:59:10,4,3,"klo bisa bikin aplikasi yg mudah"" saja pak.. jangan dibuat ribet. untuk chek NPWP dan Daftar.. terus klo akun kita lupa password jangan disuru muter. banyak bener proses nya cuman untuk login..sediakan live chat pak. terus jangan di perbanyak tulisan atau kata"" dengan bahasa yang membingungkan.. langsung to the poin aja.. saya kasih contoh nih kalo gak ngerti. orang mau bayar pajak. tulisan yg mudah di Mengerti saja. "" KEWAJIBAN BAYAR PAJAK""✅ ""KEWAJIBAN KONSUMEN PAJAK"" jdi bingun pak klo gitu.",negatif,,True,acak,Teman,B_451-800,,negatif
+762,5bd45831-d4e1-462d-bc4c-4f181e7fab71,2025-04-12 07:02:55,3,1,"aplikasi tidak berguna,, verifikasi aja lama apalagi verifikasi nomor televon",negatif,,True,acak,Teman,B_451-800,,negatif
+763,04b4028d-f456-460b-910e-4f5409cf81b1,2026-06-19 02:54:57,4,1,ruwet,negatif,,True,acak,Teman,B_451-800,,negatif
+764,aaed4acd-42c8-40d6-89a4-43be3ad2e690,2025-09-03 08:41:07,3,1,"aplikasi tidak jelas, pin aktifasi sudah di masukan malah sesi berakhir terus",negatif,,True,acak,Teman,B_451-800,,negatif
+765,922b3661-e611-4399-b221-a91aa709ed57,2024-02-25 03:09:21,1,1,Ga bisa buat lapor pajak.,negatif,,True,acak,Teman,B_451-800,,negatif
+766,d7c6eff3-71d0-4764-8f87-bbee3f283ee0,2025-09-22 23:31:51,3,1,"Aplikasi ga guna, kirim email verifikasi baru masuk sehari kemudian. Pas di klik udh expired, coba kirim lagi tetep masuk emailnya sehari kemudian, expired lagi. Gitu aja trus.",negatif,,True,acak,Teman,B_451-800,,negatif
+767,ba3b482f-8c9c-4db1-bdfb-7d13ebb11373,2025-06-20 07:19:27,3,1,"PERBAIKI WEBNYA LAH.. MASA SEKELAS PEMERINTAH WEB NYA AMBURADUL PARAH.. SAMPE HABIS PULSA GW BERULANG ULANG GAGAL TERUS, DATA GA KESIMPEN HARUS MULAI DARI AWAL LAGI.. KOK ""PINTERNYA"" MINTA AMPUN BGT 😭 MAU FOTO KETERANGANNYA HARUS DIBAWAH 300KB, GILA KECIL AMAT.. PDHL UDAH FOTO PAKE FITUR KAMERA DI WEBNYA.. KOK BISA FITUR YG DIBIKIN SENDIRI MALAH GA KOMPATIBEL SAMA SISTEMNYA SENDIRI, KOCAK BET 😭 BUBAR DEH BUBAR KALO GA BECUS",negatif,,True,acak,Teman,B_451-800,,negatif
+768,66a19e23-b1e6-4a5e-b9fa-128512c9fbe1,2026-03-30 08:44:30,4,1,susah memang jadi warga negara yang baik. mau lapor pajak saja susahnya setengah mati. login tidak masuk masuk.,negatif,,True,acak,Teman,B_451-800,,negatif
+769,292bc65f-4d61-406b-81e4-3002ed284cfc,2025-02-24 05:54:33,2,1,"Lambat banget pelayannya, nunggu verifikasi saja harus berjam-jam",negatif,,True,acak,Teman,B_451-800,,negatif
+770,c4d6eda3-6570-4fdb-9007-8ad61c7757d2,2024-07-10 04:34:57,1,1,"Sistem pendaftarannya payah terlalu di persulit kirim otp perlu berkali-kali padahal yang di masukkan sudah benar tapi di anggap salah oleh sistem waktu pendaftaran NPWP juga sulit, kata sandi selalu di anggap salah padahal yang di masukkan sudah benar, apa kata sandi yang kumasukkan terlalu sulit? Sampai sistem lupa dengan kata sandiku. Setalah ganti sandi pas mau daftar ulang malah linknya tidak bisa di akses aneh TIDAK BISA BUAT APLIKASI MENDING HAPUS SAJA, DAFTARNYA JUGA DI WEB BUKAN DISINI.",negatif,,True,acak,Teman,B_451-800,,negatif
+771,29db9afe-4526-46cb-8e54-49d0ef2f048d,2025-03-03 23:19:07,2,1,Ga bisa dipake,negatif,,True,acak,Teman,B_451-800,,negatif
+772,dcab38aa-3377-4b94-9ad8-56d86a8eea1c,2025-11-06 13:01:47,3,1,"Masih terlalu ribet , aplikasi belum siap di gunakan .. perlu perbaikan lagi terutama jangan terlalu ribet .. fokus saja ke penggunaan yang mudah , tapi aman dan nyaman..",negatif,,True,acak,Teman,B_451-800,,negatif
+773,fbe19c6d-6389-482f-8dd9-dbde5b240caf,2024-12-25 06:17:19,1,1,Kenapa ya kalau aplikasi layanan public tu banyak banget eror nya enga dari aplikasi maupun dari web nya selalu banyak banget kendalanya bukanya mempermudah masyarakat malah memeprsulit,negatif,,True,acak,Teman,B_451-800,,negatif
+774,b915ba6a-c134-4541-bee4-c7de2f31cd6c,2025-02-18 14:05:42,2,1,email saya kok g sesuai email yg tertera di pajak.aneh,negatif,,True,acak,Teman,B_451-800,,negatif
+775,f1aba82c-efea-475f-a999-c0417017851a,2024-08-04 12:24:33,1,1,Klo gak bisa dipakai atau belum siap jgn di share dlu ni aplikasi,negatif,,True,acak,Teman,B_451-800,,negatif
+776,3d2c2108-ed8e-4c4b-80bb-84b911797771,2025-03-14 02:09:58,2,1,"Aplikasi nya sungguh buruk, mau aktivasi efin pun dipersulit. Update : yang susah dapat verifikasi dari email, lebih baik verifikasi lewat sms saja, tapi sebelumnya harus punya pulsa yaaa karena dipotong pulsa",negatif,,True,acak,Teman,B_451-800,,negatif
+777,17d8d66e-4f97-4101-880f-bd53a8034371,2025-06-25 01:42:39,3,1,kecewa di jaman sekarang mau minta nomer EFIN harus ke kantor tidak bisa lewat online,negatif,,True,acak,Teman,B_451-800,,negatif
+778,ddb9530b-7e5f-4f03-9330-4546f6ab2bb4,2025-10-05 15:50:23,3,1,gk ada pilihan daftar nya gimana mau login ke aplikasinya aneh,negatif,,True,acak,Teman,B_451-800,,negatif
+779,ef640ee2-c8a0-41b6-8d08-c70fe070c4c3,2025-01-24 03:30:13,2,1,"1 kata aj buat nih apk ""busuk"", anggaran banyak buat bikin apk pemerintah tp gini hasilnya. kalo bisa nih yg bikin apk dari pihak swasta aj biar gercep pelayanannya.",negatif,,True,acak,Teman,B_451-800,,negatif
+780,f28033a3-d580-4321-acf7-9abfb2d1ead5,2026-08-13 10:43:43,4,1,"bukan nya memudahkan, ini malah mempersulit👎 banyak bgt kendala nya heran",negatif,,True,acak,Teman,B_451-800,,negatif
+781,e27f23b1-cb4d-4d72-9a0d-e6505665f5d9,2025-02-06 12:59:18,2,1,"Apk gk guna,lupa efin aja ribiet nih apak",negatif,,True,acak,Teman,B_451-800,,negatif
+782,092f2506-fff6-4808-a771-849ae3ac8885,2026-07-19 16:19:52,4,1,aplikasi tolol. susah banget,negatif,,True,acak,Teman,B_451-800,,negatif
+783,a43bc2c6-5e65-4395-8580-0a4d209f78f7,2024-02-29 03:39:21,1,5,"Aplikasi ini sangat cerdas...🤗🤗 Terbantu sekali,,saya sudah lupa dengan efin saya dan mertua tinggal isi data dan foto diri..langsung dapat efinnya..terima kasih m-pajak 🙏🙏 Mudah²n dapat lebih ditingkatkan lagi, dapat digunakan utk segala keperluan perpajakan spt pelaporan dan pembayaran pajak..",positif,,True,acak,Teman,B_451-800,,positif
+784,dcbc7821-193e-45ee-9d25-e369994b5f7d,2026-02-14 22:41:57,4,1,tidak bermutu...,negatif,,True,acak,Teman,B_451-800,,negatif
+785,c86111db-3c4a-4856-b726-88deb5e4e490,2024-06-25 05:31:54,1,1,Yuk REPORT Apk nya ke playstore sebagai Apk mencurigakan biar di hapus Aplikasi SAMPAH,negatif,,True,acak,Teman,B_451-800,,negatif
+786,ba564f0e-2fca-419c-9224-9314125ef2f9,2025-03-19 14:19:58,2,1,tidak berguna,negatif,,True,acak,Teman,B_451-800,,negatif
+787,b244597c-7c83-477c-b7b4-61328fb63f09,2024-03-28 07:10:38,1,1,nggak guna banget punya aplikasi,negatif,,True,acak,Teman,B_451-800,,negatif
+788,6a703df7-0d65-4d1f-a96a-1b3ac701cc42,2025-08-18 11:19:05,3,1,apk penipuan,negatif,,True,acak,Teman,B_451-800,,negatif
+789,36b4f221-29eb-4e2a-9450-5169c4975f28,2025-01-29 05:05:00,2,1,"Salah satu hal paling t*lol dari pajak di Indonesia adalah kami yang kerja, kami yang bayar pajak, kami juga yang perlu repot lapor2an.",negatif,opini_politik,True,acak,Teman,B_451-800,,negatif
+790,f15a7de3-a5e6-424d-872e-6597a60620be,2025-03-10 00:42:42,2,5,Cocok banget.......,positif,,True,acak,Teman,B_451-800,,positif
+791,fe90eaf8-4376-4eaa-8ea1-df98e6f9fd15,2025-04-27 12:39:27,3,1,error ga bisa login,negatif,,True,acak,Teman,B_451-800,,negatif
+792,e28303bb-b4f5-4f60-be85-fca7460c223d,2024-01-16 05:25:56,1,1,Tidak ada riwayat pembayaran ya???. Saya mau screen shoot buat lapor SPT. Jika di browser chorme juga tidak bisa muncul keterangan tidak di temukan. Tolong dong perbaiki dengan baik,negatif,,True,acak,Teman,B_451-800,,negatif
+793,f94364d0-b453-4478-b481-6ecbbc039e38,2026-02-06 08:26:13,4,1,"apalahh ini sistem pemerintahan loh padahal(kerjaaa woi kalian di gajih),,, tiap kali login ga bisa terus, di haruskan lapor pajak tapi sistemnya bobrok seperti ini? astagfirolloh :(",negatif,,True,acak,Teman,B_451-800,,negatif
+794,c24d791a-3247-4575-a52a-90d7aa196095,2024-03-25 02:58:15,1,4,Sangat mendukung,positif,,True,acak,Teman,B_451-800,,positif
+795,6a1e36e3-c941-40f2-ad0a-a7511ed216e6,2026-03-01 10:16:00,4,1,aplikasi apa ini loginbgak bisa verivikasi gagal terusss adohhhh,negatif,,True,acak,Teman,B_451-800,,negatif
+796,fc0f1234-e0ce-4328-8ab8-dce0a3a267e7,2024-08-31 02:54:56,1,2,"Kalo gk butuh² amat males dah instal nya juga, baru aja download udah di suruh update lagi, hadeuh belum aja di pake udah menghambat🤦‍♀️",negatif,,True,acak,Teman,B_451-800,,negatif
+797,69307eb8-22ac-4baf-bc63-1cff958aa0dc,2024-08-16 03:49:02,1,1,"enggak bisa login, mau di isi informasi akun yg benar juga tetap enggak bisa login, coba pakai cara password juga situsnya enggak bisa di akses, aplikasi apaan ini",negatif,,True,acak,Teman,B_451-800,,negatif
+798,7f2a3606-1c6d-478f-a9f0-c39b79d7f18c,2025-01-21 12:57:53,2,4,Aneh... tampilan kartu npwp di web dan aplikasi beda. Diweb nmr krtu 15 dan 16 digit. Diaplikasi hanya 15 digit,negatif,,True,acak,Teman,B_451-800,,negatif
+799,7bae437a-e8b6-4bdb-823f-c9ee3461f270,2025-08-31 18:50:59,3,1,"Bagaimana mau maju peradministrasian Indonesia termasuk pajak dengan basis daring jika login saja selalu error. Padahal No. NIK/NPWP dan Password sudah sesuai, tapi selalu dinyatakan salah. Teknologi sekencang ini, tapi sistem administrasi daring saja Indonesia masih bobrok. Jangankan pegawainya, website/apk nya saja bisa miskomunikasi. Kalau seperti ini terus, warga juga kesulitan untuk mengurus NPWP.",negatif,,True,acak,Teman,B_451-800,,negatif
+800,966886ea-7bf4-4853-b632-9fdd3ded5de3,2024-03-06 09:18:32,1,1,06 maret 2024 Mau bikin akun aja susahnya ampuuuun👎,negatif,,True,acak,Teman,B_451-800,,negatif
+801,4316da0a-73ff-43a9-8673-5141ca9768cc,2025-03-25 13:36:15,2,5,Aplikasi yang sangat membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+802,35b6fab6-cad3-4358-9725-e931ef7fbbcc,2024-12-23 14:09:47,1,5,Aplikasi yang sangat bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+803,183434e3-c6b1-4cd9-9b8d-06b5f925aa96,2024-02-05 10:11:01,1,5,Baik sangat membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+804,a3ca65fe-a9a8-4ff2-bd34-ae45bd48c883,2026-02-06 03:47:49,4,5,sangat membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+805,77c128a7-e3a6-4633-a0e9-87866d2417c9,2025-06-18 08:14:00,3,5,bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+806,b808babd-8cdf-48db-93db-2228087aaa1d,2025-09-12 10:19:22,3,5,sangat bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+807,f16fec44-11c4-428c-8d0c-996df0089626,2025-02-15 11:06:33,2,4,Makasih Gak perlu lagi minta efin ke kantor pajak karena disinipun bisa dah saya buktikan mgkin yg gk bisa kurang literasi,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+808,f21c445b-81d0-4c50-b479-b049544d8f1d,2026-03-09 09:47:11,4,5,"APLIKASI INI PENIPU 8JT SAYA,SENGAJA KASIH 🌟 5 BIAR KELIATAN",negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+809,c2d90647-2cd7-408f-8cf9-24e5d0eb6ca8,2026-02-25 12:10:26,4,5,good,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+810,40d0f1ea-b789-42d4-b89d-5495b862f6c3,2024-06-20 03:53:51,1,4,Saya coba dlu bintang 🌟🌟🌟🌟 yh min klau bagus selanjutnya saya akan tambahkan lagi bintang,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+811,95cba9e4-2736-4d37-b584-0f4a61f0d5c4,2025-02-18 00:15:27,2,3,"Ini gimana cara daftarnya weyyyy, sedangkan ga ada pilihan mendaftar nyaaaaaaa",negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+812,348c9554-7450-4911-9d37-2fe4fae5b0d5,2026-05-31 00:41:31,4,5,Oke good,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+813,6ea8ba76-e1fc-4459-91f4-31fd90702e74,2026-03-07 23:13:09,4,5,ada nya aplikasi ini jadi semuanya lebih mudah,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+814,2384fe19-bbc0-41f3-a320-3235250af9ed,2025-03-16 16:30:15,2,5,"Lumayan bagus, tapi bagaimana cara kirim kartu npwp ke email ya ?",positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+815,0c96a6e5-b52e-44b8-9cff-288a007819a5,2026-03-07 12:33:58,4,3,sangat membantu memantau pajak hanya saja kurang saat penggunaannya,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+816,f6cbd84b-d825-4fc0-9d23-3ad5438f33e3,2026-07-28 08:55:04,4,5,mantap,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+817,6b6baaef-3308-4c3b-8c78-33f06946a0fe,2025-01-26 12:29:00,2,5,Sangat membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+818,c794c83c-5359-4ca4-951e-4e8ff1a69e42,2026-02-06 16:31:34,4,5,aplikasi yg sangat membantu utk mendaftar djp online,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+819,7bf7dd8e-6771-4580-84d2-cddafe7e4362,2025-03-23 22:30:11,2,5,cukup,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+820,094bee46-76cd-4306-9824-e921b2ab1567,2025-01-28 04:26:22,2,3,Pelayanan CS via WA udah gak ada respon.,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+821,06476746-c53a-49d0-a619-afa93d5184d1,2025-05-20 13:33:37,3,5,"Fix dong, kaga bisa login terus udah sebulan an, saya rating tinggi biar kebaca ama si admin ini",negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+822,c92805dd-3913-47b1-8b32-540744bd8313,2024-03-08 02:21:23,1,5,Mantep.....lgsg dpt efin,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+823,d5879144-f504-4e9c-bb91-878dc80377a0,2025-08-14 06:35:23,3,5,m Pajak no Ribet,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+824,c6d86e45-c30b-4a6a-8717-4c88b19d1d99,2025-01-03 05:10:57,2,5,DJP memang yang terbaik,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+825,3fab115a-a3d7-4518-a721-ca7fd85118d4,2025-01-31 07:46:50,2,5,Sangat membantu dan gak ribet,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+826,cfc831cd-5834-46bf-bb62-bf938e42c49b,2025-01-14 02:56:22,2,5,Mantap,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+827,a71f5f0f-e216-4fa7-8cf3-4fdf8a8e54a1,2025-01-16 14:10:56,2,5,Sangat membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+828,8ed0b43b-83c1-4add-8e60-7bff9d7a5dc8,2025-03-27 02:13:33,2,5,good,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+829,59672a5e-55eb-4f7a-8b57-3a2e5f6aaf0b,2025-08-14 07:20:11,3,5,mantab,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+830,8dbbe069-c270-493d-8852-d672cbf86ce6,2025-08-12 16:25:38,3,4,nice,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+831,026f9fcf-24ed-476d-8fbb-1852bed76fef,2024-04-01 03:37:43,1,5,"Harus sabar, banyak banyak lihat tutorial, alhamdulillah selesai juga pembuatan via online. ""Nikmat Tuhan yg manakah yg kau dustakan""",positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+832,3658e16b-440b-4694-a067-3c6e1f869410,2024-10-18 09:44:57,1,4,kita coba dulu,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+833,04634b06-a2d4-4bd0-a25b-c8f25ea8a064,2025-03-21 10:35:41,2,5,Cek NPWP,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+834,8a70a5ad-d594-44b9-8ef0-52f59522ffab,2025-03-05 10:52:38,2,5,Mantap👍,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+835,5dd20368-2609-42c0-baec-340680113f36,2026-09-01 06:55:10,4,5,"Data udah betul semua✌️✌️ tidak bisa daftar 👍👍 katanya status pekerjaan, hubungan keluarga salah 🤣🤣 dan ada 1 lagi. Kalau g niat mendingan g usah di buat aplikasinya.",negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+836,49ae8131-ae21-493f-aa92-3afeecf79c6c,2025-07-22 12:08:06,3,5,"keren npwp 15 nik 16, iya aja kalo npwp yang dulu",negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+837,f585eab2-b020-490c-84c6-ed401ab9b1fb,2025-05-09 15:19:32,3,5,mantap,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+838,ba56510b-2f1d-4575-9354-281e19457737,2025-09-18 11:21:14,3,5,okebaik,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+839,56ce6f62-c541-4df4-8b93-601f6883edef,2026-02-28 07:24:20,4,5,tolong tingkatkan kemudahan dalam mendapatkan kode Verifikasi bisa melalui whatsapp atau email yang sudah terdaftar karena sangat repot sekali jika hanya melalui SMS yang mana di Indonesia masih banyak daerah yang sulit signalnya.,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+840,666508b0-94f2-4411-9f68-524e74a1dc3c,2025-02-19 04:21:58,2,5,Pas liat ulasan dan rating sempet bikin overthinking krn aku lupa EFIN tapi akhirnya tetep coba download ternyata aplikasinya gak seburuk yg ditulis di ulasan. Mudah & lancar pas digunakan cepet juga dapetin EFIN-nya & langsung dikirim ke email. Tingkatkan terus & semoga semakin baik aplikasinya supaya orang² makin mudah menggunakannya. Terima kasih,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+841,c9177250-e8b1-4039-868f-1ae4ddcbbbe7,2025-01-07 07:29:53,2,3,Kok ga ada fitur efin nya yaa,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+842,4812ed12-1952-4b24-b158-0b75610836a8,2026-03-01 15:38:36,4,5,Mempermudah pelaporan SPPT.,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+843,816c9bc2-8f3d-4c1e-a625-f6616665d6cc,2024-10-14 13:19:07,1,5,Coba wajib pajak,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+844,2ba4bdab-d8cc-4db3-bd44-15a886a63fee,2024-03-31 07:25:04,1,5,Sering kembali ke menu asal padahal sudah mengisi data begitu banyak,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+845,5d6de948-eba0-45dc-81fd-4b17dba58c99,2025-04-01 13:07:52,3,4,lapor SPT bisa di sini ga?,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+846,0cad78fc-7d72-45ab-88af-55387c606b4b,2026-04-29 18:41:42,4,5,apk sampah ga bisa di gunakan,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+847,6b0f32fe-3eee-4104-a0ff-b35a33541c6d,2024-01-20 04:15:14,1,5,Ok mantap,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+848,72135687-e1dd-49ec-8912-4307f5d77f20,2024-03-03 14:16:21,1,5,Oke Bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+849,f16f97c0-82d3-4cba-b2b8-df6a68357693,2025-05-24 17:33:06,3,5,bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+850,8c74a4aa-3713-4422-b6d1-cc8b4087bd9f,2025-03-26 04:46:52,2,5,keren si.... minta EFIN ga harus ke KPP,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+851,05dd64ca-0fdd-4aac-b568-20e7e12d5927,2025-05-03 06:42:48,3,5,mantap,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+852,7aa6b547-7fe6-4429-90d7-a0fa9daa7a39,2026-02-08 02:34:16,4,5,saya tidak bekerja pak. jngan tagih pajak saya dong,negatif,opini_politik,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+853,84576f9c-ec20-403f-8735-1e7ad682f95a,2024-05-09 08:57:35,1,4,Top..aplikasinya,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+854,e2bc7b90-eac2-47a7-a16f-7c0378f30df7,2025-04-20 09:53:23,3,5,sebagai warga negara yang baik kita harus lapor pajak tahunan ...😊,netral,opini_politik,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+855,57c69859-01f7-407f-a613-e7bf4e788fc8,2025-11-12 06:37:17,3,4,"bintang 4 dulu,nanti klo udah bisa baru bintang 5",netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+856,8f0c8109-50d2-4a79-8626-9af4c0496c0b,2025-02-19 19:25:28,2,5,Terima kasih,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+857,45fdc61f-b5e4-4e1c-b019-ba1022d0d740,2025-10-14 02:25:49,3,5,sangat bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+858,7b3ddd97-df03-4301-b724-c0b5f26a00a6,2025-03-11 00:38:07,2,5,"Terima kasih, terbukti sangat membantu, tidak capek-capek ke kantor pajak🙏",positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+859,235b73d5-e32b-4f26-9b00-bed5b27582d4,2026-05-08 04:29:20,4,5,bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+860,598e2465-4491-4e1b-a4d0-8a5b450f95aa,2025-01-26 09:35:10,2,5,"Mantap, berfungsi dengan baik",positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+861,1eced434-f3c1-4d2c-bf3c-6c8cc71c624f,2026-04-21 09:00:59,4,4,bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+862,f6301f7b-64af-4d22-93c4-82fef4abcb81,2025-02-04 09:06:00,2,5,pelayanan pajak prima dan praktis,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+863,db969bbc-3713-4b75-a3df-e7ce1fcb17f0,2024-09-08 11:58:44,1,5,Good job! :),positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+864,788ff6de-3031-4743-81db-5ae692cfb104,2024-02-17 02:05:44,1,5,Mantab!!,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+865,4862662c-7206-469b-a811-1b4632ec17bc,2024-08-18 23:45:14,1,5,Bulan Juni kalau nggak Juli kemarin aku unduh apk ini karna lupa efin. Mudah tapi untuk nunggu email buat Nerima kode nya laaaamaaaaaaa bangtt gak ada masuk malah.. berkali² dicoba dihari² brikutnya masih sama.. pilih dikirim pakai nomor juga gak bisa.. trus pasrah.. hapus apk.. trus sekarang iseng² lagi eh bisaa.. cepet lagi nggak kaya yang bulan² kemarin.. lancar sampai bisa lihat kartu NPWP online ku.. terimakasih sudah di update untuk pelayanannya.. SAYAA SANGAATTT TERBANTUUU TERIMAKASIH 🙏,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+866,3416a2ba-48a4-4f58-8e7c-f89a501694a5,2025-12-15 11:47:52,3,5,"PERLU DIEVALUASI KEMBALI APLIKASI INI, UNTUK LOGIN SAJA ERROR TERUS. SENGAJA SAYA KASIH BINTANG 5 BIAR DIBACA!",negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+867,4723261d-6e53-4e94-9aef-baa39822886c,2024-04-11 00:25:19,1,4,Bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+868,1e65adbf-8aae-4090-a48b-3fdaf9926e78,2026-04-06 11:35:00,4,5,suuulit,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+869,662f18e9-6e0a-4726-92bc-455ff3045e77,2025-03-25 15:01:32,2,5,Sangat baik aplikasinya,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+870,f2d53e42-7f20-4fe1-a387-b557b96d656f,2025-06-03 14:46:27,3,3,di perbaiki lagi,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+871,b008f5fc-aada-4cee-9b90-75e30b9387da,2025-03-06 09:36:27,2,5,Yang aku maah blm. Log in.,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+872,ed083529-d52b-4c39-96a1-7446cbc0eb63,2025-05-11 16:13:55,3,5,kurang tanggap terhadap keluhan tapi maklum harus menunggu perhitungan tahunan.,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+873,9b05a1fc-1fe3-4e1e-800d-cc2448f5fb07,2026-02-13 08:38:52,4,5,propesional,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+874,efeb5728-8848-4ad4-b5aa-65e9069224cd,2024-02-17 00:59:57,1,5,Membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+875,4b96b5ae-8a5a-4c2c-9b32-a5073bd3a7fa,2025-04-16 23:35:05,3,5,saya baru membuka aplikasi ini semoga mempermudah saya utk pengurusan pajak dll trima kasih,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+876,340fd1cf-925e-4015-a96f-8d9b9f4b3069,2025-10-20 13:23:53,3,5,aplikasi yang bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+877,54ece485-a19f-4fdd-a4f4-ad7febeb2135,2024-03-07 02:47:48,1,5,sangat terbantukan,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+878,b5d2bb9f-48c7-4705-b286-48df690564b7,2025-05-18 12:39:29,3,5,sangat bagus memudahkan,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+879,943edd8f-bdaf-448c-85ab-c52e4771209a,2025-05-02 09:50:51,3,5,mantab,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+880,794394a0-cae9-4ab5-9e53-e085373a69e9,2025-12-17 03:42:32,3,5,sangat membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+881,c19c1cd3-cfc6-4341-878a-76a79d3be91a,2024-09-11 04:21:21,1,5,Thanx,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+882,9d6f2ea7-9678-42ad-8eb1-aae6e8133ae8,2025-03-08 12:28:03,2,4,Okrh,netral,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+883,77708447-8743-47a0-a689-26b9b96af0bc,2024-12-03 10:08:11,1,5,👍👍👍👍👍,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,netral
+884,df119017-f976-4b9a-87e8-2e51bd6830c9,2026-05-03 13:25:50,4,4,kenapa ya gk bisa swafoto,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+885,ccecd062-f759-4e8c-8d19-903f52f0931d,2026-03-11 01:37:44,4,5,selalu mudah dalam proses,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+886,4a811336-81e9-41e2-a402-7c53225553d2,2025-01-08 14:13:40,2,5,Sangat membantu,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+887,2033fe06-20ef-414b-bfca-3260d145cf27,2026-04-29 01:25:34,4,3,"gk pernah bisa masuk setelah log in, layar blank putih, dan saran untuk informasi pengikinian data dukcapil dibuat automatis koneksi ke dukcapil, atau alternatf bisa secara online, karna tdk semua org bisa utk kekantor pajak langsung",negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+888,8b6939a0-8eb5-4c77-9e5c-27e3c01d9ba5,2024-03-05 09:45:07,1,5,Sangat mudah bagi saya yang lupa efin cok,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+889,f1bbc127-15cf-424a-aabc-932bb906c0e1,2026-04-08 07:43:59,4,5,waw mantap,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+890,cb600f7b-ee88-4019-aa18-619bee517e56,2025-03-18 03:12:10,2,5,sangat membantu dan tidak ribet,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+891,baf2b007-8253-489f-858d-61b045737815,2024-01-27 08:56:19,1,3,Di aplikasi ini di tidak bisa login pake NIK sedang di website bisa pake nik. Perlu di tingkat kan lagi kalo sudah bisa login pake nik saya ganti bintang 7,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+892,2180b3da-c580-468d-a4c6-26e1aee23ab2,2025-07-26 19:15:33,3,5,dengan aplikasi m.pajak sangat membantu wajib pajak,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+893,4b539c03-a47b-4181-b1c4-2955fdf9eb68,2025-06-09 19:07:20,3,5,Sangat Bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+894,ec0cd828-40df-4188-98c5-ffaef13bb135,2024-03-30 07:50:49,1,5,The best,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+895,37d267c5-1996-497a-96bb-8021f30e2024,2024-11-29 02:22:23,1,5,Cukup membantu dan bagus,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+896,c6c2226b-3331-400a-a359-2737d833c213,2026-02-10 05:04:14,4,5,bermanfaat untuk pelaporan pajak secara digital,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+897,9964a75c-7237-462b-91d4-94d23b0e9a1b,2026-05-21 22:39:10,4,5,good,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+898,c716a208-1a56-4e43-9488-407789ab8d23,2024-07-19 08:09:26,1,5,"Alhamdulillah NPWP saya sudah terdaftar.... makasih banyak. Awalnya mengalami kesulitan,ulang terus menerus,berkali kali, akhirnya lengkap sudah pengisian saya NPWP per orangan",positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+899,735aac31-7727-4520-ae1e-ed8d02466713,2024-03-04 04:01:38,1,5,Sangat bagus 👍👍👍👍👍👍👍👍,positif,,True,tambahan_bintang3-5,Rifky,C_801-900,,positif
+900,b459acc0-37c1-4ff1-91da-98f00ddd72f6,2025-06-25 12:22:15,3,4,ribet ngisi spt,negatif,,True,tambahan_bintang3-5,Rifky,C_801-900,,negatif
+901,0f5111b3-a189-4dff-ada7-8d463d7cf586,2024-03-02 16:02:20,1,3,Kaga bisa lapor SPT padahal kalo bisa lapor SPT mah lumayan bagus nih app,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+903,6aa3838d-fd68-47d2-9e70-af7bba81d06f,2025-04-16 01:17:38,3,5,very good,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+904,dd53ee8a-5249-4ba9-ac73-03cb953c841a,2025-05-12 01:59:53,3,3,"Tolong di perbarui untuk pengajuan EFIN. Karena NPWP sekarang 16 digit, sedangkan di aplikasi masih 15 digit. Terimakasih",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+905,427e4f84-b33b-420e-b9b7-76b5cb2c799a,2025-04-11 04:13:43,3,5,memufmdahkan,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+906,03754b94-4622-4b88-ab17-c9dea331dcd3,2025-08-11 07:26:33,3,5,"Terima kasih atas pelayanannya, semoga lebih baik kedepannya.",positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+907,097e87ae-b4ce-49b6-b67c-8fbd9c52c989,2024-01-31 04:40:12,1,5,Oke Mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+908,5f7e1581-3556-42e8-a60b-295ac3665bed,2025-03-27 14:43:14,2,5,bagus sangat membantu,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+909,307b9a8a-1b1d-4daa-adb6-50508ccc3619,2025-06-15 00:47:19,3,5,sangat baik..,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+910,5a930c37-1256-4239-9f84-9c518d265a93,2025-12-26 19:38:46,3,3,nomor npwp saya 16 digit sedangkan di aplikasi ini hanya bisa input 15 digit hasilnya npwp tidak ditemukan. tolong diperbaiki,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+911,67bf5c91-e1fd-451c-a56b-1ccba2599522,2026-04-18 10:59:15,4,3,kami setiap thn sllu aktik bayar pajak,netral,opini_politik,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+912,aeb2eb21-19bb-4d5e-b47c-aad8dca684da,2024-12-17 02:12:29,1,5,sangat membantu,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+913,141fb1f7-6531-466b-96b1-e19e8c85c3e0,2026-02-10 11:42:00,4,5,mpwp taat pajak mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+914,c9adc749-04e2-4568-9bd6-81c709eb001a,2026-02-06 02:54:29,4,5,Bagus,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+915,b7ad3fcd-8973-4cf9-9d78-26b48dfd93ec,2025-03-06 08:02:33,2,5,Mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+916,bc1353c6-df3c-4aec-a2bf-344363d80bf8,2025-05-13 15:21:39,3,5,sangat baik,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+917,8be23723-9afb-4198-9c74-7e76e8877249,2025-03-26 04:31:49,2,5,apk super mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+918,45a03312-6ae7-443e-a81c-896b13373311,2024-01-31 14:10:26,1,5,Bagus,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+919,cfd91fb1-4001-4e6f-867d-d9def726eaef,2026-06-10 06:40:19,4,5,amanah dan terpercaya,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+920,930ad931-0d81-4e22-a740-9292f72749d4,2024-03-18 04:37:17,1,3,"Error, loading minta di update terus padahal sudah terupdate..mohon diperbaiki",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+921,de446774-e761-41ea-88aa-3ece13177d60,2024-12-20 12:39:49,1,3,"Kanapa ya pasa saya mau daftar efein malah ga bisa pas, pengiriman kode otp nya",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+923,e272be83-9139-440d-9cf9-4004705be079,2026-04-09 15:35:59,4,5,mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+924,9bdf0b88-d18e-46f5-b20e-673a8c1b79d4,2026-02-20 05:09:06,4,5,bagus,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+925,aeeb2c31-b08a-4dee-aa62-b5735f0a12d9,2024-05-30 10:17:58,1,4,Aplikasi bikin nga liyer keun daftar langkah ke 2 susah msukan kode otp blik lg blik lg malah plz habis daftar gak bisa bisa,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+926,caca62e8-b25e-426d-a6cc-5c13b0f83807,2024-10-23 01:41:52,1,5,Saya sangat terbantu,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+927,f28830ab-e85a-4d37-9ba0-8b3befb482a9,2026-06-22 04:07:58,4,3,"login aja susah nya minta ampun, tolong di niatin doang",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+928,331ef867-3997-4c5d-8f46-dacf30504a8a,2025-05-15 22:26:51,3,4,bagus aplikasi nya tp Masih ada yg kurang,netral,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+929,1ef35248-ba4f-42a5-904e-d6273c19a2ba,2025-01-26 02:34:49,2,5,"Alhamdulillah,,,, proses permintaan efin sangat cepat, gk perlu waktu lama lgsg dikirim ke email. Mantap",positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+930,2685f3a0-45d2-4bb7-8b26-cff9cbd04561,2024-01-16 02:04:47,1,5,Mantaap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+931,345a0857-2a7c-4d8c-a164-302d8ca68616,2026-02-10 08:05:14,4,5,mantul,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+932,abc0ba6c-4396-45d2-993c-fc594208987c,2024-01-25 11:00:01,1,5,Dapat mempermudah dalam pengecekan dan cepat mendapat informasi. makasih,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+933,4df4b9ae-9029-4afc-8446-5bed0d64119b,2025-03-19 06:02:12,2,5,Biarkan bintang yg berbicara,netral,,True,tambahan_bintang3-5,Teman,C_901-1000,,netral
+934,9b84a2e4-cf6f-4ee3-a827-44b314de09b0,2026-03-08 23:46:28,4,5,baik,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+935,8fd1c9f0-6275-4b94-85de-bac57aec93ef,2024-03-05 19:07:05,1,4,Great good...!!!!,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+936,b868db21-f78e-4218-8b94-44a8887ea2a4,2025-09-26 07:37:14,3,5,saya simpulkan dari komentar yang bintang 1 sampe 5...ini apk SAMPAH,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+937,0002a834-91fa-4005-9cc7-89efa47dcbf7,2024-07-15 00:23:22,1,5,Wao emezing,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+938,dec66094-e0aa-4dc4-8e4a-cce1269e3997,2025-10-12 05:57:27,3,5,sangat bagus maksih yh,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+939,5c13e19e-c79f-4512-881d-83d4d96b619b,2025-01-20 02:44:54,2,5,Sangat membantu,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+940,1c335cd1-3908-4ad6-9f0c-c1c3eaed73ba,2025-04-24 13:29:30,3,5,Agar dpt mengetahui lokasi perpajakan.,netral,,True,tambahan_bintang3-5,Teman,C_901-1000,,netral
+941,cb683c78-83e8-4259-93b5-23b40a0ea916,2026-07-04 00:13:05,4,5,aku pikir bisa bayar pajak di aplikasi ini. setelah aktifasi gak jelas ini aplikasi. aku liat retting nya semua sama,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+942,0db2bc33-2ec0-4c9d-b348-b40c7b9fd6ee,2026-02-09 07:55:35,4,5,Bagus,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+943,bb80bb04-f550-4e1c-bbbe-32493bc802ca,2026-04-11 09:55:07,4,5,saya udah dipandu terimakasih,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,netral
+944,15ad34bc-3d22-4e71-8446-ebc78eb9fbe9,2024-05-20 11:49:33,1,5,Aplikasi informatif dan mudah dipahami,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+945,d3a4d08a-636f-481a-9a65-54fda76cb36c,2025-01-04 02:10:27,2,5,Ok 👍,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,netral
+946,7399a677-b7c1-4a73-b9e9-df4a3c5b2703,2024-02-06 20:27:28,1,5,Ben seneng,netral,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+947,5cb70969-66eb-49d4-9820-09fe414c934c,2024-12-31 14:40:16,1,3,"Belum daftar tapi di suruh masuk, percuma juga kartu NPWP di buat",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+948,6cef2b73-2aaa-4359-b43f-1dbf6869f8bb,2025-05-15 10:05:05,3,4,tolong di perbaiki aplikasi nya soalnya no npwp saya 16 digit tapi yg di sediakan di kolom npwp hanya 15 digit 🙏🙏,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+949,ee23ad4e-5cb4-4578-92cb-423d6a24784d,2025-03-25 14:21:34,2,5,mitra pelaporan yg cerdas,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+950,4e1f7c6b-7cb0-4cce-a23d-0d55adcd5d26,2025-03-25 05:10:01,2,5,terbaik,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+951,ef025d47-9ae1-447d-ad78-41564f240233,2026-01-15 08:42:52,4,5,sangat bermanfaat,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+952,6df028a0-7cd0-4a2e-96d1-729335e3e4a8,2026-02-01 03:15:58,4,5,M-Pajak..👍💯💪,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+953,48907f2b-5431-4518-a85e-5d0a12d3c0ab,2025-02-11 10:27:25,2,4,Bagus,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+954,11fd0922-dcc0-492f-a801-e2db68794fc1,2024-01-12 01:34:11,1,3,"Assalamualaikum... Kalau mau ganti nomor kontak gimana caranya? Soalnya kode verifikasi efin ternyata dikirim ke nomor kontak yang lama, terima kasih.",netral,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+955,481d02f6-b36b-4255-9f14-d3793188ff64,2024-10-10 03:38:38,1,5,"Kak agak susah dftarnya,pdhal sdh dtulis smua syaratnya",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+956,5a9c036f-ee21-4d5d-8354-3d6c1b8f34cf,2025-01-17 12:44:18,2,5,Cepat selesai,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+957,4a5518de-fff7-4068-b6e3-093cff2d5d7e,2026-07-29 13:36:50,4,5,agak susah masuk pajak,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+958,71e4727b-d0cb-4fb2-9b08-f9b2cb1bc21d,2025-09-02 23:30:24,3,5,okok,netral,,True,tambahan_bintang3-5,Teman,C_901-1000,,netral
+959,91f60a87-08be-489b-9d51-c03b574d9ed6,2024-01-10 18:10:19,1,5,Sangat membantu sekali,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+960,d86972a8-f3ef-4574-a4f5-604c959593e1,2025-01-11 14:34:06,2,5,Good apk,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+961,31bc5369-d64f-4ac7-bcb6-2902b7a059be,2026-08-23 00:52:41,4,5,"Excellent,keep working",positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+962,3a507fff-9f3e-4a95-af4b-3591af937981,2025-12-12 23:54:48,3,5,baik,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+963,4a463029-18d2-4bcb-9c74-63be1c3d0fa1,2026-06-14 01:47:07,4,5,mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+964,5d7ab5e1-5590-4f58-a258-c40c40767652,2026-03-12 12:26:55,4,5,sangat membantu utk pelaporan pajak dan sebagainya,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+965,e1f335e5-16a8-4d7e-a43c-5135c4bdddc7,2025-02-27 01:09:09,2,5,Josss,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+966,52fe2917-ea6b-4065-ba8f-18b89d73abba,2025-02-06 17:14:19,2,5,aplikasi tidak bisa terbuka,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+967,2cd8e4fe-3bba-4cb8-b3ed-fc306825702f,2025-12-31 04:16:15,3,5,baik,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+968,281dffdf-cb52-423a-a3b2-fd7b8c831427,2025-02-07 18:37:25,2,4,"Formula ,bagai mana menganti nomor telpon yang terdaptar, tidak dapat nomor porpikasi",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+969,66cabe0d-2f5d-4209-9a59-663d45c3ccd1,2026-06-16 03:32:31,4,5,bagus,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+970,de87ee0f-f46d-4986-9ee8-5ab4acb4f338,2025-02-19 12:04:03,2,5,Cepat dan mudah,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+971,53e61ebe-5e1e-49ab-ad25-d84821519268,2024-03-15 00:13:54,1,5,Good,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+972,67e7f2eb-d0a5-463e-87fb-1816e0cdefba,2025-02-20 02:24:51,2,4,"Sudah bagus ada aplikasi DJP online, tapi sayang tdk bisa untuk laporan SPT Tahunan.",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+973,99546b03-7a84-43ba-8b2c-4d1163265733,2024-05-24 17:28:42,1,5,mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+974,e87c465a-ef84-4f91-8b2a-17f5cc8d5923,2025-02-28 02:34:56,2,5,"Pa bisa ga, kalau maun minta nomor efin nya lewat email aja ? Kalau mesti datang ke kantor pajaknya, kayaknya ngabisin waktu, tenaga, dan biaya",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+975,9eb79801-9187-4e3b-91d4-7139fac64df2,2026-03-04 05:40:13,4,5,karyawannya baik hati dan sangat membantu jika ada yg tidak bisa dibuat sendiri,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+976,77ff8826-0e97-46db-ad22-15fca0263f9c,2026-04-04 21:36:01,4,5,sangat membantu aplikasi ini,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+977,a01bc778-ab17-4bb3-a689-6347707f5060,2025-11-26 08:07:42,3,5,need to improve,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+978,ae0d4176-77c9-4751-b726-4d90d58e7956,2024-12-09 07:03:09,1,3,Untuk bagian lupa efin setelah dapat kode verifikasi via sms kenapa tombol verifikasi kode nya gak bisa d tekan dn gk brubah jd warna biru gitu.. alhasil gagal terus ini proses recovery akunnya..,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+979,d042c5ef-4b2e-42bf-b989-8b0d7e17e80f,2026-03-11 03:59:21,4,5,terimakasih dengan adanya aplikasi ini memudahkan saya untuk mengisi SPT Tampa harus ke kantor pajak,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+980,32d7d174-c66f-4612-a9a7-e901ae6a56de,2026-03-09 02:42:11,4,5,aplikasih ini sangat bagus dan membantu dengan keperluan saya yang menyakut dengan pajak,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+981,be1bb75a-677a-4efd-b68b-ebf4548243ea,2024-10-28 08:57:01,1,5,Ok mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+982,066f00e7-ef25-4d58-ac15-d36e45f99972,2025-01-26 08:45:54,2,3,Saya ingin mendaptar mpwp kok sulit. Caranya,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+983,8180a055-b671-484b-90dd-ce68f058a4d5,2025-12-30 10:08:49,3,3,aplikasi gaje,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+984,8ba62550-82e7-4825-bb5e-a1036dbd127f,2025-10-06 04:58:26,3,5,saya tidak bisah cetak kartu NPWP di kantor npwp gimana caranya supayah saya bisah cetak kartu npwp,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+985,6dbcfd43-8dcd-45df-996c-6052e245de21,2026-06-28 14:06:32,4,4,"ni aplikasi gunanya apa ya, masa udah login akun coretax login nya di web, aelah ga sama kaya super app polri.",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+986,e84001ce-1642-40c5-8165-5c9b555d9c65,2025-09-12 09:26:50,3,5,sangat membantu,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+987,bf1f2fb9-64d5-47e0-a979-4139332e75a1,2025-01-24 05:50:19,2,3,Buat temen temen yang lupa efin mending langsung ke kantor pajaknya soalnya kalau lewat wa atau live cht lama dan susah malah kita di buat susah apa lagi nunggu kode ini itu,negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+988,cffaf01d-7b69-401e-8e43-746a0d83d912,2025-04-16 10:05:05,3,5,memuaskan,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+989,454332b6-a26f-44e6-94bc-8e1d14d8138f,2025-03-01 00:45:12,2,5,Keren,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+990,c3d3d5e8-f13d-43dc-9362-09de7def5c3d,2025-01-29 12:26:12,2,5,Baik,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+991,5035490f-bce6-4916-887f-3ad1d0eb6845,2025-09-12 14:06:59,3,5,sangat mudah di akses,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+992,1816babb-3996-4975-91ad-5c9fe2a033ae,2026-02-04 14:16:24,4,5,good,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+993,e2e18cdc-38ba-44c9-a8be-cef5e0ecec34,2024-05-18 07:37:14,1,5,mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+994,dba67282-555b-4af9-bd82-e7a216078e17,2026-02-11 05:15:20,4,5,lebih baik dari sebelumnya,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+995,705f6fa0-d681-4124-b6c7-05b3e4015513,2025-03-23 03:33:23,2,5,"tolong di perbaiki coretax untuk berubah email dan pasword, karena tidak ada cetang di daftar kontak kami tidak bisa mendapatkan email. kami mohon segera di tindaklanjuti",negatif,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif
+996,793e1488-1e40-4361-b0c4-1c93415a9005,2025-07-27 03:41:39,3,5,congratulations🎉🥳👏,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,netral
+997,c96ba985-1c8d-4fb0-8660-2cea49c179c2,2024-09-05 09:57:36,1,4,Bagus,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+998,56251ed9-ceb0-4fc4-abc0-44ede450ad42,2025-03-14 02:24:56,2,5,Jos mantab,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+999,c8c839d6-b29c-4061-a1b6-502411725901,2026-04-06 04:22:55,4,5,mantap,positif,,True,tambahan_bintang3-5,Teman,C_901-1000,,positif
+1000,70c489cf-b6a7-44d3-9ade-21bfaab54aeb,2025-05-27 05:42:18,3,5,Kadang orng tidak paham memakai apk ini,netral,,True,tambahan_bintang3-5,Teman,C_901-1000,,negatif

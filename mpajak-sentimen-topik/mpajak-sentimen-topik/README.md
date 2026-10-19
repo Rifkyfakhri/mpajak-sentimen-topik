@@ -73,4 +73,4 @@ Scraper `google-play-scraper` tidak resmi; hasil dapat berbeda antar waktu. Ulas
 
 ## Sitasi
 
-Rifky Fakhri Maulana Srg, Bobby Marbun, Muhammad Yoga Khodani, Rizaldi. (2026). *Analisis Longitudinal Sentimen dan Topik Keluhan Pengguna Aplikasi M-Pajak Periode 2024–2026*. GitHub. [URL REPOSITORI]
+Rifky Fakhri Maulana Srg, Bobby Marbun, Muhammad Yoga Khodani, Rizaldi. (2026). *Analisis Longitudinal Sentimen dan Topik Keluhan Pengguna Aplikasi M-Pajak Periode 2024–2026*. GitHub. [https://github.com/Rifkyfakhri/mpajak-sentimen-topik]
